@@ -1,0 +1,2504 @@
+match_type,batsman,batting_team,runs,balls,dismissals,strike_rate,team2
+odi,A Aitken-Drummond,Scotland,78,114,7,68.42105263157895,Hong Kong
+odi,A Ashok,New Zealand,10,12,1,83.33333333333334,Bangladesh
+odi,A Athanaze,West Indies,306,378,13,80.95238095238095,England
+odi,A Bagai,Canada,614,995,22,61.70854271356784,United States of America
+odi,A Balbirnie,Ireland,2628,3557,79,73.8824852403711,Bangladesh
+odi,A Beggs,Ireland,0,2,1,0.0,Bangladesh
+odi,A Bohara,Nepal,13,14,0,92.85714285714286,Oman
+odi,A Bosch,South Africa,355,481,14,73.8045738045738,Sri Lanka
+odi,A Brindle,England,608,893,18,68.08510638297872,Bangladesh
+odi,A Canning,Ireland,92,169,15,54.437869822485204,Bangladesh
+odi,A Capsey,England,307,415,16,73.97590361445782,Bangladesh
+odi,A Codrington,Canada,33,79,6,41.77215189873418,United States of America
+odi,A Dalzell,Ireland,35,71,3,49.29577464788733,Bangladesh
+odi,A Dananjaya,Sri Lanka,321,446,21,71.97309417040358,Australia
+odi,A Das,India,1,11,1,9.090909090909092,Pakistan
+odi,A Dercksen,South Africa,346,359,7,96.37883008356546,Sri Lanka
+odi,A Dutt,Netherlands,194,334,26,58.08383233532935,Zimbabwe
+odi,A Flintoff,England,2033,2288,58,88.8548951048951,Bangladesh
+odi,A Flintoff,ICC World XI,63,78,2,80.76923076923077,
+odi,A Flower,Zimbabwe,332,472,9,70.33898305084746,India
+odi,A Gardner,Australia,1175,1168,39,100.59931506849315,Pakistan
+odi,A Hartley,England,4,28,1,14.285714285714285,Bangladesh
+odi,A Hlubi,South Africa,10,19,2,52.63157894736842,Sri Lanka
+odi,A Hunter,Ireland,977,1164,33,83.93470790378007,Bangladesh
+odi,A Johnson,Canada,438,460,20,95.21739130434783,United States of America
+odi,A Khaka,South Africa,110,236,20,46.61016949152542,Sri Lanka
+odi,A King,Australia,195,214,11,91.1214953271028,Pakistan
+odi,A Kolan,United States of America,155,297,8,52.18855218855219,Papua New Guinea
+odi,A Kumble,Asia XI,24,49,1,48.97959183673469,
+odi,A Kumble,India,84,212,11,39.62264150943396,Pakistan
+odi,A Lister,Scotland,213,253,7,84.18972332015811,Hong Kong
+odi,A Maregwede,Zimbabwe,108,182,8,59.34065934065934,India
+odi,A Martin,West Indies,10,29,1,34.48275862068966,England
+odi,A Mazvishaya,Zimbabwe,54,121,3,44.62809917355372,India
+odi,A McGrath,England,155,342,9,45.32163742690059,Bangladesh
+odi,A Minny,South Africa,106,130,1,81.53846153846153,Sri Lanka
+odi,A Mishra,India,43,87,7,49.42528735632184,Pakistan
+odi,A Mithun,India,51,57,3,89.47368421052632,Pakistan
+odi,A Mohammed,West Indies,232,568,24,40.845070422535215,England
+odi,A Munisar,West Indies,4,24,2,16.666666666666664,England
+odi,A Nao,Papua New Guinea,54,71,7,76.05633802816901,Ireland
+odi,A Ndiraya,Zimbabwe,428,624,15,68.58974358974359,India
+odi,A Nehra,Asia XI,1,2,1,50.0,
+odi,A Nehra,India,89,172,19,51.74418604651163,Pakistan
+odi,A Neill,Scotland,29,43,2,67.44186046511628,Hong Kong
+odi,A Nel,South Africa,123,159,9,77.35849056603774,Sri Lanka
+odi,A Nortje,South Africa,40,60,6,66.66666666666666,Sri Lanka
+odi,A Patel,Canada,25,30,1,83.33333333333334,United States of America
+odi,A Phillip,West Indies,22,25,1,88.0,England
+odi,A Rawat,India,153,188,1,81.38297872340425,Pakistan
+odi,A Reddy,India,30,54,3,55.55555555555556,Pakistan
+odi,A Saud,Nepal,189,401,9,47.13216957605985,Oman
+odi,A Shahzad,England,40,62,5,64.51612903225806,Bangladesh
+odi,A Shamshudeen,Canada,3,30,1,10.0,United States of America
+odi,A Sharafu,United Arab Emirates,369,553,22,66.72694394213381,Papua New Guinea
+odi,A Sharma,India,108,158,5,68.35443037974683,Pakistan
+odi,A Sharma,United Arab Emirates,369,521,18,70.8253358925144,Papua New Guinea
+odi,A Shrubsole,England,199,258,22,77.13178294573643,Bangladesh
+odi,A Steyn,South Africa,781,1278,27,61.111111111111114,Sri Lanka
+odi,A Sutherland,Australia,765,848,20,90.2122641509434,Pakistan
+odi,A Suwanchonrathi,Thailand,3,4,1,75.0,Netherlands
+odi,A Symonds,Australia,3589,4047,86,88.68297504324191,Pakistan
+odi,A Tector,Ireland,39,63,5,61.904761904761905,Bangladesh
+odi,A Vala,Papua New Guinea,1783,2594,57,68.7355435620663,Ireland
+odi,A Valthapa,United Arab Emirates,14,22,1,63.63636363636363,Papua New Guinea
+odi,A Wellington,Australia,6,17,3,35.294117647058826,Pakistan
+odi,A Zampa,Australia,362,563,35,64.29840142095915,Pakistan
+odi,A Zimunu,Zimbabwe,28,34,2,82.35294117647058,India
+odi,A le Breton,South Africa,3,6,0,50.0,Sri Lanka
+odi,A van der Merwe,Ireland,4,4,0,100.0,Bangladesh
+odi,AA Alleyne,West Indies,448,720,27,62.22222222222222,England
+odi,AA Deshpande,India,32,69,1,46.3768115942029,Pakistan
+odi,AA Jangoo,West Indies,153,170,4,90.0,England
+odi,AA Mulla,Canada,150,160,8,93.75,United States of America
+odi,AA Obanda,Kenya,487,704,16,69.17613636363636,New Zealand
+odi,AA Paradkar,United States of America,51,85,4,60.0,Papua New Guinea
+odi,AA Shafique,Oman,13,33,1,39.39393939393939,Papua New Guinea
+odi,AAP Atkinson,England,104,81,6,128.39506172839506,Bangladesh
+odi,AB Agarkar,India,352,552,35,63.76811594202898,Pakistan
+odi,AB Barath,West Indies,394,629,14,62.63910969793323,England
+odi,AB Dinda,India,21,38,5,55.26315789473685,Pakistan
+odi,AB Kaur,India,78,128,8,60.9375,Pakistan
+odi,AB de Villiers,Africa XI,111,100,4,111.00000000000001,Asia XI
+odi,AB de Villiers,South Africa,9324,9388,167,99.31827865360034,Sri Lanka
+odi,AC Agar,Australia,322,400,13,80.5,Pakistan
+odi,AC Botha,Ireland,265,419,13,63.24582338902148,Bangladesh
+odi,AC Cummins,Canada,21,23,1,91.30434782608695,United States of America
+odi,AC Dawson,South Africa,23,32,0,71.875,Sri Lanka
+odi,AC Evans,Scotland,66,92,5,71.73913043478261,Hong Kong
+odi,AC Gilchrist,Australia,4355,4260,110,102.2300469483568,Pakistan
+odi,AC Jayangani,Sri Lanka,2924,3792,81,77.1097046413502,Australia
+odi,AC Kerr,New Zealand,1854,2473,50,74.96967246259604,Bangladesh
+odi,AC Voges,Australia,798,956,18,83.47280334728033,Pakistan
+odi,AD Hales,England,2330,2483,61,93.83809907370116,Bangladesh
+odi,AD Janakanthymala,Sri Lanka,1,15,1,6.666666666666667,Australia
+odi,AD Mascarenhas,England,245,262,10,93.51145038167938,Bangladesh
+odi,AD Mathews,Sri Lanka,5646,6934,155,81.4248629939429,Australia
+odi,AD Poynter,Ireland,65,134,6,48.507462686567166,Bangladesh
+odi,AD Russell,West Indies,1034,805,39,128.4472049689441,England
+odi,ADJ Pitcher,Bermuda,8,12,1,66.66666666666666,Sri Lanka
+odi,ADR Campbell,Zimbabwe,7,25,1,28.000000000000004,India
+odi,ADS Fletcher,West Indies,305,503,23,60.63618290258449,England
+odi,AE Jones,England,2193,2604,63,84.21658986175116,Bangladesh
+odi,AE Satterthwaite,New Zealand,2895,3618,58,80.01658374792703,Bangladesh
+odi,AE Smith,South Africa,45,30,1,150.0,Sri Lanka
+odi,AF Buurman,Netherlands,26,34,2,76.47058823529412,Zimbabwe
+odi,AF Giles,England,286,390,14,73.33333333333333,Bangladesh
+odi,AF Milne,New Zealand,180,211,15,85.30805687203792,Bangladesh
+odi,AF Sattaur,Canada,20,63,3,31.746031746031743,United States of America
+odi,AG Cremer,Zimbabwe,507,897,40,56.52173913043478,India
+odi,AG Prince,Africa XI,78,120,1,65.0,Asia XI
+odi,AG Prince,South Africa,683,1006,21,67.89264413518886,Sri Lanka
+odi,AG Puttick,South Africa,0,5,1,0.0,Sri Lanka
+odi,AG Wharf,England,19,29,2,65.51724137931035,Bangladesh
+odi,AGC Vimukthi,Sri Lanka,7,28,1,25.0,Australia
+odi,AGS Gous,United States of America,403,450,10,89.55555555555556,Papua New Guinea
+odi,AH Maqsood,Scotland,20,50,6,40.0,Hong Kong
+odi,AH Thomson,Netherlands,16,37,2,43.24324324324324,Zimbabwe
+odi,AI Chudasama,United States of America,121,173,6,69.94219653179191,Papua New Guinea
+odi,AJ Bichel,Australia,258,291,9,88.65979381443299,Pakistan
+odi,AJ Blackwell,Australia,953,1258,25,75.75516693163752,Pakistan
+odi,AJ Burger,Namibia,199,204,6,97.54901960784314,Oman
+odi,AJ Finch,Australia,5188,6135,134,84.56397718011411,Pakistan
+odi,AJ Hall,South Africa,387,464,20,83.40517241379311,Sri Lanka
+odi,AJ Healy,Australia,2759,2897,78,95.23645150155333,Pakistan
+odi,AJ Hosein,West Indies,266,375,17,70.93333333333334,England
+odi,AJ Ireland,Zimbabwe,12,64,6,18.75,India
+odi,AJ Kenealy,Ireland,39,95,6,41.05263157894737,Bangladesh
+odi,AJ McKay,New Zealand,12,47,4,25.53191489361702,Bangladesh
+odi,AJ Redmond,New Zealand,152,266,6,57.14285714285714,Bangladesh
+odi,AJ Stewart,England,287,409,10,70.17114914425427,Bangladesh
+odi,AJ Strauss,England,3729,4732,107,78.80388841927304,Bangladesh
+odi,AJ Turner,Australia,192,165,6,116.36363636363636,Pakistan
+odi,AJ Tye,Australia,57,48,4,118.75,Pakistan
+odi,AK Maguire,Ireland,22,35,4,62.857142857142854,Bangladesh
+odi,AK Markram,South Africa,2202,2304,60,95.57291666666666,Sri Lanka
+odi,AK Perera,Sri Lanka,52,83,4,62.65060240963856,Australia
+odi,AK Peters,West Indies,6,29,3,20.689655172413794,England
+odi,AK Sah,Nepal,320,365,11,87.67123287671232,Oman
+odi,AL Hodgkinson,South Africa,121,169,3,71.59763313609467,Sri Lanka
+odi,AL Kandappah,Canada,97,159,1,61.0062893081761,United States of America
+odi,AL Phehlukwayo,South Africa,827,996,36,83.03212851405623,Sri Lanka
+odi,AL Watkins,New Zealand,0,1,1,0.0,Bangladesh
+odi,AM Bacher,South Africa,102,181,5,56.353591160220994,Sri Lanka
+odi,AM Blignaut,Zimbabwe,284,264,17,107.57575757575756,India
+odi,AM Ellis,New Zealand,154,189,10,81.48148148148148,Bangladesh
+odi,AM Fernando,Sri Lanka,3,19,2,15.789473684210526,Australia
+odi,AM Guruge,United Arab Emirates,14,26,0,53.84615384615385,Papua New Guinea
+odi,AM Hardie,Australia,166,201,9,82.58706467661692,Pakistan
+odi,AM McCarthy,West Indies,15,41,2,36.58536585365854,England
+odi,AM Nayar,India,0,7,0,0.0,Pakistan
+odi,AM Peterson,New Zealand,167,211,9,79.14691943127961,Bangladesh
+odi,AM Phangiso,South Africa,81,164,10,49.390243902439025,Sri Lanka
+odi,AM Rahane,India,2906,3812,86,76.23294858342078,Pakistan
+odi,AM Samad,Canada,226,382,8,59.16230366492147,United States of America
+odi,AM Tribe,Jersey,233,310,3,75.16129032258064,Namibia
+odi,AN Cook,England,3204,4238,86,75.60169891458234,Bangladesh
+odi,AN Davidson-Richards,England,56,79,2,70.88607594936708,Bangladesh
+odi,AN Kelly,Ireland,384,610,24,62.95081967213115,Bangladesh
+odi,AN Kervezee,Netherlands,110,204,10,53.92156862745098,Zimbabwe
+odi,AN Petersen,South Africa,498,610,17,81.63934426229508,Sri Lanka
+odi,AO Suji,Kenya,42,93,5,45.16129032258064,New Zealand
+odi,AP Devcich,New Zealand,195,262,11,74.42748091603053,Bangladesh
+odi,APC Kilowan,South Africa,21,17,1,123.52941176470588,Sri Lanka
+odi,APS Lakshika,Sri Lanka,0,4,1,0.0,Australia
+odi,AR Adams,New Zealand,165,154,10,107.14285714285714,Bangladesh
+odi,AR Berenger,United Arab Emirates,53,115,6,46.08695652173913,Papua New Guinea
+odi,AR Bisht,Oman,15,26,1,57.692307692307686,Papua New Guinea
+odi,AR Caddick,England,64,118,3,54.23728813559322,Bangladesh
+odi,AR Cusack,Ireland,264,422,14,62.55924170616114,Bangladesh
+odi,AR McBrine,Ireland,812,1110,35,73.15315315315316,Bangladesh
+odi,AR Nurse,West Indies,454,464,25,97.84482758620689,England
+odi,AR Odedara,Oman,137,325,4,42.15384615384615,Papua New Guinea
+odi,AR Patel,India,783,887,37,88.2750845546787,Pakistan
+odi,AR Pitcher,Bermuda,30,55,1,54.54545454545454,Sri Lanka
+odi,AR White,Ireland,301,498,23,60.44176706827309,Bangladesh
+odi,ARI Umeed,Scotland,138,139,3,99.28057553956835,Hong Kong
+odi,AS Hansra,Canada,295,538,13,54.832713754646846,United States of America
+odi,AS Joseph,West Indies,420,594,27,70.70707070707071,England
+odi,AS Luseno,Kenya,0,3,1,0.0,New Zealand
+odi,AS Tanke,Netherlands,41,89,3,46.06741573033708,Zimbabwe
+odi,AS van Beuge,Netherlands,68,196,6,34.69387755102041,Zimbabwe
+odi,ASS Fletcher,West Indies,296,455,30,65.05494505494505,England
+odi,AT Carey,Australia,2149,2417,62,88.91187422424494,Pakistan
+odi,AT Nidamanuru,Netherlands,795,870,30,91.37931034482759,Zimbabwe
+odi,AT Rayudu,India,1637,2143,34,76.38824078394774,Pakistan
+odi,AU Rashid,England,916,984,46,93.08943089430895,Bangladesh
+odi,AV Lalcheta,Oman,18,49,2,36.734693877551024,Papua New Guinea
+odi,AY Karim,Kenya,0,2,0,0.0,New Zealand
+odi,Aaditya Varadarajan,Canada,36,66,3,54.54545454545454,United States of America
+odi,Aamer Jamal,Pakistan,5,9,0,55.55555555555556,South Africa
+odi,Aamer Yamin,Pakistan,95,101,1,94.05940594059405,South Africa
+odi,Aamir Kaleem,Oman,160,271,13,59.040590405904055,Papua New Guinea
+odi,Aarif Sheikh,Nepal,1032,1648,39,62.62135922330098,Oman
+odi,Aaron Jones,United States of America,1620,2287,49,70.83515522518583,Papua New Guinea
+odi,Aasif Sheikh,Nepal,1423,1943,50,73.23726196603191,Oman
+odi,Aayan Afzal Khan,United Arab Emirates,595,829,28,71.77322074788903,Papua New Guinea
+odi,Abdul Jabbar,Canada,59,86,2,68.6046511627907,United States of America
+odi,Abdul Razzaq,Asia XI,38,80,1,47.5,
+odi,Abdul Razzaq,Pakistan,2289,2609,73,87.73476427750096,South Africa
+odi,Abdul Shakoor,United Arab Emirates,34,66,2,51.515151515151516,Papua New Guinea
+odi,Abdullah Shafique,Pakistan,624,813,21,76.75276752767527,South Africa
+odi,Abdur Razzak,Bangladesh,644,880,52,73.18181818181819,New Zealand
+odi,Abdur Rehman,Pakistan,132,234,15,56.41025641025641,South Africa
+odi,Abid Ali,Pakistan,234,257,6,91.05058365758755,South Africa
+odi,Abrar Ahmed,Pakistan,28,19,0,147.36842105263156,South Africa
+odi,Abul Hasan,Bangladesh,11,16,3,68.75,New Zealand
+odi,Adeel Raja,Netherlands,13,76,1,17.105263157894736,Zimbabwe
+odi,Adnan Akmal,Pakistan,62,92,2,67.3913043478261,South Africa
+odi,Adnan Mufti,United Arab Emirates,328,413,11,79.41888619854721,Papua New Guinea
+odi,Afif Hossain,Bangladesh,548,631,23,86.84627575277337,New Zealand
+odi,Aftab Ahmed,Bangladesh,1061,1451,53,73.12198483804274,New Zealand
+odi,Afzaal Haider,Hong Kong,0,10,1,0.0,Papua New Guinea
+odi,Agha Salman,Pakistan,995,1013,23,98.22309970384995,South Africa
+odi,Ahmed Raza,United Arab Emirates,391,645,30,60.62015503875969,Papua New Guinea
+odi,Ahmed Shehzad,Pakistan,2555,3623,80,70.52166712669059,South Africa
+odi,Ahsan Malik,Netherlands,4,12,0,33.33333333333333,Zimbabwe
+odi,Aijaz Ali,United States of America,5,11,2,45.45454545454545,Papua New Guinea
+odi,Aiman Anwer,Pakistan,15,20,4,75.0,South Africa
+odi,Aizaz Cheema,Pakistan,26,45,1,57.77777777777777,South Africa
+odi,Aizaz Khan,Hong Kong,143,216,9,66.20370370370371,Papua New Guinea
+odi,Akeem Jordan,West Indies,3,6,0,50.0,England
+odi,Akhil Kumar,Canada,2,11,1,18.181818181818183,United States of America
+odi,Akif Javed,Pakistan,10,14,2,71.42857142857143,South Africa
+odi,Akram Khan,Bangladesh,57,102,2,55.88235294117647,New Zealand
+odi,Akshay Homraj,United States of America,159,230,8,69.1304347826087,Papua New Guinea
+odi,Al Sahariar,Bangladesh,44,102,6,43.13725490196079,New Zealand
+odi,Al-Amin Hossain,Bangladesh,4,20,2,20.0,New Zealand
+odi,Alawi Shukri,United Arab Emirates,1,3,1,33.33333333333333,Papua New Guinea
+odi,Ali Khan,United States of America,20,35,6,57.14285714285714,Papua New Guinea
+odi,Ali Naseer,United Arab Emirates,396,399,15,99.24812030075188,Papua New Guinea
+odi,Aliya Riaz,Pakistan,1406,2160,52,65.0925925925926,South Africa
+odi,Alok Kapali,Bangladesh,613,910,39,67.36263736263737,New Zealand
+odi,Aman Ali,United Arab Emirates,0,2,1,0.0,Papua New Guinea
+odi,Amir Hayat,United Arab Emirates,31,74,3,41.891891891891895,Papua New Guinea
+odi,Amjad Ali,United Arab Emirates,249,387,10,64.34108527131784,Papua New Guinea
+odi,Amjad Javed,United Arab Emirates,238,267,11,89.13857677902621,Papua New Guinea
+odi,Anam Amin,Pakistan,28,105,6,26.666666666666668,South Africa
+odi,Anamul Haque,Bangladesh,1322,1785,46,74.06162464985995,New Zealand
+odi,Anjum Chopra,India,0,8,1,0.0,Pakistan
+odi,Ankur Sharma,Hong Kong,16,31,1,51.61290322580645,Papua New Guinea
+odi,Anop Santosh,Canada,2,9,1,22.22222222222222,United States of America
+odi,Ansh Tandon,United Arab Emirates,10,18,1,55.55555555555556,Papua New Guinea
+odi,Anshuman Rath,Hong Kong,393,539,12,72.91280148423006,Papua New Guinea
+odi,Anwar Ali,Pakistan,300,339,12,88.49557522123894,South Africa
+odi,Aqib Ilyas,Oman,1191,1648,29,72.26941747572816,Papua New Guinea
+odi,Arafat Sunny,Bangladesh,48,94,4,51.06382978723404,New Zealand
+odi,Arshad Ali,United Arab Emirates,47,90,2,52.22222222222223,Papua New Guinea
+odi,Arshad Khan,Pakistan,14,17,0,82.35294117647058,South Africa
+odi,Arshdeep Singh,India,39,36,4,108.33333333333333,Pakistan
+odi,Aryan Lakra,United Arab Emirates,387,681,16,56.82819383259912,Papua New Guinea
+odi,Asad Ali,Pakistan,13,16,2,81.25,South Africa
+odi,Asad Shafiq,Pakistan,1312,1986,50,66.06243705941591,South Africa
+odi,Ashfaq Ahmed,United Arab Emirates,343,395,15,86.83544303797468,Papua New Guinea
+odi,Asif Ali,Pakistan,375,317,15,118.29652996845425,South Africa
+odi,Asif Iqbal (1),United Arab Emirates,8,8,1,100.0,Papua New Guinea
+odi,Asif Khan,United Arab Emirates,1270,1606,33,79.07845579078456,Papua New Guinea
+odi,Asmavia Iqbal,Pakistan,225,430,17,52.32558139534884,South Africa
+odi,Avesh Khan,India,23,30,3,76.66666666666667,Pakistan
+odi,Ayan Khan,Oman,948,1294,35,73.2612055641422,Papua New Guinea
+odi,Ayasha Rahman,Bangladesh,122,209,2,58.3732057416268,New Zealand
+odi,Ayesha Naseem,Pakistan,33,40,4,82.5,South Africa
+odi,Ayesha Zafar,Pakistan,407,764,26,53.27225130890052,South Africa
+odi,Azhar Ali,Pakistan,1806,2478,47,72.88135593220339,South Africa
+odi,Azhar Mahmood,Pakistan,126,164,6,76.82926829268293,South Africa
+odi,B Bezuidenhout,New Zealand,266,368,12,72.28260869565217,Bangladesh
+odi,B Bezuidenhout,South Africa,0,2,1,0.0,Sri Lanka
+odi,B Bhandari,Nepal,265,443,12,59.81941309255079,Oman
+odi,B Biza,Zimbabwe,189,321,6,58.87850467289719,India
+odi,B Cooper,West Indies,339,581,17,58.34767641996558,England
+odi,B Evans,Zimbabwe,121,154,10,78.57142857142857,India
+odi,B Fernando,Sri Lanka,26,37,3,70.27027027027027,Australia
+odi,B Geeves,Australia,10,11,0,90.9090909090909,Pakistan
+odi,B Kumar,India,552,768,36,71.875,Pakistan
+odi,B Laughlin,Australia,1,9,0,11.11111111111111,Pakistan
+odi,B Lee,Australia,865,1087,49,79.57681692732291,Pakistan
+odi,B Leephatthana,Thailand,30,66,3,45.45454545454545,Netherlands
+odi,B Mavuta,Zimbabwe,92,108,8,85.18518518518519,India
+odi,B Muzarabani,Zimbabwe,114,213,22,53.52112676056338,India
+odi,B Regmi,Nepal,12,30,2,40.0,Oman
+odi,B Sai Sudharsan,India,127,144,2,88.19444444444444,Pakistan
+odi,B Sharki,Nepal,703,1081,23,65.03237742830711,Oman
+odi,B Shikongo,Namibia,18,59,3,30.508474576271187,Oman
+odi,B Siddharth,Oman,7,14,2,50.0,Papua New Guinea
+odi,B Stanlake,Australia,4,28,3,14.285714285714285,Pakistan
+odi,B Tau,Papua New Guinea,123,235,8,52.34042553191489,Ireland
+odi,B Ward,Jersey,69,106,3,65.09433962264151,Namibia
+odi,B Zuiderent,Netherlands,178,368,15,48.369565217391305,Zimbabwe
+odi,B de Leede,Netherlands,289,435,13,66.4367816091954,Zimbabwe
+odi,BA Carse,England,215,283,11,75.97173144876325,Bangladesh
+odi,BA King,West Indies,1403,1704,48,82.33568075117371,England
+odi,BA Langston,England,21,22,0,95.45454545454545,Bangladesh
+odi,BA Murphy,Zimbabwe,3,11,2,27.27272727272727,India
+odi,BA Parchment,West Indies,107,198,6,54.04040404040404,England
+odi,BA Stokes,England,3469,3701,85,93.73142393947582,Bangladesh
+odi,BA Westdijk,Netherlands,0,3,2,0.0,Zimbabwe
+odi,BA Williams,Australia,14,25,2,56.00000000000001,Pakistan
+odi,BAM Heath,England,59,61,4,96.72131147540983,Bangladesh
+odi,BAW Mendis,Sri Lanka,185,267,22,69.28838951310861,Australia
+odi,BB Chari,Zimbabwe,186,412,15,45.14563106796117,India
+odi,BB McCullum,New Zealand,5157,5457,166,94.50247388675096,Bangladesh
+odi,BB Seebaran,Canada,4,14,1,28.57142857142857,United States of America
+odi,BC Fortuin,South Africa,58,91,6,63.73626373626373,Sri Lanka
+odi,BC Lara,ICC World XI,5,11,2,45.45454545454545,
+odi,BC Lara,West Indies,1873,2444,52,76.6366612111293,England
+odi,BCJ Cutting,Australia,53,67,2,79.1044776119403,Pakistan
+odi,BD Glover,Netherlands,28,45,2,62.22222222222222,Zimbabwe
+odi,BDH Stevens,Jersey,1,5,1,20.0,Namibia
+odi,BE Hendricks,South Africa,24,45,2,53.333333333333336,Sri Lanka
+odi,BFW de Leede,Netherlands,1155,1621,41,71.25231338679828,Zimbabwe
+odi,BG Lister,New Zealand,10,14,1,71.42857142857143,Bangladesh
+odi,BG Rogers,Zimbabwe,287,410,9,70.0,India
+odi,BJ Bennett,Zimbabwe,318,326,6,97.54601226993866,India
+odi,BJ Curran,Zimbabwe,164,216,2,75.92592592592592,India
+odi,BJ Currie,Scotland,14,26,0,53.84615384615385,Hong Kong
+odi,BJ Diamanti,New Zealand,26,23,0,113.04347826086956,Bangladesh
+odi,BJ Dwarshuis,Australia,28,40,2,70.0,Pakistan
+odi,BJ Haddin,Australia,3003,3648,89,82.31907894736842,Pakistan
+odi,BJ Hodge,Australia,516,583,17,88.50771869639794,Pakistan
+odi,BJ McCarthy,Ireland,169,269,17,62.825278810408925,Bangladesh
+odi,BJ McMullen,Scotland,1121,1277,25,87.78386844166015,Hong Kong
+odi,BJ Patel,Kenya,118,253,9,46.6403162055336,New Zealand
+odi,BJ Watling,New Zealand,573,860,20,66.62790697674419,Bangladesh
+odi,BKG Mendis,Sri Lanka,3958,4648,114,85.15490533562823,Australia
+odi,BL Kotze,Namibia,27,52,3,51.92307692307693,Oman
+odi,BL Mooney,Australia,2433,2872,56,84.71448467966573,Pakistan
+odi,BM Anusha,India,2,6,0,33.33333333333333,Pakistan
+odi,BM Duckett,England,1080,1045,22,103.34928229665073,Bangladesh
+odi,BM Halliday,New Zealand,870,1230,31,70.73170731707317,Bangladesh
+odi,BM Scholtz,Namibia,292,463,24,63.06695464362851,Oman
+odi,BM Tickner,New Zealand,16,28,2,57.14285714285714,Bangladesh
+odi,BM Wheeler,New Zealand,58,47,0,123.40425531914893,Bangladesh
+odi,BMAJ Mendis,Sri Lanka,593,741,33,80.02699055330635,Australia
+odi,BMSM Kumari,Sri Lanka,158,335,17,47.16417910447761,Australia
+odi,BN Cooper,Netherlands,148,175,7,84.57142857142857,Zimbabwe
+odi,BO van Rooi,Namibia,26,39,1,66.66666666666666,Oman
+odi,BOP Fernando,Sri Lanka,148,238,8,62.18487394957983,Australia
+odi,BP Kruger,Netherlands,8,12,1,66.66666666666666,Zimbabwe
+odi,BP Loots,Netherlands,15,23,3,65.21739130434783,Zimbabwe
+odi,BP Nash,West Indies,21,21,1,100.0,England
+odi,BR Dorey,Australia,2,9,1,22.22222222222222,Pakistan
+odi,BR McDermott,Australia,223,280,5,79.64285714285714,Pakistan
+odi,BRM Taylor,Zimbabwe,5130,6929,156,74.03665752633857,India
+odi,BT Foakes,England,61,78,0,78.2051282051282,Bangladesh
+odi,BTJ Wheal,Scotland,47,65,4,72.3076923076923,Hong Kong
+odi,BV Sears,New Zealand,11,18,0,61.111111111111114,Bangladesh
+odi,BV Vitori,Zimbabwe,63,75,8,84.0,India
+odi,BW Hilfenhaus,Australia,29,71,3,40.845070422535215,Pakistan
+odi,BYA Mendis,Sri Lanka,147,252,7,58.333333333333336,Australia
+odi,Babar Azam,Pakistan,5937,6864,109,86.49475524475524,South Africa
+odi,Babar Hayat,Hong Kong,539,749,13,71.96261682242991,Papua New Guinea
+odi,Badal Singh,Oman,5,12,1,41.66666666666667,Papua New Guinea
+odi,Basil Hameed,United Arab Emirates,1051,1458,45,72.08504801097394,Papua New Guinea
+odi,Basir Ahamad,Nepal,3,13,2,23.076923076923077,Oman
+odi,Batool Fatima,Pakistan,64,105,4,60.952380952380956,South Africa
+odi,Bazid Khan,Pakistan,131,237,5,55.27426160337553,South Africa
+odi,Bikram Sob,Nepal,4,19,3,21.052631578947366,Oman
+odi,Bilal Asif,Pakistan,40,52,3,76.92307692307693,South Africa
+odi,Bilal Khan,Oman,30,75,10,40.0,Papua New Guinea
+odi,Bilawal Bhatti,Pakistan,89,77,6,115.5844155844156,South Africa
+odi,Bismah Maroof,Pakistan,1938,3063,57,63.27130264446621,South Africa
+odi,C Abel,Scotland,18,59,4,30.508474576271187,Hong Kong
+odi,C Bosch,South Africa,55,53,0,103.77358490566037,Sri Lanka
+odi,C Brits,South Africa,292,421,8,69.35866983372921,Sri Lanka
+odi,C Campher,Ireland,963,1212,28,79.45544554455446,Bangladesh
+odi,C Carmichael,Ireland,64,83,2,77.10843373493977,Bangladesh
+odi,C Carter,Hong Kong,111,176,8,63.06818181818182,Papua New Guinea
+odi,C Cassell,Scotland,4,5,1,80.0,Hong Kong
+odi,C Chatonzwa,Zimbabwe,39,113,5,34.51327433628318,India
+odi,C Connolly,Australia,10,46,3,21.73913043478261,Pakistan
+odi,C Floyd,Netherlands,12,19,3,63.1578947368421,Zimbabwe
+odi,C Green,Australia,626,770,15,81.2987012987013,Pakistan
+odi,C Hemraj,West Indies,82,101,6,81.1881188118812,England
+odi,C Jonker,South Africa,31,34,2,91.17647058823529,Sri Lanka
+odi,C Karunaratne,Sri Lanka,451,589,22,76.5704584040747,Australia
+odi,C Kieswetter,England,985,1130,34,87.16814159292035,Bangladesh
+odi,C Madande,Zimbabwe,251,353,12,71.10481586402267,India
+odi,C McAuslan,Hong Kong,35,74,2,47.2972972972973,Papua New Guinea
+odi,C Munro,New Zealand,1249,1207,49,103.47970173985087,Bangladesh
+odi,C Murray,Ireland,88,183,10,48.08743169398907,Bangladesh
+odi,C Overton,England,68,79,3,86.07594936708861,Bangladesh
+odi,C Prasad,United States of America,6,24,1,25.0,Papua New Guinea
+odi,C Prathyusha,India,2,3,0,66.66666666666666,Pakistan
+odi,C Raack,Ireland,1,1,0,100.0,Bangladesh
+odi,C Sakariya,India,0,1,0,0.0,Pakistan
+odi,C Sutthiruang,Thailand,155,250,12,62.0,Netherlands
+odi,C Tear,Scotland,295,449,10,65.70155902004454,Hong Kong
+odi,C Viljoen,Namibia,19,23,1,82.6086956521739,Oman
+odi,C White,England,79,84,3,94.04761904761905,Bangladesh
+odi,C Wickramasinghe,Sri Lanka,58,106,2,54.71698113207547,Australia
+odi,C Zhuwao,Zimbabwe,154,137,8,112.40875912408758,India
+odi,C de Grandhomme,New Zealand,742,714,27,103.921568627451,Bangladesh
+odi,C de Lange,Netherlands,103,226,9,45.57522123893805,Zimbabwe
+odi,CA Henry,West Indies,708,818,39,86.55256723716381,England
+odi,CA Ingram,South Africa,761,935,27,81.3903743315508,Sri Lanka
+odi,CA Lynn,Australia,75,92,4,81.52173913043478,Pakistan
+odi,CA Pujara,India,51,136,5,37.5,Pakistan
+odi,CA Reid,United States of America,8,18,2,44.44444444444444,Papua New Guinea
+odi,CA Soper,Papua New Guinea,653,1179,32,55.38592027141645,Ireland
+odi,CA Young,Ireland,149,175,10,85.14285714285714,Bangladesh
+odi,CAH Stevenson,United States of America,141,216,12,65.27777777777779,Papua New Guinea
+odi,CAK Rajitha,Sri Lanka,104,178,9,58.42696629213483,Australia
+odi,CAK Walton,West Indies,53,88,8,60.22727272727273,England
+odi,CB Lambert,United States of America,39,86,1,45.348837209302324,Papua New Guinea
+odi,CB Mpofu,Zimbabwe,40,170,13,23.52941176470588,India
+odi,CB Sole,Scotland,67,84,8,79.76190476190477,Hong Kong
+odi,CB Wishart,Zimbabwe,361,496,14,72.78225806451613,India
+odi,CBRLS Kumara,Sri Lanka,58,137,11,42.33576642335766,Australia
+odi,CC Dalton,Ireland,18,27,1,66.66666666666666,Bangladesh
+odi,CD Collymore,West Indies,39,71,8,54.929577464788736,England
+odi,CD Cumming,New Zealand,42,101,5,41.584158415841586,Bangladesh
+odi,CD McMillan,New Zealand,1129,1393,39,81.04809763101221,Bangladesh
+odi,CD Wallace,Scotland,515,598,25,86.12040133779264,Hong Kong
+odi,CD de Lange,Scotland,65,94,1,69.14893617021278,Hong Kong
+odi,CE Coulter Reilly,Ireland,166,260,7,63.84615384615384,Bangladesh
+odi,CE Dean,England,364,551,19,66.0617059891107,Bangladesh
+odi,CE McConchie,New Zealand,126,133,4,94.73684210526315,Bangladesh
+odi,CG Williams,Namibia,427,550,13,77.63636363636364,Oman
+odi,CH Gayle,ICC World XI,54,50,2,108.0,
+odi,CH Gayle,West Indies,6379,7384,185,86.38949079089923,England
+odi,CH Morris,South Africa,467,474,21,98.52320675105484,Sri Lanka
+odi,CH van Koolwijk,Netherlands,25,66,3,37.878787878787875,Zimbabwe
+odi,CJ Anderson,New Zealand,1102,1044,40,105.55555555555556,Bangladesh
+odi,CJ Bowes,New Zealand,99,121,6,81.81818181818183,Bangladesh
+odi,CJ Chibhabha,Zimbabwe,1987,3130,84,63.48242811501598,India
+odi,CJ Dala,South Africa,8,6,1,133.33333333333331,Sri Lanka
+odi,CJ Ferguson,Australia,663,795,15,83.39622641509435,Pakistan
+odi,CJ Jordan,England,184,218,16,84.40366972477065,Bangladesh
+odi,CJ McKay,Australia,190,343,20,55.39358600583091,Pakistan
+odi,CJ Metcalfe,Ireland,21,54,3,38.88888888888889,Bangladesh
+odi,CJ Nevin,New Zealand,83,151,7,54.966887417218544,Bangladesh
+odi,CJ Smith,Bermuda,27,48,5,56.25,Sri Lanka
+odi,CJA Amini,Papua New Guinea,952,1545,44,61.61812297734628,Ireland
+odi,CJO Smith,Scotland,157,240,10,65.41666666666667,Hong Kong
+odi,CK Coventry,Zimbabwe,645,737,22,87.51696065128901,India
+odi,CK Holder,West Indies,0,3,0,0.0,England
+odi,CK Hooper,Canada,4,3,2,133.33333333333331,United States of America
+odi,CK Kapugedera,Sri Lanka,1505,2157,68,69.77283263792305,Australia
+odi,CK Kruger,Hong Kong,3,21,2,14.285714285714285,Papua New Guinea
+odi,CK Langeveldt,South Africa,70,120,10,58.333333333333336,Sri Lanka
+odi,CK Tshuma,Zimbabwe,0,1,1,0.0,India
+odi,CKB Kulasekara,Sri Lanka,38,73,3,52.054794520547944,Australia
+odi,CL Cairns,New Zealand,790,894,25,88.36689038031321,Bangladesh
+odi,CL Hooper,West Indies,93,118,4,78.8135593220339,England
+odi,CL Tryon,South Africa,1634,1506,52,108.49933598937582,Sri Lanka
+odi,CL White,Australia,2053,2583,60,79.4812233836624,Pakistan
+odi,CM Beggs,Ireland,1,16,0,6.25,Bangladesh
+odi,CM Edwards,England,1054,1464,24,71.99453551912568,Bangladesh
+odi,CM McBride,Scotland,395,567,17,69.66490299823633,Hong Kong
+odi,CM Wright,Scotland,81,145,5,55.86206896551724,Hong Kong
+odi,CMA Shillington,Ireland,179,199,7,89.9497487437186,Bangladesh
+odi,CMG Atkins,England,117,211,0,55.45023696682464,Bangladesh
+odi,CMW Read,England,156,221,12,70.58823529411765,Bangladesh
+odi,CN Ackermann,Netherlands,380,517,15,73.5009671179884,Zimbabwe
+odi,CN Greaves,Scotland,353,408,16,86.51960784313727,Hong Kong
+odi,CN Nation,West Indies,831,1526,39,54.45609436435125,England
+odi,CNIM Joyce,Ireland,228,493,9,46.24746450304259,Bangladesh
+odi,CO Browne,West Indies,144,171,6,84.21052631578947,England
+odi,CO Obuya,Kenya,737,1040,29,70.86538461538461,New Zealand
+odi,CP Jack,West Indies,17,26,1,65.38461538461539,England
+odi,CP Rizwan,United Arab Emirates,901,1573,34,57.27908455181182,Papua New Guinea
+odi,CP Tremain,Australia,23,39,1,58.97435897435898,Pakistan
+odi,CR Brathwaite,West Indies,527,613,29,85.97063621533442,England
+odi,CR Ervine,Zimbabwe,2909,3763,82,77.30534148285942,India
+odi,CR Foggo,Bermuda,6,5,1,120.0,Sri Lanka
+odi,CR Pagydyala,United States of America,206,307,1,67.10097719869707,Papua New Guinea
+odi,CR Seneviratna,Sri Lanka,133,277,8,48.014440433213,Australia
+odi,CR Woakes,England,1514,1714,60,88.3313885647608,Bangladesh
+odi,CRD Fernando,Sri Lanka,170,253,18,67.19367588932806,Australia
+odi,CS Baugh,West Indies,382,563,20,67.85079928952042,England
+odi,CS Fraser,West Indies,65,144,8,45.13888888888889,England
+odi,CS MacLeod,Scotland,2015,2570,60,78.40466926070039,Hong Kong
+odi,CS Martin,New Zealand,2,3,0,66.66666666666666,Bangladesh
+odi,CS Mugeri-Tiripano,Zimbabwe,341,445,11,76.62921348314606,India
+odi,CS Terblanche,South Africa,38,65,1,58.46153846153847,Sri Lanka
+odi,CT Dhururu,Zimbabwe,143,331,9,43.202416918429,India
+odi,CT Mumba,Zimbabwe,32,56,4,57.14285714285714,India
+odi,CT Mutombodzi,Zimbabwe,122,149,9,81.87919463087249,India
+odi,CT Tremlett,England,50,91,8,54.94505494505495,Bangladesh
+odi,CW Perchard,Jersey,31,35,0,88.57142857142857,Namibia
+odi,CZ Harris,New Zealand,203,402,14,50.49751243781094,Bangladesh
+odi,Chirag Suri,United Arab Emirates,924,1472,35,62.77173913043478,Papua New Guinea
+odi,D Bau,Papua New Guinea,130,222,6,58.55855855855856,Ireland
+odi,D Birrell,Jersey,0,1,1,0.0,Namibia
+odi,D Bishoo,West Indies,164,265,15,61.886792452830186,England
+odi,D Brown,Australia,4,10,0,40.0,Pakistan
+odi,D Cleaver,New Zealand,32,37,1,86.48648648648648,Bangladesh
+odi,D Daesrath,Canada,31,59,1,52.54237288135594,United States of America
+odi,D Devnarain,South Africa,145,302,10,48.01324503311258,Sri Lanka
+odi,D Dhingra,United States of America,289,443,7,65.23702031602708,Papua New Guinea
+odi,D Elgar,South Africa,104,181,6,57.4585635359116,Sri Lanka
+odi,D Foxcroft,New Zealand,0,1,1,0.0,Bangladesh
+odi,D Gamage,Sri Lanka,3,11,1,27.27272727272727,Australia
+odi,D Ganga,West Indies,152,302,7,50.331125827814574,England
+odi,D Gough,England,137,198,7,69.1919191919192,Bangladesh
+odi,D Hazell,England,109,140,7,77.85714285714286,Bangladesh
+odi,D Hemalatha,India,97,171,8,56.72514619883041,Pakistan
+odi,D Heyliger,Canada,213,225,16,94.66666666666667,United States of America
+odi,D Joseph,Canada,13,27,1,48.148148148148145,United States of America
+odi,D Joseph,West Indies,0,5,1,0.0,England
+odi,D Keulder,Namibia,132,221,6,59.72850678733032,Oman
+odi,D Khanal,Nepal,329,482,12,68.25726141078839,Oman
+odi,D Lakshan,Sri Lanka,2,9,1,22.22222222222222,Australia
+odi,D Langford-Smith,Ireland,79,84,5,94.04761904761905,Bangladesh
+odi,D Lohia,Papua New Guinea,11,26,1,42.30769230769231,Ireland
+odi,D Madushanka,Sri Lanka,36,76,4,47.368421052631575,Australia
+odi,D Mohammed,West Indies,0,2,0,0.0,England
+odi,D Mongia,India,324,540,14,60.0,Pakistan
+odi,D Murphy,Scotland,9,28,2,32.142857142857146,Hong Kong
+odi,D Myers,Zimbabwe,138,194,7,71.1340206185567,India
+odi,D Parashar,United Arab Emirates,169,263,6,64.25855513307985,Papua New Guinea
+odi,D Pretorius,South Africa,192,232,12,82.75862068965517,Sri Lanka
+odi,D Prins,Netherlands,7,40,2,17.5,Zimbabwe
+odi,D Ramdin,West Indies,2072,2636,88,78.60394537177542,England
+odi,D Ravu,Papua New Guinea,128,193,9,66.32124352331607,Ireland
+odi,D Soraine,Canada,3,10,2,30.0,United States of America
+odi,D Tucker,South Africa,64,88,3,72.72727272727273,Sri Lanka
+odi,D Vihanga,Sri Lanka,21,26,3,80.76923076923077,Australia
+odi,D Wiese,Namibia,226,257,7,87.93774319066148,Oman
+odi,D Wiese,South Africa,102,118,5,86.4406779661017,Sri Lanka
+odi,D la Cock,Namibia,313,475,13,65.89473684210526,Oman
+odi,D van Niekerk,South Africa,1238,1751,33,70.70245573957739,Sri Lanka
+odi,DA Gunawardene,Sri Lanka,322,591,16,54.483925549915405,Australia
+odi,DA Marillier,Zimbabwe,249,355,10,70.14084507042253,India
+odi,DA Miller,South Africa,4573,4510,107,101.39689578713968,Sri Lanka
+odi,DA Minors,Bermuda,104,176,8,59.09090909090909,Sri Lanka
+odi,DA Warner,Australia,6623,6974,152,94.96702036134212,Pakistan
+odi,DAJ Bracewell,New Zealand,221,279,11,79.21146953405018,Bangladesh
+odi,DAS Gunaratne,Sri Lanka,575,743,18,77.38896366083445,Australia
+odi,DB Kotze,Namibia,82,135,5,60.74074074074074,Oman
+odi,DB Sharma,India,1916,2914,53,65.75154426904598,Pakistan
+odi,DBL Powell,West Indies,105,139,16,75.53956834532374,England
+odi,DC Drakes,West Indies,11,18,2,61.111111111111114,England
+odi,DC Thomas,West Indies,238,379,20,62.796833773087066,England
+odi,DCC Borden,Bermuda,23,84,4,27.380952380952383,Sri Lanka
+odi,DD Ebrahim,Zimbabwe,555,1050,29,52.85714285714286,India
+odi,DDP D'Silva,United Arab Emirates,53,123,4,43.08943089430895,Papua New Guinea
+odi,DE Bernard,West Indies,141,225,10,62.66666666666667,England
+odi,DE Bollinger,Australia,50,54,4,92.5925925925926,Pakistan
+odi,DE Budge,Scotland,237,311,9,76.20578778135048,Hong Kong
+odi,DEM Carter,Scotland,225,336,11,66.96428571428571,Hong Kong
+odi,DES Maxwell,Canada,54,45,1,120.0,United States of America
+odi,DF Watts,Scotland,130,240,8,54.166666666666664,Hong Kong
+odi,DG Blampied,Jersey,7,13,2,53.84615384615385,Namibia
+odi,DG Brownlie,New Zealand,361,500,14,72.2,Bangladesh
+odi,DI Allan,Kenya,18,48,2,37.5,New Zealand
+odi,DI Joyce,Ireland,29,61,3,47.540983606557376,Bangladesh
+odi,DJ Bravo,West Indies,2760,3506,105,78.72219053051911,England
+odi,DJ Hooda,India,153,194,6,78.8659793814433,Pakistan
+odi,DJ Hussey,Australia,1672,1912,55,87.44769874476988,Pakistan
+odi,DJ Malan,England,1418,1504,25,94.28191489361703,Bangladesh
+odi,DJ Mitchell,New Zealand,2040,2192,42,93.06569343065694,Bangladesh
+odi,DJ Reekers,Netherlands,38,38,4,100.0,Zimbabwe
+odi,DJ Willey,England,656,702,30,93.44729344729345,Bangladesh
+odi,DJ Worrall,Australia,6,4,0,150.0,Pakistan
+odi,DJG Sammy,West Indies,1853,1926,74,96.2097611630322,England
+odi,DJM Short,Australia,211,274,7,77.00729927007299,Pakistan
+odi,DJS Dottin,West Indies,1679,2070,53,81.11111111111111,England
+odi,DK Butler,West Indies,16,24,0,66.66666666666666,England
+odi,DL Blake,United States of America,0,2,1,0.0,Papua New Guinea
+odi,DL Chahar,India,191,204,5,93.62745098039215,Pakistan
+odi,DL Hemp,Bermuda,268,398,9,67.33668341708542,Sri Lanka
+odi,DL Vettori,ICC World XI,10,13,1,76.92307692307693,
+odi,DL Vettori,New Zealand,1440,1732,71,83.14087759815243,Bangladesh
+odi,DLS van Bunge,Netherlands,293,519,13,56.45472061657033,Zimbabwe
+odi,DM Braat,Netherlands,6,31,2,19.35483870967742,Zimbabwe
+odi,DM Bravo,West Indies,3007,4475,98,67.19553072625698,England
+odi,DM Dupavillon,South Africa,17,10,1,170.0,Sri Lanka
+odi,DM Kimmince,Australia,37,52,0,71.15384615384616,Pakistan
+odi,DM Richards,West Indies,179,260,6,68.84615384615384,England
+odi,DM de Silva,Sri Lanka,1710,2234,67,76.544315129812,Australia
+odi,DN Wellalage,Sri Lanka,315,415,16,75.90361445783132,Australia
+odi,DN Wyatt,England,1680,1851,69,90.76175040518638,Bangladesh
+odi,DNT Zoysa,Sri Lanka,36,55,4,65.45454545454545,Australia
+odi,DO Leicher,Namibia,52,55,3,94.54545454545455,Oman
+odi,DO Obuya,Kenya,302,583,20,51.80102915951973,New Zealand
+odi,DOD Rikhi,United States of America,3,6,1,50.0,Papua New Guinea
+odi,DP Conway,New Zealand,1411,1663,31,84.84666265784726,Bangladesh
+odi,DP Hyatt,West Indies,112,189,7,59.25925925925925,England
+odi,DP Vaidya,India,132,207,7,63.76811594202898,Pakistan
+odi,DPMD Jayawardene,Asia XI,217,217,2,100.0,
+odi,DPMD Jayawardene,Sri Lanka,7823,10015,232,78.1128307538692,Australia
+odi,DR Brown,Scotland,72,115,4,62.60869565217392,Hong Kong
+odi,DR Chumney,Canada,219,336,10,65.17857142857143,United States of America
+odi,DR Flynn,New Zealand,167,247,9,67.61133603238866,Bangladesh
+odi,DR Martyn,Australia,2239,2970,58,75.3872053872054,Pakistan
+odi,DR Mousley,England,69,88,2,78.4090909090909,Bangladesh
+odi,DR Smith,West Indies,1261,1430,70,88.18181818181819,England
+odi,DR Tuffey,New Zealand,188,200,17,94.0,Bangladesh
+odi,DS Airee,Nepal,861,1217,42,70.74774034511093,Oman
+odi,DS Bajwa,Canada,74,124,6,59.67741935483871,United States of America
+odi,DS Kulkarni,India,27,31,0,87.09677419354838,Pakistan
+odi,DS Lehmann,Australia,687,870,17,78.96551724137932,Pakistan
+odi,DS Smith,West Indies,973,1379,40,70.55837563451777,England
+odi,DS Weerakkody,Sri Lanka,73,67,3,108.95522388059702,Australia
+odi,DSK Madushanka,Sri Lanka,7,6,1,116.66666666666667,Australia
+odi,DT Christian,Australia,273,313,13,87.22044728434504,Pakistan
+odi,DT Hondo,Zimbabwe,35,113,8,30.973451327433626,India
+odi,DT Johnston,Ireland,361,473,20,76.32135306553911,Bangladesh
+odi,DT Tiripano,Zimbabwe,343,535,18,64.11214953271028,India
+odi,DW Steyn,Africa XI,4,16,2,25.0,Asia XI
+odi,DW Steyn,South Africa,361,576,37,62.673611111111114,Sri Lanka
+odi,Danish Aziz,Pakistan,12,22,2,54.54545454545454,South Africa
+odi,Danish Kaneria,Pakistan,9,15,2,60.0,South Africa
+odi,Dhiman Ghosh,Bangladesh,124,205,10,60.48780487804878,New Zealand
+odi,Diana Baig,Pakistan,282,397,30,71.03274559193954,South Africa
+odi,Dilara Akter,Bangladesh,21,33,2,63.63636363636363,New Zealand
+odi,Dolar Mahmud,Bangladesh,61,44,4,138.63636363636365,New Zealand
+odi,E Bisht,India,73,125,12,58.4,Pakistan
+odi,E Bosch,South Africa,7,9,0,77.77777777777779,Sri Lanka
+odi,E Chigumbura,Africa XI,51,49,3,104.08163265306123,Asia XI
+odi,E Chigumbura,Zimbabwe,3215,4186,126,76.80363115145724,India
+odi,E Claridge,United States of America,79,103,4,76.69902912621359,Papua New Guinea
+odi,E Lewis,West Indies,1939,2260,52,85.79646017699115,England
+odi,E Malinga,Sri Lanka,10,45,2,22.22222222222222,Australia
+odi,E Marx,South Africa,53,80,1,66.25,Sri Lanka
+odi,E Mbofana,Zimbabwe,22,56,2,39.285714285714285,India
+odi,E Otieno,Kenya,21,57,4,36.84210526315789,New Zealand
+odi,E Schiferli,Netherlands,79,140,7,56.42857142857143,Zimbabwe
+odi,EA Osborne,Australia,151,184,7,82.06521739130434,Pakistan
+odi,EA Perry,Australia,3356,4290,59,78.22843822843822,Pakistan
+odi,EAJ Richardson,Ireland,106,143,5,74.12587412587412,Bangladesh
+odi,EC Joyce,England,471,726,16,64.87603305785123,Bangladesh
+odi,EC Joyce,Ireland,1374,1940,39,70.82474226804123,Bangladesh
+odi,EC Perry,New Zealand,21,28,1,75.0,Bangladesh
+odi,EC Rainsford,Zimbabwe,31,103,8,30.097087378640776,India
+odi,EH Hutchinson,United States of America,123,125,4,98.4,Papua New Guinea
+odi,EHSN Silva,United Arab Emirates,7,14,1,50.0,Papua New Guinea
+odi,EJ Carson,New Zealand,3,12,5,25.0,Bangladesh
+odi,EJ Richardson,Ireland,12,18,1,66.66666666666666,Bangladesh
+odi,EJ Tice,Ireland,2,12,2,16.666666666666664,Bangladesh
+odi,EJ Villani,Australia,468,606,23,77.22772277227723,Pakistan
+odi,EJB Miles,Jersey,1,7,1,14.285714285714285,Namibia
+odi,EJG Morgan,England,6765,7465,176,90.62290689886136,Bangladesh
+odi,EJG Morgan,Ireland,188,302,9,62.251655629139066,Bangladesh
+odi,EL Arlott,England,7,5,0,140.0,Bangladesh
+odi,EL Lamb,England,398,476,14,83.61344537815127,Bangladesh
+odi,EL Watson,Scotland,50,125,6,40.0,Hong Kong
+odi,EM Bermingham,New Zealand,94,107,7,87.85046728971963,Bangladesh
+odi,EMA McLeod,New Zealand,10,29,2,34.48275862068966,Bangladesh
+odi,EMDY Munaweera,Sri Lanka,15,29,3,51.724137931034484,Australia
+odi,EN Lynch,Netherlands,115,229,9,50.21834061135371,Zimbabwe
+odi,ES Szwarczynski,Netherlands,281,482,10,58.298755186722,Zimbabwe
+odi,Ebadat Hossain,Bangladesh,3,18,2,16.666666666666664,New Zealand
+odi,Ehsan Adil,Pakistan,27,43,3,62.7906976744186,South Africa
+odi,Ehsan Khan,Hong Kong,100,229,10,43.66812227074236,Papua New Guinea
+odi,Ehsan Nawaz,Hong Kong,29,83,4,34.93975903614458,Papua New Guinea
+odi,Ehsanul Haque,Bangladesh,28,76,3,36.84210526315789,New Zealand
+odi,Elias Sunny,Bangladesh,2,11,2,18.181818181818183,New Zealand
+odi,Enamul Haque jnr,Bangladesh,8,16,3,50.0,New Zealand
+odi,Ethan D'Souza,United Arab Emirates,9,21,2,42.857142857142854,Papua New Guinea
+odi,F Behardien,South Africa,1074,1114,37,96.40933572710951,Sri Lanka
+odi,F Chipare,Zimbabwe,20,44,4,45.45454545454545,India
+odi,F Hand,Ireland,0,1,1,0.0,Bangladesh
+odi,F Kasteni,Zimbabwe,9,24,2,37.5,India
+odi,F Mutizwa,Zimbabwe,183,282,8,64.8936170212766,India
+odi,F Overdijk,Netherlands,224,471,11,47.5583864118896,Zimbabwe
+odi,F Tunnicliffe,South Africa,15,21,2,71.42857142857143,Sri Lanka
+odi,F Walters,West Indies,16,48,2,33.33333333333333,England
+odi,F du Plessis,South Africa,5445,6288,122,86.59351145038168,Sri Lanka
+odi,FA Allen,West Indies,200,207,15,96.61835748792271,England
+odi,FA Sargent,Ireland,36,78,4,46.15384615384615,Bangladesh
+odi,FC Jonas,New Zealand,14,57,3,24.561403508771928,Bangladesh
+odi,FC Wilson,England,412,441,15,93.42403628117914,Bangladesh
+odi,FDM Karunaratne,Sri Lanka,1044,1363,35,76.59574468085107,Australia
+odi,FDW McCreath,Scotland,112,171,4,65.49707602339181,Hong Kong
+odi,FG Kemp,England,111,96,4,115.625,Bangladesh
+odi,FH Allen,New Zealand,582,637,20,91.3657770800628,Bangladesh
+odi,FH Edwards,West Indies,70,154,6,45.45454545454545,England
+odi,FJ Klaassen,Netherlands,48,78,5,61.53846153846154,Zimbabwe
+odi,FL Mackay,New Zealand,125,196,8,63.775510204081634,Bangladesh
+odi,FL Reifer,West Indies,86,190,7,45.26315789473684,England
+odi,FR Davies,England,13,42,5,30.952380952380953,Bangladesh
+odi,FRJ Coleman,Scotland,160,220,7,72.72727272727273,Hong Kong
+odi,FY Fazal,India,55,65,0,84.61538461538461,Pakistan
+odi,Fahad Alhashmi,United Arab Emirates,0,6,2,0.0,Papua New Guinea
+odi,Fahad Nawaz,United Arab Emirates,2,10,2,20.0,Papua New Guinea
+odi,Faheem Ashraf,Pakistan,320,390,22,82.05128205128204,South Africa
+odi,Fahima Khatun,Bangladesh,305,486,18,62.757201646090536,New Zealand
+odi,Faisal Athar,Pakistan,9,39,1,23.076923076923077,South Africa
+odi,Faisal Hossain,Bangladesh,26,54,2,48.148148148148145,New Zealand
+odi,Faisal Iqbal,Pakistan,134,260,7,51.53846153846153,South Africa
+odi,Fakhar Zaman,Pakistan,3593,3877,76,92.6747485168945,South Africa
+odi,Fargana Hoque,Bangladesh,1427,2847,50,50.12293642430629,New Zealand
+odi,Farhad Reza,Bangladesh,316,522,18,60.53639846743295,New Zealand
+odi,Fariha Trisna,Bangladesh,0,14,4,0.0,New Zealand
+odi,Fatima Sana,Pakistan,587,805,31,72.91925465838509,South Africa
+odi,Fawad Ahmed,Australia,4,2,0,200.0,Pakistan
+odi,Fawad Alam,Pakistan,966,1321,25,73.12641937925814,South Africa
+odi,Fayyaz Ahmed,United Arab Emirates,41,98,0,41.83673469387755,Papua New Guinea
+odi,Fayyaz Butt,Oman,201,284,11,70.77464788732394,Papua New Guinea
+odi,Fazle Mahmud,Bangladesh,0,9,2,0.0,New Zealand
+odi,G Bloemen,Netherlands,28,42,4,66.66666666666666,Zimbabwe
+odi,G Chapple,England,14,7,1,200.0,Bangladesh
+odi,G Coetzee,South Africa,57,90,6,63.33333333333333,Sri Lanka
+odi,G Dempsey,Ireland,122,190,6,64.21052631578948,Bangladesh
+odi,G Fontenla,Scotland,1,3,1,33.33333333333333,Hong Kong
+odi,G Gambhir,India,4981,5933,119,83.95415472779369,Pakistan
+odi,G Hoey,Ireland,24,30,2,80.0,Bangladesh
+odi,G Kirsten,South Africa,186,228,3,81.57894736842105,Sri Lanka
+odi,G Kodali,United States of America,66,118,4,55.932203389830505,Papua New Guinea
+odi,G Malla,Nepal,753,1145,36,65.76419213973799,Oman
+odi,G Motie,West Indies,233,232,11,100.43103448275863,England
+odi,G Onions,England,1,2,0,50.0,Bangladesh
+odi,G Singh,United States of America,938,1155,29,81.21212121212122,Papua New Guinea
+odi,G Snyman,Namibia,5,9,4,55.55555555555556,Oman
+odi,G Sultana,India,61,165,3,36.96969696969697,Pakistan
+odi,G Toka,Papua New Guinea,268,496,21,54.03225806451613,Ireland
+odi,G Voll,Australia,173,164,2,105.48780487804879,Pakistan
+odi,G Wareham,Australia,234,215,7,108.83720930232559,Pakistan
+odi,GA Elwiss,England,244,331,11,73.71601208459214,Bangladesh
+odi,GA Guy,New Zealand,0,4,0,0.0,Bangladesh
+odi,GA Lamb,Zimbabwe,197,389,10,50.6426735218509,India
+odi,GA Manou,Australia,7,6,0,116.66666666666667,Pakistan
+odi,GA Rogers,Scotland,32,50,1,64.0,Hong Kong
+odi,GB Brent,Zimbabwe,192,305,11,62.95081967213115,India
+odi,GB Hogg,Australia,647,818,30,79.09535452322739,Pakistan
+odi,GB Murgatroyd,Namibia,90,148,6,60.810810810810814,Oman
+odi,GC Bhogle,United States of America,82,166,6,49.39759036144578,Papua New Guinea
+odi,GC Smith,Africa XI,0,6,1,0.0,Asia XI
+odi,GC Smith,South Africa,5280,6607,145,79.9152414106251,Sri Lanka
+odi,GC Tonge,West Indies,10,16,1,62.5,England
+odi,GC Wilson,Ireland,1232,1653,47,74.53115547489413,Bangladesh
+odi,GD Drummond,Scotland,10,9,0,111.11111111111111,Hong Kong
+odi,GD Elliott,New Zealand,1913,2394,58,79.90810359231412,Bangladesh
+odi,GD McGrath,Australia,18,44,6,40.909090909090914,Pakistan
+odi,GD Phillips,New Zealand,1041,1037,28,100.38572806171648,Bangladesh
+odi,GE Plimmer,New Zealand,396,588,16,67.3469387755102,Bangladesh
+odi,GEF Barnett,Canada,95,185,5,51.35135135135135,United States of America
+odi,GF Linde,South Africa,27,31,1,87.09677419354838,Sri Lanka
+odi,GH Bodi,South Africa,83,136,2,61.029411764705884,Sri Lanka
+odi,GH Dockrell,Ireland,1197,1475,50,81.15254237288136,Bangladesh
+odi,GH Lewis,Ireland,1569,2349,49,66.79438058748404,Bangladesh
+odi,GH O'Brien,Bermuda,2,6,1,33.33333333333333,Sri Lanka
+odi,GH Worker,New Zealand,272,389,8,69.9228791773779,Bangladesh
+odi,GI Hume,Ireland,65,98,4,66.3265306122449,Bangladesh
+odi,GI Maiden,Scotland,12,14,0,85.71428571428571,Hong Kong
+odi,GJ Bailey,Australia,3011,3672,79,81.99891067538127,Pakistan
+odi,GJ Batty,England,25,58,3,43.103448275862064,Bangladesh
+odi,GJ Delany,Ireland,217,228,12,95.17543859649122,Bangladesh
+odi,GJ Hopkins,New Zealand,236,317,16,74.44794952681389,Bangladesh
+odi,GJ Maxwell,Australia,3695,3054,117,120.98886705959397,Pakistan
+odi,GJ McCarter,Ireland,1,1,0,100.0,Bangladesh
+odi,GJ Rennie,Zimbabwe,50,128,4,39.0625,India
+odi,GJ Whittall,Zimbabwe,59,71,4,83.09859154929578,India
+odi,GJP Kruger,South Africa,0,10,1,0.0,Sri Lanka
+odi,GM Ewing,Zimbabwe,77,115,6,66.95652173913044,India
+odi,GM Hamilton,Scotland,173,305,10,56.72131147540984,Hong Kong
+odi,GM Harris,Australia,13,22,4,59.09090909090909,Pakistan
+odi,GM Strydom,Zimbabwe,67,133,5,50.37593984962406,India
+odi,GO Jones,England,715,883,29,80.97395243488108,Bangladesh
+odi,GP Swann,England,475,525,33,90.47619047619048,Bangladesh
+odi,GP Tom,Papua New Guinea,19,34,4,55.88235294117647,Ireland
+odi,GR Codrington,Canada,80,123,5,65.04065040650406,United States of America
+odi,GS Ballance,England,297,450,14,66.0,Bangladesh
+odi,GS Ballance,Zimbabwe,157,197,5,79.69543147208121,India
+odi,GSNFG Jayasuriya,Sri Lanka,181,246,8,73.57723577235772,Australia
+odi,GT Main,Scotland,82,89,1,92.13483146067416,Hong Kong
+odi,GW Flower,Zimbabwe,627,963,17,65.10903426791276,India
+odi,GWHM Perera,Sri Lanka,792,1337,41,59.23709798055348,Australia
+odi,Ghulam Fatima,Pakistan,11,26,4,42.30769230769231,South Africa
+odi,Ghulam Shabber,United Arab Emirates,444,716,20,62.01117318435754,Papua New Guinea
+odi,Gull Feroza,Pakistan,8,28,3,28.57142857142857,South Africa
+odi,Gulsan Jha,Nepal,625,827,20,75.57436517533253,Oman
+odi,Gurkeerat Singh,India,13,13,2,100.0,Pakistan
+odi,H Carlyon,Jersey,125,149,4,83.89261744966443,Namibia
+odi,H Davids,South Africa,8,25,2,32.0,Sri Lanka
+odi,H Deol,India,718,955,21,75.18324607329842,Pakistan
+odi,H Durham,Bermuda,4,14,1,28.57142857142857,Sri Lanka
+odi,H Graham,Australia,4,5,0,80.0,Pakistan
+odi,H Hiri,Papua New Guinea,435,794,30,54.78589420654912,Ireland
+odi,H Karunaratne,Sri Lanka,194,437,13,44.39359267734554,Australia
+odi,H Kaur,India,2730,3449,68,79.15337779066395,Pakistan
+odi,H Klaasen,South Africa,2131,1839,49,115.87819467101686,Sri Lanka
+odi,H Madavi,Sri Lanka,1065,1542,31,69.06614785992218,Australia
+odi,H Masakadza,Zimbabwe,3955,5646,152,70.04959263195182,India
+odi,H Osinde,Canada,11,34,4,32.35294117647059,United States of America
+odi,H Patel,Canada,176,198,9,88.88888888888889,United States of America
+odi,H Shah,Nepal,9,25,2,36.0,Oman
+odi,H Thaker,Canada,742,1126,20,65.89698046181172,United States of America
+odi,HA Varaiya,Kenya,43,119,7,36.134453781512605,New Zealand
+odi,HAM Samuddika,Sri Lanka,67,128,3,52.34375,Australia
+odi,HAPW Jayawardene,Sri Lanka,4,10,2,40.0,Australia
+odi,HASD Siriwardene,Sri Lanka,679,1213,36,55.976916735366856,Australia
+odi,HB Shipley,New Zealand,18,41,5,43.90243902439025,Bangladesh
+odi,HC Brook,England,830,820,24,101.21951219512195,Bangladesh
+odi,HC Knight,England,3158,4205,88,75.10107015457788,Bangladesh
+odi,HD Rutherford,New Zealand,15,56,4,26.785714285714285,Bangladesh
+odi,HDJ Siegers,Netherlands,105,124,5,84.67741935483872,Zimbabwe
+odi,HDPK Dharmasena,Sri Lanka,129,155,6,83.22580645161291,Australia
+odi,HDRL Thirimanne,Sri Lanka,3164,4444,88,71.1971197119712,Australia
+odi,HDRS Silva,Sri Lanka,25,46,2,54.347826086956516,Australia
+odi,HE Whelan,Ireland,2,16,0,12.5,Bangladesh
+odi,HE van der Dussen,South Africa,2529,2965,53,85.29510961214164,Sri Lanka
+odi,HF Gurney,England,15,33,2,45.45454545454545,Bangladesh
+odi,HG Munsey,Scotland,2038,2332,50,87.39279588336191,Hong Kong
+odi,HGV Vare,Papua New Guinea,20,31,5,64.51612903225806,Ireland
+odi,HH Dippenaar,Africa XI,98,136,5,72.05882352941177,Asia XI
+odi,HH Dippenaar,South Africa,1185,1767,28,67.06281833616299,Sri Lanka
+odi,HH Gibbs,South Africa,3766,4434,97,84.93459630130808,Sri Lanka
+odi,HH Pandya,India,1897,1755,55,108.0911680911681,Pakistan
+odi,HH Streak,Africa XI,14,35,1,40.0,Asia XI
+odi,HH Streak,Zimbabwe,722,1071,15,67.41363211951447,India
+odi,HHC Gunaratne,Sri Lanka,13,20,1,65.0,Australia
+odi,HIS Mendis,Sri Lanka,13,50,2,26.0,Australia
+odi,HJ Armitage,England,78,95,3,82.10526315789474,Bangladesh
+odi,HJ Thomas,Papua New Guinea,59,122,5,48.36065573770492,Ireland
+odi,HJC Mol,Netherlands,42,125,4,33.6,Zimbabwe
+odi,HJH Marshall,New Zealand,661,980,31,67.44897959183673,Bangladesh
+odi,HJW Gardiner,Scotland,142,220,7,64.54545454545455,Hong Kong
+odi,HK Badani,India,135,175,3,77.14285714285715,Pakistan
+odi,HK Bennett,New Zealand,10,35,2,28.57142857142857,Bangladesh
+odi,HK Matthews,West Indies,2615,3363,73,77.75795420755279,England
+odi,HK Olonga,Zimbabwe,3,12,1,25.0,India
+odi,HL Baker,England,3,3,0,100.0,Bangladesh
+odi,HL Colvin,England,29,29,2,100.0,Bangladesh
+odi,HL Ferling,Australia,9,23,2,39.130434782608695,Pakistan
+odi,HM Amla,South Africa,7834,9058,157,86.48708324133364,Sri Lanka
+odi,HM Nicholls,New Zealand,2180,2781,62,78.38906868033082,Bangladesh
+odi,HM Rowe,New Zealand,332,501,26,66.26746506986028,Bangladesh
+odi,HM Tiffen,New Zealand,33,41,0,80.48780487804879,Bangladesh
+odi,HM Watson,New Zealand,15,26,1,57.692307692307686,Bangladesh
+odi,HMCM Bandara,Sri Lanka,130,185,8,70.27027027027027,Australia
+odi,HMD Rasangika,Sri Lanka,232,400,9,57.99999999999999,Australia
+odi,HML Madushani,Sri Lanka,3,15,2,20.0,Australia
+odi,HMRKB Herath,Sri Lanka,140,229,13,61.135371179039296,Australia
+odi,HN Ya France,Namibia,237,293,8,80.88737201365188,Oman
+odi,HNK Jensen,New Zealand,284,389,24,73.00771208226222,Bangladesh
+odi,HP Rinke,Zimbabwe,28,64,7,43.75,India
+odi,HP Tillakaratne,Sri Lanka,332,562,11,59.07473309608541,Australia
+odi,HR Huddleston,New Zealand,57,125,8,45.6,Bangladesh
+odi,HR Johnson,United States of America,9,21,1,42.857142857142854,Papua New Guinea
+odi,HR Walsh,United States of America,27,38,1,71.05263157894737,Papua New Guinea
+odi,HR Walsh,West Indies,145,226,9,64.15929203539822,England
+odi,HRA Rainey,Scotland,22,51,4,43.13725490196079,Hong Kong
+odi,HS Baidwan,Canada,117,182,8,64.28571428571429,United States of America
+odi,HS Modi,Kenya,205,457,10,44.85776805251641,New Zealand
+odi,HT Tector,Ireland,1775,2168,38,81.87269372693727,Bangladesh
+odi,HW Rambaldo,Netherlands,19,97,2,19.587628865979383,Zimbabwe
+odi,HWA Landheer,Netherlands,23,72,6,31.944444444444443,Zimbabwe
+odi,HWR Cartwright,Australia,2,23,2,8.695652173913043,Pakistan
+odi,Habibul Bashar,Bangladesh,926,1671,42,55.41591861160982,New Zealand
+odi,Haider Ali,Pakistan,42,33,2,127.27272727272727,South Africa
+odi,Hammad Azam,Pakistan,79,131,5,60.30534351145038,South Africa
+odi,Hammad Mirza,Oman,268,400,10,67.0,Papua New Guinea
+odi,Hamza Tahir,Scotland,26,81,6,32.098765432098766,Hong Kong
+odi,Hamza Tariq,Canada,99,144,6,68.75,United States of America
+odi,Hannan Sarkar,Bangladesh,280,537,12,52.1415270018622,New Zealand
+odi,Harbhajan Singh,Asia XI,24,25,3,96.0,
+odi,Harbhajan Singh,India,893,1122,62,79.59001782531195,Pakistan
+odi,Haris Rauf,Pakistan,101,122,12,82.78688524590164,South Africa
+odi,Haris Sohail,Pakistan,1709,2010,33,85.02487562189054,South Africa
+odi,Harmeet Singh,United States of America,227,228,12,99.56140350877193,Papua New Guinea
+odi,Harshit Rana,India,13,10,1,130.0,Pakistan
+odi,Hasan Ali,Pakistan,377,331,27,113.89728096676737,South Africa
+odi,Hasan Mahmud,Bangladesh,37,77,8,48.05194805194805,New Zealand
+odi,Haseeb Amjad,Hong Kong,21,15,1,140.0,Papua New Guinea
+odi,Haseebullah Khan,Pakistan,0,2,1,0.0,South Africa
+odi,Hashir Dafedar,Oman,29,62,2,46.774193548387096,Papua New Guinea
+odi,Hasibul Hossain,Bangladesh,7,23,1,30.434782608695656,New Zealand
+odi,Hassnain Shah,Oman,70,56,2,125.0,Papua New Guinea
+odi,Hazrat Bilal,United Arab Emirates,24,72,1,33.33333333333333,Papua New Guinea
+odi,Hussain Talat,Pakistan,2,14,1,14.285714285714285,South Africa
+odi,I Dulani,Sri Lanka,26,77,3,33.76623376623377,Australia
+odi,I Kaia,Zimbabwe,332,520,16,63.84615384615384,India
+odi,I Maraj,Canada,98,273,5,35.8974358974359,United States of America
+odi,I Ranaweera,Sri Lanka,179,472,14,37.92372881355932,Australia
+odi,I Sharma,India,72,209,15,34.44976076555024,Pakistan
+odi,I Toua,Papua New Guinea,41,100,7,41.0,Ireland
+odi,I Udana,Sri Lanka,227,236,13,96.1864406779661,Australia
+odi,I Wardlaw,Scotland,18,33,5,54.54545454545454,Hong Kong
+odi,I van der Woning,Netherlands,13,35,2,37.142857142857146,Zimbabwe
+odi,IA Karim,Kenya,196,237,2,82.70042194092827,New Zealand
+odi,IA Nicolson,Zimbabwe,0,3,1,0.0,India
+odi,IC Gaze,New Zealand,219,348,15,62.93103448275862,Bangladesh
+odi,ID Blackwell,England,146,213,16,68.54460093896714,Bangladesh
+odi,IDR Bradshaw,West Indies,259,423,15,61.22931442080378,England
+odi,IE O'Brien,New Zealand,3,11,0,27.27272727272727,Bangladesh
+odi,IECM Wong,England,15,9,1,166.66666666666669,Bangladesh
+odi,IG Butler,New Zealand,78,125,7,62.4,Bangladesh
+odi,IG Holland,United States of America,368,481,14,76.50727650727652,Papua New Guinea
+odi,IH Romaine,Bermuda,175,360,10,48.61111111111111,Sri Lanka
+odi,IJ Harvey,Australia,259,287,12,90.2439024390244,Pakistan
+odi,IJL Trott,England,2819,3732,57,75.53590568060021,Bangladesh
+odi,IJR Zwilling,Netherlands,145,351,13,41.31054131054131,Zimbabwe
+odi,IK Pathan,India,1226,1548,55,79.19896640826873,Pakistan
+odi,IM Vaghela,United States of America,45,91,5,49.45054945054945,Papua New Guinea
+odi,IMHC Joyce,Ireland,201,312,8,64.42307692307693,Bangladesh
+odi,IPP Batuwitarachchi,United Arab Emirates,14,51,2,27.450980392156865,Papua New Guinea
+odi,IR Bell,England,5289,6997,137,75.58953837358868,Bangladesh
+odi,IR James,New Zealand,51,64,2,79.6875,Bangladesh
+odi,IS Billcliff,Canada,223,389,9,57.326478149100254,United States of America
+odi,IS Sodhi,New Zealand,210,306,20,68.62745098039215,Bangladesh
+odi,IS Sohi,Canada,0,2,1,0.0,United States of America
+odi,Iftikhar Ahmed,Pakistan,527,497,16,106.03621730382294,South Africa
+odi,Iftikhar Anjum,Pakistan,203,335,15,60.59701492537314,South Africa
+odi,Imad Wasim,Pakistan,937,860,22,108.95348837209302,South Africa
+odi,Imam-ul-Haq,Pakistan,2854,3543,63,80.55320349985887,South Africa
+odi,Imran Farhat,Pakistan,1232,1909,43,64.53640649554741,South Africa
+odi,Imran Haider,United Arab Emirates,54,127,7,42.51968503937008,Papua New Guinea
+odi,Imran Nazir,Pakistan,531,604,21,87.91390728476821,South Africa
+odi,Imran Tahir,South Africa,157,233,18,67.38197424892704,Sri Lanka
+odi,Imrul Kayes,Bangladesh,2242,3268,71,68.6046511627907,New Zealand
+odi,Inzamam-ul-Haq,Asia XI,6,12,1,50.0,
+odi,Inzamam-ul-Haq,Pakistan,1910,2470,47,77.32793522267207,South Africa
+odi,Iram Javed,Pakistan,216,380,18,56.84210526315789,South Africa
+odi,Irfan Ahmed,Hong Kong,55,81,3,67.90123456790124,Papua New Guinea
+odi,Irfan Khan,Pakistan,48,75,6,64.0,South Africa
+odi,Ishan Kishan,India,886,890,21,99.5505617977528,Pakistan
+odi,Ishma Tanjim,Bangladesh,24,65,3,36.92307692307693,New Zealand
+odi,J Anderson,Ireland,118,205,6,57.56097560975609,Bangladesh
+odi,J Andrew,West Indies,8,13,2,61.53846153846154,England
+odi,J Blackwood,West Indies,23,43,2,53.48837209302325,England
+odi,J Botha,Africa XI,31,17,1,182.35294117647058,Asia XI
+odi,J Botha,South Africa,563,701,29,80.31383737517832,Sri Lanka
+odi,J Campbell,Zimbabwe,8,15,1,53.333333333333336,India
+odi,J Charles,West Indies,1544,1840,59,83.91304347826087,England
+odi,J Da Silva,West Indies,14,35,2,40.0,England
+odi,J Drysdale,United States of America,2,6,0,33.33333333333333,Papua New Guinea
+odi,J Edness,Bermuda,119,218,4,54.58715596330275,Sri Lanka
+odi,J Figy John,United Arab Emirates,55,75,1,73.33333333333333,Papua New Guinea
+odi,J Fraser-McGurk,Australia,98,77,7,127.27272727272727,Pakistan
+odi,J Glasgow,West Indies,25,43,3,58.139534883720934,England
+odi,J Goswami,India,419,572,27,73.25174825174825,Pakistan
+odi,J Gray,Ireland,62,113,4,54.86725663716814,Bangladesh
+odi,J Gumbie,Zimbabwe,379,581,15,65.23235800344234,India
+odi,J Jarvis,Scotland,75,102,7,73.52941176470588,Hong Kong
+odi,J Kariko,Papua New Guinea,8,12,2,66.66666666666666,Ireland
+odi,J Kila,Papua New Guinea,159,249,11,63.85542168674698,Ireland
+odi,J Lewis,England,43,49,5,87.75510204081633,Bangladesh
+odi,J Little,Ireland,81,90,9,90.0,Bangladesh
+odi,J Liyanage,Sri Lanka,566,717,13,78.94002789400278,Australia
+odi,J Logtenberg,South Africa,6,15,2,40.0,Sri Lanka
+odi,J Louw,South Africa,23,7,1,328.57142857142856,Sri Lanka
+odi,J Maguire,Ireland,74,120,10,61.66666666666667,Bangladesh
+odi,J Matharu,Canada,7,10,1,70.0,United States of America
+odi,J Mubarak,Sri Lanka,531,833,22,63.745498199279716,Australia
+odi,J Nkomo,Zimbabwe,354,553,10,64.01446654611212,India
+odi,J Nyumbu,Zimbabwe,45,90,9,50.0,India
+odi,J Overton,England,50,56,5,89.28571428571429,Bangladesh
+odi,J Pashley,Netherlands,2,17,1,11.76470588235294,Zimbabwe
+odi,J Patraj,Canada,21,48,2,43.75,United States of America
+odi,J Post,Netherlands,15,52,3,28.846153846153843,Zimbabwe
+odi,J Ramanandi,Oman,2,15,1,13.333333333333334,Papua New Guinea
+odi,J Sharma,India,17,33,2,51.515151515151516,Pakistan
+odi,J Smits,Netherlands,72,195,5,36.92307692307693,Zimbabwe
+odi,J Srinath,India,31,82,5,37.80487804878049,Pakistan
+odi,J Sumerauer,Jersey,84,74,3,113.51351351351352,Namibia
+odi,J Theron,South Africa,5,5,1,100.0,Sri Lanka
+odi,J Theron,United States of America,45,99,9,45.45454545454545,Papua New Guinea
+odi,J Yadav,India,3,7,1,42.857142857142854,Pakistan
+odi,J van Vliet,Netherlands,35,84,5,41.66666666666667,Zimbabwe
+odi,JA Burns,Australia,146,189,6,77.24867724867724,Pakistan
+odi,JA Clarkson,New Zealand,17,24,2,70.83333333333334,Bangladesh
+odi,JA Duffy,New Zealand,12,21,1,57.14285714285714,Bangladesh
+odi,JA McCollum,Ireland,178,246,6,72.35772357723577,Bangladesh
+odi,JA Morkel,Africa XI,22,30,2,73.33333333333333,Asia XI
+odi,JA Morkel,South Africa,683,697,27,97.99139167862266,Sri Lanka
+odi,JA Richardson,Australia,93,109,5,85.3211009174312,Pakistan
+odi,JA Rudolph,Africa XI,7,18,0,38.88888888888889,Asia XI
+odi,JA Rudolph,South Africa,813,1210,17,67.1900826446281,Sri Lanka
+odi,JA Simpson,England,20,32,2,62.5,Bangladesh
+odi,JA Turner,England,2,5,0,40.0,Bangladesh
+odi,JA Whelan,Ireland,0,2,1,0.0,Bangladesh
+odi,JAD Lawrenson,Jersey,177,215,4,82.32558139534883,Namibia
+odi,JAH Marshall,New Zealand,33,84,6,39.285714285714285,Bangladesh
+odi,JAR Blain,Scotland,67,134,5,50.0,Hong Kong
+odi,JB Nero,West Indies,31,56,3,55.35714285714286,England
+odi,JB Reva,Papua New Guinea,15,27,3,55.55555555555556,Ireland
+odi,JC Archer,England,148,151,8,98.01324503311258,Bangladesh
+odi,JC Balt,Namibia,35,60,1,58.333333333333336,Oman
+odi,JC Buttler,England,5191,4586,129,113.19232446576537,Bangladesh
+odi,JC Carroll,Ireland,0,7,1,0.0,Bangladesh
+odi,JC Hartenhof,Netherlands,1,2,0,50.0,Zimbabwe
+odi,JC Tredwell,England,163,247,12,65.9919028340081,Bangladesh
+odi,JD Campbell,West Indies,248,218,5,113.76146788990826,England
+odi,JD Nel,Scotland,6,12,0,50.0,Hong Kong
+odi,JD Ryder,New Zealand,1242,1294,35,95.98145285935085,Bangladesh
+odi,JDF Vandersay,Sri Lanka,112,241,9,46.47302904564315,Australia
+odi,JDP Oram,New Zealand,1546,1762,62,87.74120317820659,Bangladesh
+odi,JDS Neesham,New Zealand,1508,1538,52,98.04941482444734,Bangladesh
+odi,JE Cameron,Australia,452,601,14,75.20798668885192,Pakistan
+odi,JE Dunford,Jersey,6,17,3,35.294117647058826,Namibia
+odi,JE Root,England,6834,7958,140,85.8758482030661,Bangladesh
+odi,JE Taylor,West Indies,258,300,30,86.0,England
+odi,JEC Franklin,New Zealand,1107,1425,41,77.6842105263158,Bangladesh
+odi,JF Kloppenburg,Netherlands,149,240,4,62.083333333333336,Zimbabwe
+odi,JF Mooney,Ireland,610,746,27,81.76943699731903,Bangladesh
+odi,JF Smith,South Africa,132,151,2,87.41721854304636,Sri Lanka
+odi,JG Bethell,England,317,361,9,87.81163434903047,Bangladesh
+odi,JH Davey,Scotland,193,312,12,61.858974358974365,Hong Kong
+odi,JH Desai,United States of America,16,38,1,42.10526315789473,Papua New Guinea
+odi,JH Kallis,Africa XI,8,35,3,22.857142857142858,Asia XI
+odi,JH Kallis,ICC World XI,13,35,1,37.142857142857146,
+odi,JH Kallis,South Africa,4908,6478,107,75.7641247298549,Sri Lanka
+odi,JH Stander,Scotland,34,42,1,80.95238095238095,Hong Kong
+odi,JI Rodrigues,India,1296,1507,42,85.99867285998673,Pakistan
+odi,JI de Villiers,Namibia,28,65,6,43.07692307692308,Oman
+odi,JJ Atkinson,Hong Kong,84,152,4,55.26315789473685,Papua New Guinea
+odi,JJ Bumrah,India,90,163,11,55.21472392638037,Pakistan
+odi,JJ Celestine,Bermuda,28,64,3,43.75,Sri Lanka
+odi,JJ Davidson,Scotland,36,32,0,112.5,Hong Kong
+odi,JJ Esmeijer,Netherlands,3,15,1,20.0,Zimbabwe
+odi,JJ Krejza,Australia,13,25,1,52.0,Pakistan
+odi,JJ Roy,England,4237,4116,105,102.93974732750245,Bangladesh
+odi,JJ Smit,Namibia,884,1259,36,70.21445591739476,Oman
+odi,JJ Tucker,Bermuda,203,321,11,63.2398753894081,Sri Lanka
+odi,JJ van der Wath,South Africa,89,72,6,123.61111111111111,Sri Lanka
+odi,JJC Lawson,West Indies,11,13,1,84.61538461538461,England
+odi,JK Kamande,Kenya,171,363,18,47.107438016528924,New Zealand
+odi,JKC Claxton,West Indies,17,15,1,113.33333333333333,England
+odi,JL Aras,United States of America,5,6,0,83.33333333333334,Papua New Guinea
+odi,JL Carter,West Indies,560,778,21,71.97943444730078,England
+odi,JL Denly,England,446,645,12,69.14728682170542,Bangladesh
+odi,JL Gunn,England,322,534,18,60.2996254681648,Bangladesh
+odi,JL Hunter,Australia,16,35,0,45.714285714285715,Pakistan
+odi,JL Jonassen,Australia,533,632,25,84.33544303797468,Pakistan
+odi,JL Ontong,Africa XI,0,2,1,0.0,Asia XI
+odi,JL Ontong,South Africa,97,134,5,72.38805970149254,Sri Lanka
+odi,JL Pattinson,Australia,41,80,3,51.24999999999999,Pakistan
+odi,JL Smith,England,185,193,10,95.85492227979275,Bangladesh
+odi,JM Anderson,England,254,514,34,49.416342412451364,Bangladesh
+odi,JM Bairstow,England,3671,3682,88,99.70124932102118,Bangladesh
+odi,JM Cox,England,22,57,3,38.59649122807017,Bangladesh
+odi,JM Davison,Canada,443,393,14,112.72264631043257,United States of America
+odi,JM Fields,Australia,215,333,8,64.56456456456456,Pakistan
+odi,JM How,New Zealand,939,1449,32,64.80331262939958,Bangladesh
+odi,JM Kemp,Africa XI,103,109,5,94.4954128440367,Asia XI
+odi,JM Kemp,South Africa,1123,1364,36,82.33137829912025,Sri Lanka
+odi,JM Kerr,New Zealand,276,267,23,103.37078651685394,Bangladesh
+odi,JM Mennie,Australia,1,5,2,20.0,Pakistan
+odi,JM Vince,England,590,682,20,86.51026392961877,Bangladesh
+odi,JM Watkin,New Zealand,24,40,3,60.0,Bangladesh
+odi,JM Willathgamuwa,United States of America,20,52,2,38.46153846153847,Papua New Guinea
+odi,JN Frylinck,Namibia,668,968,33,69.00826446280992,Oman
+odi,JN Gillespie,Australia,115,110,6,104.54545454545455,Pakistan
+odi,JN Hamilton,West Indies,5,16,1,31.25,England
+odi,JN Loftie-Eaton,Namibia,951,1317,33,72.20956719817767,Oman
+odi,JN Malan,South Africa,958,1177,20,81.39337298215803,Sri Lanka
+odi,JN Mohammed,West Indies,621,929,27,66.84607104413348,England
+odi,JN Rhodes,South Africa,2,6,1,33.33333333333333,Sri Lanka
+odi,JNK Shannon,Ireland,2,8,1,25.0,Bangladesh
+odi,JNT Seales,West Indies,51,62,4,82.25806451612904,England
+odi,JNT Vare,Papua New Guinea,35,71,5,49.29577464788733,Ireland
+odi,JO Holder,West Indies,2144,2431,86,88.19415878239407,England
+odi,JO Ngoche,Kenya,11,29,2,37.93103448275862,New Zealand
+odi,JO Troughton,England,36,77,4,46.75324675324675,Bangladesh
+odi,JOA Gordon,Canada,22,48,4,45.83333333333333,United States of America
+odi,JP Behrendorff,Australia,21,23,3,91.30434782608695,Pakistan
+odi,JP Bray,Ireland,234,371,9,63.07277628032345,Bangladesh
+odi,JP Duminy,South Africa,4928,5986,140,82.32542599398597,Sri Lanka
+odi,JP Faulkner,Australia,1025,1018,30,100.68762278978389,Pakistan
+odi,JP Greaves,West Indies,234,244,9,95.90163934426229,England
+odi,JP Inglis,Australia,674,652,23,103.37423312883436,Pakistan
+odi,JP Kotze,Namibia,407,597,23,68.17420435510888,Oman
+odi,JP Maher,Australia,122,187,5,65.24064171122996,Pakistan
+odi,JPR Lamsam,Hong Kong,16,30,1,53.333333333333336,Papua New Guinea
+odi,JR Hazlewood,Australia,131,164,7,79.8780487804878,Pakistan
+odi,JR Hopes,Australia,1326,1436,50,92.33983286908078,Pakistan
+odi,JR Philippe,Australia,65,91,3,71.42857142857143,Pakistan
+odi,JS Ababu,Kenya,0,9,0,0.0,New Zealand
+odi,JS Malhotra,United States of America,358,382,11,93.717277486911,Papua New Guinea
+odi,JS Patel,New Zealand,91,152,7,59.86842105263158,Bangladesh
+odi,JT Ball,England,38,50,5,76.0,Bangladesh
+odi,JT Brassell,Namibia,2,18,5,11.11111111111111,Oman
+odi,JT Smuts,South Africa,180,233,4,77.25321888412017,Sri Lanka
+odi,JV Harris,Canada,91,207,6,43.96135265700483,United States of America
+odi,JW Dernbach,England,19,40,6,47.5,Bangladesh
+odi,JW Hastings,Australia,271,281,10,96.44128113879003,Pakistan
+odi,JW Jenner,Jersey,119,176,4,67.61363636363636,Namibia
+odi,JW Ogle-Thomas,West Indies,10,17,2,58.82352941176471,England
+odi,JW Wilson,New Zealand,1,2,1,50.0,Bangladesh
+odi,JWA Taylor,England,879,1105,24,79.5475113122172,Bangladesh
+odi,JWM Dalrymple,England,487,677,24,71.93500738552437,Bangladesh
+odi,Jahanara Alam,Bangladesh,80,227,16,35.24229074889868,New Zealand
+odi,Jahurul Islam,Bangladesh,226,325,10,69.53846153846153,New Zealand
+odi,Jai Prakash Yadav,India,12,26,2,46.15384615384615,Pakistan
+odi,Jaker Ali,Bangladesh,226,280,3,80.71428571428572,New Zealand
+odi,Jamaluddin Ahmed,Bangladesh,18,31,1,58.06451612903226,New Zealand
+odi,Jannatul Ferdus,Bangladesh,30,77,5,38.961038961038966,New Zealand
+odi,Jasdeep Singh,United States of America,293,427,23,68.61826697892272,Papua New Guinea
+odi,Jatinder Singh,Oman,1670,2299,54,72.64027838190518,Papua New Guinea
+odi,Javed Omar,Bangladesh,468,967,20,48.3971044467425,New Zealand
+odi,Javeria Khan,Pakistan,1408,2289,50,61.51157710790738,South Africa
+odi,Javeria Rauf,Pakistan,11,16,1,68.75,South Africa
+odi,Jay Odedra,Oman,31,60,6,51.66666666666667,Papua New Guinea
+odi,Joginder Sharma,India,5,2,0,250.0,Pakistan
+odi,Joseph Angara,Kenya,0,3,1,0.0,New Zealand
+odi,Jubair Hossain,Bangladesh,5,10,1,50.0,New Zealand
+odi,Junaid Khan,Pakistan,68,134,14,50.74626865671642,South Africa
+odi,Junaid Siddique,Bangladesh,896,1315,44,68.13688212927757,New Zealand
+odi,Junaid Siddique,United Arab Emirates,126,213,24,59.154929577464785,Papua New Guinea
+odi,Junaid Siddique (2),United Arab Emirates,5,17,1,29.411764705882355,Papua New Guinea
+odi,Junaid Siddiqui,Canada,59,147,6,40.136054421768705,United States of America
+odi,K Bhurtel,Nepal,1182,1498,53,78.90520694259013,Oman
+odi,K Birkenstock,Namibia,233,438,15,53.19634703196348,Oman
+odi,K Chigora,Zimbabwe,1,1,0,100.0,India
+odi,K Christie,Hong Kong,0,3,1,0.0,Papua New Guinea
+odi,K Doriga,Papua New Guinea,520,927,30,56.09492988133765,Ireland
+odi,K Frank,Papua New Guinea,70,130,6,53.84615384615385,Ireland
+odi,K Fraser,Scotland,229,303,8,75.57755775577559,Hong Kong
+odi,K Gore,United States of America,171,256,10,66.796875,Papua New Guinea
+odi,K Goud,India,0,2,0,0.0,Pakistan
+odi,K Gowtham,India,2,3,1,66.66666666666666,Pakistan
+odi,K Kamyuka,Canada,2,2,1,100.0,United States of America
+odi,K Kavindi,Sri Lanka,17,37,2,45.94594594594595,Australia
+odi,K Klein,Netherlands,84,127,5,66.14173228346458,Zimbabwe
+odi,K Mahato,Nepal,1,10,0,10.0,Oman
+odi,K Meso,South Africa,16,45,2,35.55555555555556,Sri Lanka
+odi,K Ndlovu,Zimbabwe,168,292,10,57.534246575342465,India
+odi,K Phillip,United States of America,0,2,1,0.0,Papua New Guinea
+odi,K Pierre,West Indies,39,47,2,82.97872340425532,England
+odi,K Rabada,South Africa,401,514,26,78.01556420233463,Sri Lanka
+odi,K Ramharack,West Indies,118,290,14,40.689655172413794,England
+odi,K Schultz,West Indies,0,19,1,0.0,England
+odi,K Sinclair,West Indies,38,65,2,58.46153846153847,England
+odi,K Sonavale,Oman,5,29,3,17.24137931034483,Papua New Guinea
+odi,K Thomson,South Africa,52,69,2,75.36231884057972,Sri Lanka
+odi,K Verreynne,South Africa,521,582,12,89.51890034364261,Sri Lanka
+odi,K Weeraratne,Sri Lanka,120,139,5,86.33093525179856,Australia
+odi,K Whatham,Canada,18,43,1,41.86046511627907,United States of America
+odi,K Zondo,South Africa,146,235,5,62.12765957446808,Sri Lanka
+odi,KA Blackwell,Australia,3,11,1,27.27272727272727,Pakistan
+odi,KA Edwards,West Indies,331,510,13,64.90196078431373,England
+odi,KA Hope,West Indies,138,201,6,68.65671641791045,England
+odi,KA Jamieson,New Zealand,92,107,4,85.98130841121495,Bangladesh
+odi,KA Maharaj,South Africa,239,301,20,79.40199335548172,Sri Lanka
+odi,KA Pollard,West Indies,2608,2877,102,90.64998262078554,England
+odi,KAD Hurdle,Bermuda,25,47,5,53.191489361702125,Sri Lanka
+odi,KADA Kanchana,Sri Lanka,230,417,16,55.15587529976019,Australia
+odi,KAJ Roach,West Indies,308,610,22,50.49180327868853,England
+odi,KAR Hodge,West Indies,37,48,3,77.08333333333334,England
+odi,KC Brathwaite,West Indies,278,494,9,56.2753036437247,England
+odi,KC Hodsoll,Bermuda,2,6,0,33.33333333333333,Sri Lanka
+odi,KC Sangakkara,Asia XI,36,94,1,38.297872340425535,
+odi,KC Sangakkara,ICC World XI,74,62,2,119.35483870967742,
+odi,KC Sangakkara,Sri Lanka,11508,14478,253,79.48611686697058,Australia
+odi,KD Karthik,India,1624,2275,59,71.38461538461539,Pakistan
+odi,KD Mills,New Zealand,871,988,46,88.1578947368421,Bangladesh
+odi,KD Shah,Hong Kong,112,192,6,58.333333333333336,Papua New Guinea
+odi,KDK Vithanage,Sri Lanka,75,92,5,81.52173913043478,Australia
+odi,KDU Prabodhani,Sri Lanka,126,353,18,35.69405099150141,Australia
+odi,KE Broadmore,New Zealand,9,34,2,26.47058823529412,Bangladesh
+odi,KE Bryce,Scotland,594,679,10,87.48159057437408,Hong Kong
+odi,KE Ebrahim,New Zealand,52,95,3,54.736842105263165,Bangladesh
+odi,KED Carroll,Ireland,28,42,3,66.66666666666666,Bangladesh
+odi,KH Brunt,England,813,1087,34,74.79300827966881,Bangladesh
+odi,KH Butt,Hong Kong,8,29,2,27.586206896551722,Papua New Guinea
+odi,KH Pandya,India,130,131,2,99.23664122137404,Pakistan
+odi,KH Prajapati,Oman,996,1351,36,73.72316802368616,Papua New Guinea
+odi,KHRK Fernando,Sri Lanka,3,15,1,20.0,Australia
+odi,KIC Asalanka,Sri Lanka,2015,2287,52,88.10668998688239,Australia
+odi,KJ Abbott,South Africa,76,129,9,58.91472868217055,Sri Lanka
+odi,KJ Coetzer,Scotland,2280,2826,58,80.67940552016985,Hong Kong
+odi,KJ Garth,Australia,95,137,4,69.34306569343066,Pakistan
+odi,KJ Garth,Ireland,78,210,6,37.142857142857146,Bangladesh
+odi,KJ Harding,West Indies,1,1,0,100.0,England
+odi,KJ Martin,New Zealand,1161,1536,45,75.5859375,Bangladesh
+odi,KJ O'Brien,Ireland,1990,2151,73,92.51510925151094,Bangladesh
+odi,KJJ van Noortwijk,Netherlands,141,143,2,98.6013986013986,Zimbabwe
+odi,KK Ahmed,India,8,17,2,47.05882352941176,Pakistan
+odi,KK Nair,India,46,89,2,51.68539325842697,Pakistan
+odi,KL Cross,England,270,391,20,69.0537084398977,Bangladesh
+odi,KL George,England,9,19,1,47.368421052631575,Bangladesh
+odi,KL Rahul,India,2953,3393,59,87.03212496315945,Pakistan
+odi,KL Rolton,Australia,2,12,2,16.666666666666664,Pakistan
+odi,KL Tucker,Bermuda,0,4,1,0.0,Sri Lanka
+odi,KM Beams,Australia,27,44,4,61.36363636363637,Pakistan
+odi,KM Dabengwa,Zimbabwe,364,631,19,57.68621236133122,India
+odi,KM Jadhav,India,1318,1307,31,100.84162203519512,Pakistan
+odi,KM Jarvis,Zimbabwe,195,320,21,60.9375,India
+odi,KMA Paul,West Indies,304,316,15,96.20253164556962,England
+odi,KMC Bandara,Sri Lanka,1,3,0,33.33333333333333,Australia
+odi,KMDN Kulasekara,Sri Lanka,1323,1660,84,79.6987951807229,Australia
+odi,KNA Bandara,Sri Lanka,141,217,5,64.97695852534562,Australia
+odi,KNM Fernando,Sri Lanka,158,169,3,93.49112426035504,Australia
+odi,KO Meth,Zimbabwe,49,93,6,52.68817204301075,India
+odi,KO Otieno,Kenya,250,595,19,42.016806722689076,New Zealand
+odi,KOA Powell,West Indies,934,1191,38,78.42149454240135,England
+odi,KOK Williams,West Indies,19,27,1,70.37037037037037,England
+odi,KP Meiyappan,United Arab Emirates,163,342,17,47.66081871345029,Papua New Guinea
+odi,KP Pietersen,England,4186,4966,106,84.29319371727748,Bangladesh
+odi,KP Pietersen,ICC World XI,16,24,1,66.66666666666666,
+odi,KR Mayers,West Indies,660,802,25,82.29426433915212,England
+odi,KR Sen,India,2,4,0,50.0,Pakistan
+odi,KS Airee,Nepal,27,24,1,112.5,Oman
+odi,KS Gautam,India,22,17,1,129.41176470588235,Pakistan
+odi,KS Lokuarachchi,Sri Lanka,164,217,10,75.57603686635944,Australia
+odi,KS Williamson,New Zealand,7124,8824,144,80.73436083408885,Bangladesh
+odi,KT Maphaka,South Africa,1,3,2,33.33333333333333,Sri Lanka
+odi,KT Perkins,New Zealand,618,838,27,73.74701670644392,Bangladesh
+odi,KT Sandher,Canada,2,6,1,33.33333333333333,United States of America
+odi,KTGD Prasad,Sri Lanka,120,117,5,102.56410256410255,Australia
+odi,KU Carty,West Indies,1403,1733,26,80.95787651471437,England
+odi,KV Jain,India,104,219,6,47.48858447488584,Pakistan
+odi,KV Morea,Papua New Guinea,72,119,6,60.50420168067227,Ireland
+odi,KW Richardson,Australia,75,70,5,107.14285714285714,Pakistan
+odi,KY Ottley,West Indies,41,76,4,53.94736842105263,England
+odi,Kabir Ali,England,54,58,4,93.10344827586206,Bangladesh
+odi,Kainat Imtiaz,Pakistan,115,264,12,43.56060606060606,South Africa
+odi,Kaleem Sana,Canada,78,106,7,73.58490566037736,United States of America
+odi,Kaleemullah,Oman,125,139,16,89.92805755395683,Papua New Guinea
+odi,Kamran Akmal,Pakistan,2746,3374,106,81.38707765263781,South Africa
+odi,Kamran Ghulam,Pakistan,210,213,7,98.59154929577466,South Africa
+odi,Kamran Hussain,Pakistan,28,21,0,133.33333333333331,South Africa
+odi,Kamran Shazad,United Arab Emirates,0,3,1,0.0,Papua New Guinea
+odi,Karan KC,Nepal,457,549,29,83.24225865209472,Oman
+odi,Kashif Daud,United Arab Emirates,282,318,8,88.67924528301887,Papua New Guinea
+odi,Kaynat Hafeez,Pakistan,4,6,1,66.66666666666666,South Africa
+odi,Khadija Tul Kubra,Bangladesh,24,69,5,34.78260869565217,New Zealand
+odi,Khaled Ahmed,Bangladesh,1,4,1,25.0,New Zealand
+odi,Khaled Mahmud,Bangladesh,283,483,24,58.59213250517599,New Zealand
+odi,Khaled Mashud,Bangladesh,605,1139,27,53.11676909569798,New Zealand
+odi,Khalid Kail,Oman,117,158,4,74.0506329113924,Papua New Guinea
+odi,Khalid Latif,Pakistan,147,233,5,63.0901287553648,South Africa
+odi,Khawar Ali,Oman,620,1080,22,57.407407407407405,Papua New Guinea
+odi,Khurram Chohan,Canada,77,144,7,53.47222222222222,United States of America
+odi,Khurram Khan,United Arab Emirates,237,318,9,74.52830188679245,Papua New Guinea
+odi,Khurram Manzoor,Pakistan,206,323,6,63.77708978328174,South Africa
+odi,Khurram Nawaz,Oman,26,49,1,53.06122448979592,Papua New Guinea
+odi,Khushdil Shah,Pakistan,329,340,10,96.76470588235294,South Africa
+odi,Krishna Chandran,United Arab Emirates,59,163,7,36.19631901840491,Papua New Guinea
+odi,Kuldeep Yadav,India,197,413,20,47.699757869249396,Pakistan
+odi,Kushal Malla,Nepal,756,870,31,86.89655172413792,Oman
+odi,Kycia A Knight,West Indies,699,1350,44,51.77777777777778,England
+odi,Kyshona A Knight,West Indies,597,1244,30,47.99035369774919,England
+odi,L Balaji,India,104,132,8,78.78787878787878,Pakistan
+odi,L Cheatle,Australia,13,13,1,100.0,Pakistan
+odi,L Delany,Ireland,1036,1493,34,69.39048894842598,Bangladesh
+odi,L Egging,Netherlands,1,15,1,6.666666666666667,Zimbabwe
+odi,L Filer,England,24,43,3,55.81395348837209,Bangladesh
+odi,L Goodall,South Africa,878,1457,39,60.2608098833219,Sri Lanka
+odi,L Gregory,England,117,116,2,100.86206896551724,Bangladesh
+odi,L Jack,Scotland,113,109,6,103.6697247706422,Hong Kong
+odi,L Klusener,South Africa,163,156,3,104.48717948717949,Sri Lanka
+odi,L Lee,South Africa,2516,3044,68,82.65440210249672,Sri Lanka
+odi,L Little,Ireland,24,35,4,68.57142857142857,Bangladesh
+odi,L Louwrens,Namibia,535,918,23,58.27886710239652,Oman
+odi,L Mabhero,Zimbabwe,1,9,2,11.11111111111111,India
+odi,L Maritz,Ireland,31,62,3,50.0,Bangladesh
+odi,L McCarthy,Ireland,0,5,1,0.0,Bangladesh
+odi,L Ngidi,South Africa,121,231,9,52.38095238095239,Sri Lanka
+odi,L Paul,Ireland,1113,1745,39,63.78223495702006,Bangladesh
+odi,L Phiri,Zimbabwe,54,145,5,37.24137931034483,India
+odi,L Rajadurai,Papua New Guinea,20,53,2,37.735849056603776,Ireland
+odi,L Ronchi,Australia,76,37,2,205.4054054054054,Pakistan
+odi,L Ronchi,New Zealand,1321,1204,57,109.71760797342193,Bangladesh
+odi,L Shetty,United States of America,8,28,1,28.57142857142857,Papua New Guinea
+odi,L Siaka,Papua New Guinea,749,1013,40,73.93879565646594,Ireland
+odi,L Sipamla,South Africa,14,20,0,70.0,Sri Lanka
+odi,L Sreekumar,United Arab Emirates,57,69,3,82.6086956521739,Papua New Guinea
+odi,L Tshuma,Zimbabwe,200,322,11,62.11180124223602,India
+odi,L Tucker,Ireland,844,1045,37,80.76555023923446,Bangladesh
+odi,L Vincent,New Zealand,1089,1593,39,68.36158192090396,Bangladesh
+odi,L Winfield,England,564,797,24,70.76537013801757,Bangladesh
+odi,L Winfield-Hill,England,294,474,12,62.0253164556962,Bangladesh
+odi,L Wolvaardt,South Africa,4078,5743,83,71.008183876023,Sri Lanka
+odi,L Wood,England,10,10,1,100.0,Bangladesh
+odi,LA Dawson,England,63,76,5,82.89473684210526,Bangladesh
+odi,LA Marsh,England,264,465,17,56.774193548387096,Bangladesh
+odi,LB Williams,South Africa,17,23,3,73.91304347826086,Sri Lanka
+odi,LC Boylan,Ireland,31,47,1,65.95744680851064,Bangladesh
+odi,LC Romero,United States of America,1,7,2,14.285714285714285,Papua New Guinea
+odi,LC Sthalekar,Australia,119,191,7,62.30366492146597,Pakistan
+odi,LD Chandimal,Sri Lanka,3657,5072,125,72.10173501577287,Australia
+odi,LD Madushanka,Sri Lanka,14,26,3,53.84615384615385,Australia
+odi,LDVV Silva,Sri Lanka,34,76,2,44.73684210526316,Australia
+odi,LE Bosman,Africa XI,2,12,1,16.666666666666664,Asia XI
+odi,LE Bosman,South Africa,299,306,11,97.7124183006536,Sri Lanka
+odi,LE Kaushalya,Sri Lanka,407,589,24,69.10016977928693,Australia
+odi,LE Milliken,New Zealand,1,3,0,33.33333333333333,Bangladesh
+odi,LE Plunkett,England,536,503,29,106.56063618290258,Bangladesh
+odi,LH Ferguson,New Zealand,122,246,16,49.59349593495935,Bangladesh
+odi,LHD Dilhara,Sri Lanka,49,60,4,81.66666666666667,Australia
+odi,LJ Burger,Namibia,11,65,5,16.923076923076923,Oman
+odi,LJ Hamilton,New Zealand,2,4,1,50.0,Bangladesh
+odi,LJ Poulton,Australia,25,69,3,36.231884057971016,Pakistan
+odi,LJ Woodcock,New Zealand,14,22,1,63.63636363636363,Bangladesh
+odi,LJ Wright,England,707,838,34,84.36754176610978,Bangladesh
+odi,LK Bell,England,27,57,5,47.368421052631575,Bangladesh
+odi,LK Ebsary,Australia,23,24,1,95.83333333333334,Pakistan
+odi,LK O'Reilly,Ireland,12,21,4,57.14285714285714,Bangladesh
+odi,LL Tsotsobe,South Africa,58,113,8,51.32743362831859,Sri Lanka
+odi,LM Hoitink,Netherlands,0,17,2,0.0,Zimbabwe
+odi,LM Jongwe,Zimbabwe,315,398,22,79.14572864321609,India
+odi,LM Kasperek,New Zealand,148,276,15,53.62318840579711,Bangladesh
+odi,LMM Tahuhu,New Zealand,340,395,34,86.07594936708861,Bangladesh
+odi,LMP Simmons,West Indies,1958,2741,62,71.4337832907698,England
+odi,LN McCarthy,Ireland,12,46,3,26.08695652173913,Bangladesh
+odi,LN Onyango,Kenya,61,82,2,74.39024390243902,New Zealand
+odi,LN Rajbanshi,Nepal,37,156,7,23.717948717948715,Oman
+odi,LN Roche,Zimbabwe,4,10,2,40.0,India
+odi,LOB Cann,Bermuda,214,174,10,122.98850574712642,Sri Lanka
+odi,LP van Troost,Netherlands,112,164,9,68.29268292682927,Zimbabwe
+odi,LPC Silva,Sri Lanka,1279,1805,44,70.85872576177286,Australia
+odi,LR Doolan,New Zealand,49,59,4,83.05084745762711,Bangladesh
+odi,LR Down,New Zealand,486,799,27,60.82603254067585,Bangladesh
+odi,LR Johnson,West Indies,19,65,3,29.230769230769234,England
+odi,LR Morris,Australia,0,2,1,0.0,Pakistan
+odi,LR Naylor,Scotland,20,21,1,95.23809523809523,Hong Kong
+odi,LRPL Taylor,New Zealand,8126,10040,189,80.93625498007968,Bangladesh
+odi,LS Baker,West Indies,11,17,1,64.70588235294117,England
+odi,LS Greenway,England,732,1112,17,65.82733812949641,Bangladesh
+odi,LS Livingstone,England,912,867,29,105.19031141868511,Bangladesh
+odi,LV van Beek,Netherlands,505,610,21,82.78688524590164,Zimbabwe
+odi,Lata Mondal,Bangladesh,170,349,11,48.71060171919771,New Zealand
+odi,Liton Das,Bangladesh,2178,2583,79,84.3205574912892,New Zealand
+odi,Lovepreet Singh,United Arab Emirates,9,26,2,34.61538461538461,Papua New Guinea
+odi,M Bhanuka,Sri Lanka,140,199,6,70.35175879396985,Australia
+odi,M Commins,Ireland,6,13,1,46.15384615384615,Bangladesh
+odi,M Daniels,South Africa,34,70,1,48.57142857142857,Sri Lanka
+odi,M De Ridder,South Africa,45,74,0,60.810810810810814,Sri Lanka
+odi,M Dillon,West Indies,44,52,7,84.61538461538461,England
+odi,M Faisal,Scotland,30,73,2,41.0958904109589,Hong Kong
+odi,M Faraz Akram,Zimbabwe,6,12,2,50.0,India
+odi,M Gill,Canada,122,156,2,78.2051282051282,United States of America
+odi,M Jansen,South Africa,464,449,18,103.34075723830736,Sri Lanka
+odi,M Joshi,India,20,32,2,62.5,Pakistan
+odi,M Kaif,India,1314,2062,48,63.72453928225025,Pakistan
+odi,M Kapp,South Africa,2195,2573,64,85.30897784687136,Sri Lanka
+odi,M Karg,Namibia,45,66,2,68.18181818181817,Oman
+odi,M Kartik,India,102,137,5,74.45255474452554,Pakistan
+odi,M Klaas,South Africa,109,275,21,39.63636363636363,Sri Lanka
+odi,M Kornet,Netherlands,0,9,2,0.0,Zimbabwe
+odi,M Labuschagne,Australia,1855,2238,51,82.88650580875782,Pakistan
+odi,M Levitt,Netherlands,336,410,13,81.95121951219512,Zimbabwe
+odi,M Madara,Sri Lanka,2,4,3,50.0,Australia
+odi,M Mangru,West Indies,31,76,4,40.78947368421053,England
+odi,M Mani,India,54,60,1,90.0,Pakistan
+odi,M Mavunga,Zimbabwe,3,15,1,20.0,India
+odi,M McColl,Scotland,209,258,11,81.0077519379845,Hong Kong
+odi,M Morkel,Africa XI,29,33,1,87.87878787878788,Asia XI
+odi,M Morkel,South Africa,239,331,29,72.20543806646525,Sri Lanka
+odi,M Mpongwana,South Africa,1,2,0,50.0,Sri Lanka
+odi,M Mupachikwa,Zimbabwe,415,743,16,55.85464333781965,India
+odi,M Muralitharan,Sri Lanka,317,386,42,82.12435233160622,Australia
+odi,M Musonda,Zimbabwe,262,405,12,64.69135802469135,India
+odi,M Nanayakkara,Sri Lanka,14,34,3,41.17647058823529,Australia
+odi,M Ntini,South Africa,101,153,14,66.01307189542483,Sri Lanka
+odi,M Pathirana,Sri Lanka,10,33,4,30.303030303030305,Australia
+odi,M Patwardhan,United States of America,1,13,3,7.6923076923076925,Papua New Guinea
+odi,M Prasidh Krishna,India,2,18,2,11.11111111111111,Pakistan
+odi,M Pushpakumara,Sri Lanka,7,21,0,33.33333333333333,Australia
+odi,M Raj,India,2949,4320,49,68.26388888888889,Pakistan
+odi,M Shehani,Sri Lanka,11,19,2,57.89473684210527,Australia
+odi,M Shiraz,Sri Lanka,1,1,0,100.0,Australia
+odi,M Shumba,Zimbabwe,40,83,4,48.19277108433735,India
+odi,M Smit,South Africa,47,70,2,67.14285714285714,Sri Lanka
+odi,M Spoors,Canada,80,146,3,54.794520547945204,United States of America
+odi,M Terblanche,South Africa,80,137,3,58.3941605839416,Sri Lanka
+odi,M Theekshana,Sri Lanka,253,530,15,47.735849056603776,Australia
+odi,M Vijay,India,339,516,14,65.69767441860465,Pakistan
+odi,M Zondeki,Africa XI,0,2,0,0.0,Asia XI
+odi,M Zondeki,South Africa,1,1,0,100.0,Sri Lanka
+odi,M du Preez,South Africa,2223,3194,66,69.59924859110833,Sri Lanka
+odi,M van Jaarsveld,South Africa,29,57,4,50.877192982456144,Sri Lanka
+odi,M van Lingen,Namibia,1300,1442,32,90.15256588072123,Oman
+odi,M van Schoor,Namibia,58,111,4,52.25225225225225,Oman
+odi,MA Abbas,New Zealand,104,107,3,97.19626168224299,Bangladesh
+odi,MA Agarwal,India,86,91,5,94.5054945054945,Pakistan
+odi,MA Aponso,Sri Lanka,10,45,3,22.22222222222222,Australia
+odi,MA Carberry,England,114,181,5,62.98342541436463,Bangladesh
+odi,MA Jones,Scotland,385,582,15,66.1512027491409,Hong Kong
+odi,MA Leask,Scotland,1323,1207,52,109.6106048053024,Hong Kong
+odi,MA Ouma,Kenya,468,855,23,54.736842105263165,New Zealand
+odi,MA Starc,Australia,573,758,44,75.59366754617413,Pakistan
+odi,MA Suji,Kenya,36,51,3,70.58823529411765,New Zealand
+odi,MA Vermeulen,Zimbabwe,517,796,26,64.9497487437186,India
+odi,MA Wood,England,147,143,6,102.79720279720279,Bangladesh
+odi,MAA Sanjeewani,Sri Lanka,550,904,30,60.84070796460177,Australia
+odi,MADD Surangika,Sri Lanka,642,1210,27,53.05785123966942,Australia
+odi,MADI Hemantha,Sri Lanka,17,21,1,80.95238095238095,Australia
+odi,MB Kruger,Namibia,300,420,15,71.42857142857143,Oman
+odi,MB Loye,England,142,190,6,74.73684210526315,Bangladesh
+odi,MBS Jonkman,Netherlands,20,33,2,60.60606060606061,Zimbabwe
+odi,MC Henriques,Australia,117,192,13,60.9375,Pakistan
+odi,MC Patel,India,13,35,2,37.142857142857146,Pakistan
+odi,MC Sorensen,Ireland,119,153,5,77.77777777777779,Bangladesh
+odi,MD Bates,New Zealand,13,10,1,130.0,Bangladesh
+odi,MD Dai,Papua New Guinea,277,367,9,75.47683923705722,Ireland
+odi,MD Gunathilaka,Sri Lanka,1592,1899,45,83.83359662980516,Australia
+odi,MD Patel,United States of America,2036,2552,61,79.78056426332289,Papua New Guinea
+odi,MD Shanaka,Sri Lanka,1153,1317,47,87.54745634016705,Australia
+odi,MD du Preez,Namibia,14,45,3,31.11111111111111,Oman
+odi,MDK Perera,Sri Lanka,152,207,12,73.42995169082126,Australia
+odi,MDKJ Perera,Sri Lanka,3077,3375,97,91.17037037037036,Australia
+odi,MDN Hansika,Sri Lanka,357,748,23,47.72727272727273,Australia
+odi,MDT Kamini,India,353,556,7,63.48920863309353,Pakistan
+odi,ME Bouchier,England,482,466,14,103.43347639484979,Bangladesh
+odi,ME Sanuth,Oman,46,41,2,112.19512195121952,Papua New Guinea
+odi,ME Trescothick,England,1997,2480,56,80.5241935483871,Bangladesh
+odi,MEC de Fouw,Netherlands,11,85,1,12.941176470588237,Zimbabwe
+odi,MEK Hussey,Australia,5076,6012,115,84.4311377245509,Pakistan
+odi,MEMO Scott-Hayward,Ireland,11,23,2,47.82608695652174,Bangladesh
+odi,MF Fahey,New Zealand,0,7,1,0.0,Bangladesh
+odi,MF Kendal,Ireland,30,87,3,34.48275862068966,Bangladesh
+odi,MF Maharoof,Sri Lanka,799,991,50,80.62563067608475,Australia
+odi,MG Bevan,Australia,755,1177,19,64.14613423959217,Pakistan
+odi,MG Bracewell,New Zealand,757,682,22,110.99706744868034,Bangladesh
+odi,MG Erasmus,Namibia,2006,2651,56,75.66955865711053,Oman
+odi,MG Johnson,Australia,934,1002,60,93.21357285429141,Pakistan
+odi,MG Neser,Australia,11,29,4,37.93103448275862,Pakistan
+odi,MH Cross,Scotland,1768,2560,74,69.0625,Hong Kong
+odi,MH Yardy,England,326,490,15,66.53061224489795,Bangladesh
+odi,MHW Papps,New Zealand,32,63,2,50.79365079365079,Bangladesh
+odi,MJ Bulow,Australia,50,74,1,67.56756756756756,Pakistan
+odi,MJ Clarke,Australia,6988,9095,164,76.83342495876856,Pakistan
+odi,MJ Cosgrove,Australia,78,81,2,96.29629629629629,Pakistan
+odi,MJ Fourie,Ireland,5,13,1,38.46153846153847,Bangladesh
+odi,MJ Guptill,New Zealand,7125,8358,171,85.24766690595837,Bangladesh
+odi,MJ Hay,New Zealand,166,168,5,98.80952380952381,Bangladesh
+odi,MJ Henry,New Zealand,270,298,25,90.60402684563759,Bangladesh
+odi,MJ Hoggard,England,5,11,2,45.45454545454545,Bangladesh
+odi,MJ Humphreys,Ireland,6,10,1,60.0,Bangladesh
+odi,MJ Lumb,England,165,206,3,80.09708737864078,Bangladesh
+odi,MJ Mason,New Zealand,20,41,3,48.78048780487805,Bangladesh
+odi,MJ McClenaghan,New Zealand,108,143,6,75.52447552447552,Bangladesh
+odi,MJ North,Australia,6,19,2,31.57894736842105,Pakistan
+odi,MJ Potts,England,45,62,1,72.58064516129032,Bangladesh
+odi,MJ Prior,England,1229,1652,48,74.39467312348668,Bangladesh
+odi,MJ Santner,New Zealand,1431,1621,55,88.27884022208514,Bangladesh
+odi,MJ Swepson,Australia,2,2,1,100.0,Pakistan
+odi,MJG Nielsen,New Zealand,25,47,4,53.191489361702125,Bangladesh
+odi,MJG Rippon,Netherlands,112,160,4,70.0,Zimbabwe
+odi,MK Pandey,India,558,624,15,89.42307692307693,Pakistan
+odi,MK Tiwary,India,287,412,12,69.66019417475728,Pakistan
+odi,MK Villiers,England,32,32,3,100.0,Bangladesh
+odi,MKDI Amerasinghe,Sri Lanka,5,7,0,71.42857142857143,Australia
+odi,MKGCP Lakshitha,Sri Lanka,4,6,1,66.66666666666666,Australia
+odi,ML Cummins,West Indies,5,9,1,55.55555555555556,England
+odi,ML Green,New Zealand,1539,2212,58,69.57504520795659,Bangladesh
+odi,ML Hayden,Australia,3939,4956,83,79.47941888619854,Pakistan
+odi,ML Lewis,Australia,4,4,0,100.0,Pakistan
+odi,ML Nkala,Zimbabwe,125,178,9,70.2247191011236,India
+odi,ML Patel,Kenya,15,61,2,24.59016393442623,New Zealand
+odi,ML Schutt,Australia,82,162,13,50.617283950617285,Pakistan
+odi,ML Udawatte,Sri Lanka,243,367,9,66.21253405994551,Australia
+odi,MM Ali,England,2278,2418,97,94.21009098428453,Bangladesh
+odi,MM English,Scotland,107,124,0,86.29032258064517,Hong Kong
+odi,MM Iqbal,Scotland,16,58,2,27.586206896551722,Hong Kong
+odi,MM Lanning,Australia,3555,3985,60,89.20953575909661,Pakistan
+odi,MM Letsoalo,South Africa,17,55,4,30.909090909090907,Sri Lanka
+odi,MM Patel,India,74,114,12,64.91228070175438,Pakistan
+odi,MM Penfold,New Zealand,12,52,6,23.076923076923077,Bangladesh
+odi,MM Sharma,India,31,66,4,46.96969696969697,Pakistan
+odi,MMA Jonkman,Netherlands,13,38,1,34.21052631578947,Zimbabwe
+odi,MN Samuels,West Indies,4205,5654,132,74.37212592854617,England
+odi,MN Waller,Zimbabwe,1039,1383,48,75.12653651482285,India
+odi,MN van Wyk,South Africa,425,631,18,67.35340729001584,Sri Lanka
+odi,MNK Fernando,Sri Lanka,75,107,4,70.09345794392523,Australia
+odi,MO Jones,Bermuda,58,72,5,80.55555555555556,Sri Lanka
+odi,MO Odumbe,Kenya,324,363,8,89.25619834710744,New Zealand
+odi,MP Breetzke,South Africa,233,238,2,97.89915966386555,Sri Lanka
+odi,MP Kuhnemann,Australia,16,15,2,106.66666666666667,Pakistan
+odi,MP O'Dowd,Netherlands,1922,2735,58,70.27422303473492,Zimbabwe
+odi,MP Stoinis,Australia,1489,1622,55,91.80024660912454,Pakistan
+odi,MP Vaughan,England,1382,2118,50,65.25023607176583,Bangladesh
+odi,MQ Sheikh,Scotland,6,21,2,28.57142857142857,Hong Kong
+odi,MR Adair,Ireland,448,421,23,106.41330166270784,Bangladesh
+odi,MR Aguilleira,West Indies,323,598,23,54.0133779264214,England
+odi,MR Gillespie,New Zealand,80,95,5,84.21052631578947,Bangladesh
+odi,MR Johnson,United States of America,20,23,2,86.95652173913044,Papua New Guinea
+odi,MR Marsh,Australia,2762,2953,74,93.5320013545547,Pakistan
+odi,MR Meshram,India,322,571,13,56.3922942206655,Pakistan
+odi,MR Swart,Netherlands,59,78,5,75.64102564102564,Zimbabwe
+odi,MRJ Watt,Scotland,610,791,33,77.11757269279393,Hong Kong
+odi,MS Atapattu,Sri Lanka,1978,2960,58,66.82432432432432,Australia
+odi,MS Chapman,Hong Kong,124,116,0,106.89655172413792,Papua New Guinea
+odi,MS Chapman,New Zealand,692,665,20,104.06015037593986,Bangladesh
+odi,MS Dhoni,Asia XI,174,142,1,122.53521126760563,
+odi,MS Dhoni,India,10100,11948,216,84.53297623033144,Pakistan
+odi,MS Kashyap,India,8,15,1,53.333333333333336,Pakistan
+odi,MS Kasprowicz,Australia,11,21,1,52.38095238095239,Pakistan
+odi,MS Panesar,England,26,92,5,28.26086956521739,Bangladesh
+odi,MS Sinclair,New Zealand,367,566,10,64.84098939929329,Bangladesh
+odi,MS Tshabalala,South Africa,2,3,0,66.66666666666666,Sri Lanka
+odi,MS Wade,Australia,1792,2226,74,80.50314465408806,Pakistan
+odi,MT Chinouya,Zimbabwe,6,9,1,66.66666666666666,India
+odi,MT Herbert,Ireland,1,22,1,4.545454545454546,Bangladesh
+odi,MV Boucher,Africa XI,147,174,4,84.48275862068965,Asia XI
+odi,MV Boucher,South Africa,2470,2787,74,88.62576246860424,Sri Lanka
+odi,MV Waldron,Ireland,290,639,20,45.38341158059468,Bangladesh
+odi,MVT Fernando,Sri Lanka,30,62,2,48.38709677419355,Australia
+odi,MW Forde,West Indies,172,144,8,119.44444444444444,England
+odi,MW Machan,Scotland,393,497,12,79.07444668008048,Hong Kong
+odi,MW Parkinson,England,7,8,0,87.5,Bangladesh
+odi,MW Short,Australia,260,274,12,94.8905109489051,Pakistan
+odi,MWA van Nierop,Netherlands,4,16,1,25.0,Zimbabwe
+odi,Maahi Madhavan,United States of America,1,2,1,50.0,Papua New Guinea
+odi,Maham Tariq,Pakistan,3,38,3,7.894736842105263,South Africa
+odi,Mahbubul Alam,Bangladesh,81,72,2,112.5,New Zealand
+odi,Mahedi Hasan,Bangladesh,122,195,8,62.56410256410256,New Zealand
+odi,Mahmudullah,Bangladesh,5131,6811,139,75.33401849948612,New Zealand
+odi,Manjural Islam,Bangladesh,2,11,2,18.181818181818183,New Zealand
+odi,Manjural Islam Rana,Bangladesh,251,468,9,53.63247863247863,New Zealand
+odi,Mansoor Amjad,Pakistan,5,10,1,50.0,South Africa
+odi,Marina Iqbal,Pakistan,137,312,8,43.91025641025641,South Africa
+odi,Marufa Akter,Bangladesh,60,99,4,60.60606060606061,New Zealand
+odi,Mashrafe Mortaza,Asia XI,14,20,2,70.0,
+odi,Mashrafe Mortaza,Bangladesh,1290,1589,95,81.18313404657017,New Zealand
+odi,Meghna Singh,India,33,51,3,64.70588235294117,Pakistan
+odi,Mehedi Hasan Miraz,Bangladesh,1206,1541,56,78.26086956521739,New Zealand
+odi,Mehrab Hossain jnr,Bangladesh,183,431,11,42.459396751740144,New Zealand
+odi,Mehran Khan,Oman,66,70,4,94.28571428571428,Papua New Guinea
+odi,Melanie Ani,Papua New Guinea,0,2,2,0.0,Ireland
+odi,Milind Kumar,United States of America,677,682,13,99.26686217008798,Papua New Guinea
+odi,Misbah-ul-Haq,Pakistan,4752,6549,115,72.56069628950985,South Africa
+odi,Mohammad Aadil Alam,Nepal,70,82,5,85.36585365853658,Oman
+odi,Mohammad Ali,Pakistan,0,2,0,0.0,South Africa
+odi,Mohammad Amir,Pakistan,363,457,21,79.43107221006565,South Africa
+odi,Mohammad Ashraful,Asia XI,0,1,1,0.0,
+odi,Mohammad Ashraful,Bangladesh,2301,3464,106,66.42609699769054,New Zealand
+odi,Mohammad Asif,Pakistan,26,94,8,27.659574468085108,South Africa
+odi,Mohammad Boota,United Arab Emirates,173,240,6,72.08333333333333,Papua New Guinea
+odi,Mohammad Hafeez,Pakistan,6351,8347,194,76.08721696417875,South Africa
+odi,Mohammad Haris,Pakistan,30,36,4,83.33333333333334,South Africa
+odi,Mohammad Hasnain,Pakistan,53,34,3,155.88235294117646,South Africa
+odi,Mohammad Iqbal,Canada,33,56,2,58.92857142857143,United States of America
+odi,Mohammad Irfan,Pakistan,48,152,13,31.57894736842105,South Africa
+odi,Mohammad Kashif,Netherlands,1,11,1,9.090909090909092,Zimbabwe
+odi,Mohammad Mithun,Bangladesh,711,948,22,75.0,New Zealand
+odi,Mohammad Nadeem,Oman,827,1319,18,62.69901440485216,Papua New Guinea
+odi,Mohammad Naim,Bangladesh,58,99,4,58.58585858585859,New Zealand
+odi,Mohammad Naveed,United Arab Emirates,275,267,20,102.99625468164794,Papua New Guinea
+odi,Mohammad Nawaz,Pakistan,173,219,10,78.99543378995433,South Africa
+odi,Mohammad Nawaz (3),Pakistan,193,221,8,87.33031674208145,South Africa
+odi,Mohammad Rafique,Asia XI,1,6,1,16.666666666666664,
+odi,Mohammad Rafique,Bangladesh,491,739,32,66.44113667117728,New Zealand
+odi,Mohammad Rizwan,Pakistan,2546,2987,61,85.23602276531636,South Africa
+odi,Mohammad Saifuddin,Bangladesh,360,439,10,82.00455580865604,New Zealand
+odi,Mohammad Salman,Pakistan,22,40,1,55.00000000000001,South Africa
+odi,Mohammad Sami,Pakistan,246,362,16,67.95580110497238,South Africa
+odi,Mohammad Shahzad (2),United Arab Emirates,49,68,2,72.05882352941177,Papua New Guinea
+odi,Mohammad Talha,Pakistan,0,1,1,0.0,South Africa
+odi,Mohammad Tauqir,United Arab Emirates,34,83,5,40.963855421686745,Papua New Guinea
+odi,Mohammad Wasim,Pakistan,81,90,9,90.0,South Africa
+odi,Mohammad Yousuf,Asia XI,119,129,3,92.24806201550388,
+odi,Mohammad Yousuf,Pakistan,2664,3612,68,73.75415282392026,South Africa
+odi,Mohammed Qasim,United Arab Emirates,91,179,4,50.83798882681564,Papua New Guinea
+odi,Mohammed Shami,India,224,282,28,79.43262411347519,Pakistan
+odi,Mohammed Siraj,India,55,133,8,41.35338345864661,Pakistan
+odi,Moin Khan,Pakistan,274,318,11,86.16352201257862,South Africa
+odi,Mominul Haque,Bangladesh,495,671,20,73.77049180327869,New Zealand
+odi,Moniruzzaman,Bangladesh,1,20,2,5.0,New Zealand
+odi,Mosaddek Hossain,Bangladesh,524,655,23,80.0,New Zealand
+odi,Mosharraf Hossain,Bangladesh,22,64,3,34.375,New Zealand
+odi,Mrittunjoy Chowdhury,Bangladesh,8,11,2,72.72727272727273,New Zealand
+odi,Mudassar Bukhari,Netherlands,126,182,11,69.23076923076923,Zimbabwe
+odi,Muhammad Farooq,United Arab Emirates,4,16,2,25.0,Papua New Guinea
+odi,Muhammad Jawadullah,United Arab Emirates,15,22,4,68.18181818181817,Papua New Guinea
+odi,Muhammad Musa,Pakistan,9,3,0,300.0,South Africa
+odi,Muhammad Usman,United Arab Emirates,888,1212,32,73.26732673267327,Papua New Guinea
+odi,Mujibur Ali,Oman,50,132,4,37.878787878787875,Papua New Guinea
+odi,Mukesh Kumar,India,10,17,1,58.82352941176471,Pakistan
+odi,Muneeba Ali,Pakistan,1171,1939,43,60.39195461578133,South Africa
+odi,Munir Dar,Hong Kong,18,17,2,105.88235294117648,Papua New Guinea
+odi,Murshida Khatun,Bangladesh,429,780,25,55.00000000000001,New Zealand
+odi,Musa Ahmed,Netherlands,238,379,13,62.796833773087066,Zimbabwe
+odi,Mushfiqur Rahim,Bangladesh,7096,8993,190,78.9058156343823,New Zealand
+odi,Mushfiqur Rahman,Bangladesh,208,416,11,50.0,New Zealand
+odi,Mustafizur Rahman,Bangladesh,152,301,21,50.498338870431894,New Zealand
+odi,Muzahir Raza,Oman,10,7,1,142.85714285714286,Papua New Guinea
+odi,N Boje,Africa XI,3,13,1,23.076923076923077,Asia XI
+odi,N Boje,South Africa,212,198,4,107.07070707070707,Sri Lanka
+odi,N Boochatham,Thailand,165,332,12,49.6987951807229,Netherlands
+odi,N Burger,South Africa,8,40,1,20.0,Sri Lanka
+odi,N Chaiwai,Thailand,316,515,11,61.359223300970875,Netherlands
+odi,N Chantam,Thailand,630,918,14,68.62745098039215,Netherlands
+odi,N Davin,Namibia,165,211,12,78.19905213270142,Oman
+odi,N Deonarine,West Indies,546,873,22,62.54295532646048,England
+odi,N Dickwella,Sri Lanka,1604,1758,51,91.2400455062571,Australia
+odi,N Dutta,Canada,70,122,3,57.377049180327866,United States of America
+odi,N Fernandes,United Arab Emirates,5,13,1,38.46153846153847,Papua New Guinea
+odi,N Gwanzura,Zimbabwe,74,108,6,68.51851851851852,India
+odi,N Hussain,England,127,198,9,64.14141414141415,Bangladesh
+odi,N Ifill,Canada,16,44,2,36.36363636363637,United States of America
+odi,N Koncharoenkai,Thailand,182,260,10,70.0,Netherlands
+odi,N Kruger,Netherlands,5,20,1,25.0,Zimbabwe
+odi,N M'shangwe,Zimbabwe,38,44,4,86.36363636363636,India
+odi,N Madziva,Zimbabwe,59,123,7,47.96747967479675,India
+odi,N Mlaba,South Africa,48,76,11,63.1578947368421,Sri Lanka
+odi,N Niranjana,India,24,60,5,40.0,Pakistan
+odi,N Pokana,Papua New Guinea,54,124,5,43.54838709677419,Ireland
+odi,N Pooran,West Indies,1829,1913,48,95.6089911134344,England
+odi,N Pradeep,Sri Lanka,35,80,7,43.75,Australia
+odi,N Rana,India,7,14,1,50.0,Pakistan
+odi,N Shangase,South Africa,92,168,7,54.761904761904766,Sri Lanka
+odi,N Shree Charani,India,6,3,0,200.0,Pakistan
+odi,N Sibanda,Zimbabwe,89,210,9,42.38095238095238,India
+odi,N Vanua,Papua New Guinea,769,974,47,78.95277207392198,Ireland
+odi,N Vare,Papua New Guinea,138,323,8,42.72445820433436,Ireland
+odi,N de Klerk,South Africa,660,878,32,75.17084282460137,Sri Lanka
+odi,NA Greenwood,Jersey,35,69,4,50.72463768115942,Namibia
+odi,NA Moodley,South Africa,5,10,1,50.0,Sri Lanka
+odi,NA Rock,Ireland,7,25,2,28.000000000000004,Bangladesh
+odi,NA Saini,India,92,103,1,89.32038834951457,Pakistan
+odi,NA Statham,Netherlands,7,45,2,15.555555555555555,Zimbabwe
+odi,NA de Groot,Canada,44,130,5,33.84615384615385,United States of America
+odi,NAM McLean,West Indies,5,7,0,71.42857142857143,England
+odi,NB Mahwire,Zimbabwe,40,108,7,37.03703703703704,India
+odi,NC Dodd,New Zealand,145,299,10,48.49498327759198,Bangladesh
+odi,ND McKenzie,South Africa,182,260,6,70.0,Sri Lanka
+odi,NE Bolton,Australia,1443,2069,39,69.74383760270662,Pakistan
+odi,NE Bonner,West Indies,85,140,5,60.71428571428571,England
+odi,NE Farrant,England,41,64,3,64.0625,Bangladesh
+odi,NF Kelly,New Zealand,49,67,3,73.13432835820896,Bangladesh
+odi,NFI McCallum,Scotland,233,366,8,63.661202185792355,Hong Kong
+odi,NG Jones,Ireland,7,10,2,70.0,Bangladesh
+odi,NG Smith,New Zealand,36,60,6,60.0,Bangladesh
+odi,NGRP Jayasuriya,Sri Lanka,11,14,1,78.57142857142857,Australia
+odi,NJ Astle,New Zealand,1571,2078,37,75.60153994225216,Bangladesh
+odi,NJ Browne,New Zealand,143,194,5,73.71134020618557,Bangladesh
+odi,NJ Carey,Australia,136,145,6,93.79310344827586,Pakistan
+odi,NJ Coffey,Ireland,8,20,1,40.0,Bangladesh
+odi,NJ O'Brien,Ireland,1692,2394,59,70.67669172932331,Bangladesh
+odi,NK Crafton,West Indies,13,17,1,76.47058823529412,England
+odi,NK Patel,United States of America,477,701,25,68.0456490727532,Papua New Guinea
+odi,NL McCullum,New Zealand,1070,1247,51,85.80593424218124,Bangladesh
+odi,NLTC Perera,Sri Lanka,2233,2045,116,109.19315403422982,Australia
+odi,NM Carter,Scotland,0,6,1,0.0,Hong Kong
+odi,NM Coulter-Nile,Australia,252,275,15,91.63636363636364,Pakistan
+odi,NM Hauritz,Australia,295,317,15,93.05993690851734,Pakistan
+odi,NM Lyon,Australia,77,83,4,92.7710843373494,Pakistan
+odi,NM Sheikh,Scotland,10,34,1,29.411764705882355,Hong Kong
+odi,NN Odhiambo,Kenya,189,291,16,64.94845360824742,New Zealand
+odi,NND de Silva,Sri Lanka,924,1355,38,68.19188191881919,Australia
+odi,NO Miller,West Indies,279,362,17,77.07182320441989,England
+odi,NP Kenjige,United States of America,410,590,24,69.49152542372882,Papua New Guinea
+odi,NR Kirton,Canada,560,763,18,73.39449541284404,United States of America
+odi,NR Kumar,Canada,177,306,9,57.84313725490197,United States of America
+odi,NR Sciver,England,2668,2842,57,93.87755102040816,Bangladesh
+odi,NR Sciver-Brunt,England,854,900,14,94.88888888888889,Bangladesh
+odi,NRJ Croes,Netherlands,244,360,11,67.77777777777779,Zimbabwe
+odi,NS Dhaliwal,Canada,456,811,16,56.22688039457459,United States of America
+odi,NS Poonia,Scotland,12,42,6,28.57142857142857,Hong Kong
+odi,NT Broom,New Zealand,919,1168,33,78.68150684931507,Bangladesh
+odi,NT Ellis,Australia,73,69,5,105.79710144927536,Pakistan
+odi,NT Pascal,West Indies,0,1,1,0.0,England
+odi,NV Knight,England,339,483,11,70.1863354037267,Bangladesh
+odi,NV Ojha,India,1,9,1,11.11111111111111,Pakistan
+odi,NW Bracken,Australia,174,265,16,65.66037735849056,Pakistan
+odi,NY McLean,West Indies,231,362,13,63.812154696132595,England
+odi,Nadeem Ahmed,Hong Kong,55,132,9,41.66666666666667,Papua New Guinea
+odi,Naeem Islam,Bangladesh,842,1246,34,67.57624398073835,New Zealand
+odi,Nafees Iqbal,Bangladesh,128,270,10,47.40740740740741,New Zealand
+odi,Nahid Rana,Bangladesh,4,9,0,44.44444444444444,New Zealand
+odi,Nahida Akter,Bangladesh,185,440,21,42.04545454545455,New Zealand
+odi,Nahida Khan,Pakistan,1121,1760,38,63.69318181818182,South Africa
+odi,Nain Abidi,Pakistan,521,955,26,54.55497382198953,South Africa
+odi,Najeeb Amar,Hong Kong,34,42,1,80.95238095238095,Papua New Guinea
+odi,Najiha Alvi,Pakistan,170,271,9,62.73062730627307,South Africa
+odi,Nanthita Boonsukham,Thailand,0,4,1,0.0,Netherlands
+odi,Naseem Khushi,Oman,360,335,22,107.46268656716418,Papua New Guinea
+odi,Naseem Shah,Pakistan,184,213,11,86.3849765258216,South Africa
+odi,Nashra Sandhu,Pakistan,98,339,21,28.908554572271388,South Africa
+odi,Nasir Aziz,United Arab Emirates,81,125,2,64.8,Papua New Guinea
+odi,Nasir Hossain,Bangladesh,1240,1579,47,78.53071564281191,New Zealand
+odi,Nasir Jamshed,Pakistan,1418,1931,44,73.43345416882444,South Africa
+odi,Nasir Javed,United States of America,2,20,0,10.0,Papua New Guinea
+odi,Nasum Ahmed,Bangladesh,156,178,7,87.64044943820225,New Zealand
+odi,Natalia Pervaiz,Pakistan,95,155,4,61.29032258064516,South Africa
+odi,Naumanullah,Pakistan,5,4,1,125.0,South Africa
+odi,Navdeep Saini,India,15,38,1,39.473684210526315,Pakistan
+odi,Naved Latif,Pakistan,7,17,2,41.17647058823529,South Africa
+odi,Naved-ul-Hasan,Pakistan,449,519,25,86.51252408477842,South Africa
+odi,Nazimuddin,Bangladesh,147,246,10,59.756097560975604,New Zealand
+odi,Nazmul Hossain,Bangladesh,15,77,4,19.480519480519483,New Zealand
+odi,Nazmul Hossain Shanto,Bangladesh,1242,1572,39,79.00763358778626,New Zealand
+odi,Nazmul Islam,Bangladesh,7,14,1,50.0,New Zealand
+odi,Nestor Dhamba,Oman,23,52,3,44.230769230769226,Papua New Guinea
+odi,Nida Dar,Pakistan,1171,1784,52,65.6390134529148,South Africa
+odi,Nigar Sultana,Bangladesh,1168,2128,44,54.88721804511278,New Zealand
+odi,Nishita Akter Nishi,Bangladesh,2,1,0,200.0,New Zealand
+odi,Nizakat Khan,Hong Kong,508,628,14,80.89171974522293,Papua New Guinea
+odi,Nurul Hasan,Bangladesh,165,181,2,91.16022099447514,New Zealand
+odi,Nuzhat Tasnia,Bangladesh,16,43,2,37.2093023255814,New Zealand
+odi,O Bell,Scotland,32,77,3,41.55844155844156,Hong Kong
+odi,O Chare,Zimbabwe,3,18,1,16.666666666666664,India
+odi,O Davidson,Scotland,14,33,1,42.42424242424242,Hong Kong
+odi,O Kamchomphu,Thailand,48,93,9,51.61290322580645,Netherlands
+odi,O Kirsten,South Africa,22,54,0,40.74074074074074,Sri Lanka
+odi,O Prendergast,Ireland,954,1305,29,73.10344827586206,Bangladesh
+odi,O Thomas,West Indies,22,78,5,28.205128205128204,England
+odi,OA Shah,England,1579,1963,44,80.4381049414162,Bangladesh
+odi,OAC Banks,West Indies,45,60,3,75.0,England
+odi,OC McCoy,West Indies,0,1,0,0.0,England
+odi,OEG Baartman,South Africa,13,24,0,54.166666666666664,Sri Lanka
+odi,OF Smith,West Indies,199,128,7,155.46875,England
+odi,OL Pitcher,Bermuda,28,83,3,33.734939759036145,Sri Lanka
+odi,OO Bascome,Bermuda,17,47,1,36.17021276595745,Sri Lanka
+odi,OP Stone,England,24,35,3,68.57142857142857,Bangladesh
+odi,OU Ranasinghe,Sri Lanka,279,489,20,57.05521472392638,Australia
+odi,OV Anderson,South Africa,46,97,0,47.42268041237113,Sri Lanka
+odi,Omid Shafi Rahman,United Arab Emirates,1,7,1,14.285714285714285,Papua New Guinea
+odi,P Jayawickrama,Sri Lanka,7,12,0,58.333333333333336,Australia
+odi,P Khadka,Nepal,252,317,7,79.49526813880126,Oman
+odi,P Kumar,India,292,338,23,86.3905325443787,Pakistan
+odi,P Litchfield,Australia,895,1142,23,78.37127845884413,Pakistan
+odi,P Marange,Zimbabwe,125,153,10,81.69934640522875,India
+odi,P Maya,Thailand,114,214,11,53.271028037383175,Netherlands
+odi,P Molkenboer,Netherlands,135,279,6,48.38709677419355,Zimbabwe
+odi,P Mujaji,Zimbabwe,86,166,7,51.80722891566265,India
+odi,P Mustard,England,219,244,9,89.75409836065575,Bangladesh
+odi,P Nissanka,Sri Lanka,1820,2177,50,83.60128617363344,Australia
+odi,P Roy,India,5,34,2,14.705882352941178,Pakistan
+odi,P Sarraf,Nepal,72,118,9,61.016949152542374,Oman
+odi,P Siaka,Papua New Guinea,160,235,7,68.08510638297872,Ireland
+odi,P Utseya,Zimbabwe,1114,1935,59,57.57105943152455,India
+odi,P Vastrakar,India,579,671,22,86.28912071535022,Pakistan
+odi,PA Browne,West Indies,134,183,4,73.224043715847,England
+odi,PA Chatterji,Scotland,236,374,13,63.101604278074866,Hong Kong
+odi,PA Desai,Canada,2,12,0,16.666666666666664,United States of America
+odi,PA Hitchcock,New Zealand,32,50,3,64.0,Bangladesh
+odi,PA Jaques,Australia,123,170,5,72.35294117647058,Pakistan
+odi,PA Nixon,England,297,351,15,84.61538461538461,Bangladesh
+odi,PA Patel,India,693,884,25,78.39366515837104,Pakistan
+odi,PA de Silva,Sri Lanka,390,487,13,80.08213552361396,Australia
+odi,PA van Meekeren,Netherlands,85,127,13,66.92913385826772,Zimbabwe
+odi,PADLR Sandakan,Sri Lanka,64,147,12,43.53741496598639,Australia
+odi,PARP Perera,Sri Lanka,33,61,2,54.09836065573771,Australia
+odi,PBB Rajapaksa,Sri Lanka,89,87,5,102.29885057471265,Australia
+odi,PC Connell,Ireland,6,24,2,25.0,Bangladesh
+odi,PC de Silva,Sri Lanka,77,98,4,78.57142857142857,Australia
+odi,PD Collingwood,England,4132,5497,116,75.16827360378389,Bangladesh
+odi,PD Macchi,Oman,12,31,2,38.70967741935484,Papua New Guinea
+odi,PD McGlashan,New Zealand,63,53,1,118.86792452830188,Bangladesh
+odi,PD Salt,England,976,861,30,113.35656213704995,Bangladesh
+odi,PDRL Perera,Sri Lanka,5,9,2,55.55555555555556,Australia
+odi,PG Fulton,New Zealand,1216,1726,38,70.45191193511008,Bangladesh
+odi,PG Gillespie,Ireland,2,11,2,18.181818181818183,Bangladesh
+odi,PG Raut,India,1436,2350,39,61.1063829787234,Pakistan
+odi,PHKD Mendis,Sri Lanka,353,488,15,72.3360655737705,Australia
+odi,PHT Kaushal,Sri Lanka,0,1,1,0.0,Australia
+odi,PJ Cummins,Australia,525,652,38,80.52147239263803,Pakistan
+odi,PJ Forrest,Australia,368,577,13,63.77816291161178,Pakistan
+odi,PJ Hughes,Australia,826,1118,22,73.8819320214669,Pakistan
+odi,PJ Ingram,New Zealand,193,239,7,80.75313807531381,Bangladesh
+odi,PJ Moor,Zimbabwe,520,781,28,66.58130601792574,India
+odi,PJ Ongondo,Kenya,150,250,19,60.0,New Zealand
+odi,PJ Scholfield,England,59,61,3,96.72131147540983,Bangladesh
+odi,PJ te Beest,Netherlands,3,53,1,5.660377358490567,Zimbabwe
+odi,PJC Hoffmann,Scotland,30,23,2,130.43478260869566,Hong Kong
+odi,PJK Mooney,Ireland,11,8,1,137.5,Bangladesh
+odi,PKD Chase,Ireland,22,33,6,66.66666666666666,Bangladesh
+odi,PL Mommsen,Scotland,601,786,16,76.46310432569975,Hong Kong
+odi,PLS Gamage,Sri Lanka,4,27,2,14.814814814814813,Australia
+odi,PM Inglis,New Zealand,43,26,0,165.3846153846154,Bangladesh
+odi,PM Liyanagamage,Sri Lanka,28,84,5,33.33333333333333,Australia
+odi,PM Pushpakumara,Sri Lanka,11,26,2,42.30769230769231,Australia
+odi,PM Seelaar,Netherlands,218,366,18,59.56284153005464,Zimbabwe
+odi,PM Siddle,Australia,31,30,3,103.33333333333334,Pakistan
+odi,PM Weerakkody,Sri Lanka,638,1172,34,54.436860068259385,Australia
+odi,PN Sproul,Scotland,28,66,4,42.42424242424242,Hong Kong
+odi,PP Chawla,India,38,60,7,63.33333333333333,Pakistan
+odi,PP Ojha,India,46,114,2,40.35087719298245,Pakistan
+odi,PP Shaw,India,189,174,6,108.62068965517241,Pakistan
+odi,PR Stirling,Ireland,3548,4148,107,85.53519768563163,Bangladesh
+odi,PRCS Kumarihami,Sri Lanka,283,764,19,37.04188481675393,Australia
+odi,PRP Boissevain,Netherlands,33,57,3,57.89473684210527,Zimbabwe
+odi,PS Athavale,Oman,103,176,9,58.52272727272727,Papua New Guinea
+odi,PS Masvaure,Zimbabwe,40,63,2,63.49206349206349,India
+odi,PS Punia,India,273,503,10,54.27435387673957,Pakistan
+odi,PSP Handscomb,Australia,632,656,19,96.34146341463415,Pakistan
+odi,PT Collins,West Indies,3,10,2,30.0,England
+odi,PVD Chameera,Sri Lanka,262,439,21,59.68109339407744,Australia
+odi,PW Borren,Netherlands,413,463,13,89.20086393088553,Zimbabwe
+odi,PW Gunaratne,Sri Lanka,15,15,0,100.0,Australia
+odi,PWA Mulder,South Africa,210,241,13,87.13692946058092,Sri Lanka
+odi,PWDM Badalge,Sri Lanka,11,20,2,55.00000000000001,Australia
+odi,PWH de Silva,Sri Lanka,866,850,41,101.88235294117646,Australia
+odi,PY Lavine,West Indies,8,26,1,30.76923076923077,England
+odi,Pankaj Singh,India,3,3,0,100.0,Pakistan
+odi,Panna Ghosh,Bangladesh,85,207,5,41.06280193236715,New Zealand
+odi,Pargat Singh,Canada,895,1179,25,75.91178965224766,United States of America
+odi,Parveen Kumar,Canada,41,48,3,85.41666666666666,United States of America
+odi,Pooja Ganesh,United States of America,49,93,3,52.68817204301075,Papua New Guinea
+odi,Poonam Yadav,India,53,140,11,37.857142857142854,Pakistan
+odi,Pratika Rawal,India,638,751,11,84.95339547270306,Pakistan
+odi,Pratis GC,Nepal,11,6,0,183.33333333333331,Oman
+odi,Priya Mishra,India,6,31,2,19.35483870967742,Pakistan
+odi,Q Joseph,West Indies,302,403,15,74.93796526054591,England
+odi,Q de Kock,South Africa,6661,7024,144,94.83200455580865,Sri Lanka
+odi,Qadeer Ahmed,United Arab Emirates,2,12,0,16.666666666666664,Papua New Guinea
+odi,Qaiser Ali,Canada,38,98,6,38.775510204081634,United States of America
+odi,Qanita Jalil,Pakistan,32,64,8,50.0,South Africa
+odi,R Ashwin,India,707,831,40,85.07821901323706,Pakistan
+odi,R Boyce,West Indies,30,100,5,30.0,England
+odi,R Chopra,United Arab Emirates,403,537,16,75.04655493482309,Papua New Guinea
+odi,R Clarke,England,91,172,9,52.90697674418605,Bangladesh
+odi,R Dhakal,Nepal,4,4,1,100.0,Oman
+odi,R Dhar,India,53,53,2,100.0,Pakistan
+odi,R Dhawan,India,12,13,1,92.3076923076923,Pakistan
+odi,R Dravid,ICC World XI,42,73,4,57.534246575342465,
+odi,R Dravid,India,3608,5060,93,71.30434782608695,Pakistan
+odi,R Gunasekera,Canada,255,463,13,55.0755939524838,United States of America
+odi,R Hekure,Papua New Guinea,328,436,19,75.22935779816514,Ireland
+odi,R Kanoh,Thailand,100,149,7,67.11409395973155,Netherlands
+odi,R Klein,Netherlands,38,81,7,46.913580246913575,Zimbabwe
+odi,R MacDonald-Gay,England,17,14,1,121.42857142857142,Bangladesh
+odi,R Malhotra,India,118,185,3,63.78378378378379,Pakistan
+odi,R McLaren,South Africa,485,696,25,69.68390804597702,Sri Lanka
+odi,R Murray,Zimbabwe,108,180,4,60.0,India
+odi,R Mutumbami,Zimbabwe,319,447,19,71.36465324384787,India
+odi,R Ngarava,Zimbabwe,242,288,15,84.02777777777779,India
+odi,R Ntozakhe,South Africa,8,30,4,26.666666666666668,Sri Lanka
+odi,R Parag,India,15,13,1,115.38461538461537,Pakistan
+odi,R Pasipanodya,Zimbabwe,24,72,1,33.33333333333333,India
+odi,R Powell,West Indies,915,1054,43,86.81214421252372,England
+odi,R Rampaul,West Indies,338,450,29,75.1111111111111,England
+odi,R Ravindra,New Zealand,1201,1122,27,107.0409982174688,Bangladesh
+odi,R Rijke,Netherlands,238,339,14,70.20648967551622,Zimbabwe
+odi,R Sharma,India,1,2,1,50.0,Pakistan
+odi,R Shepherd,West Indies,396,398,24,99.49748743718592,England
+odi,R Slater,Scotland,90,103,1,87.37864077669903,Hong Kong
+odi,R Stokell,Ireland,247,421,17,58.66983372921615,Bangladesh
+odi,R Telemachus,South Africa,41,20,3,204.99999999999997,Sri Lanka
+odi,R Trumpelmann,Namibia,483,609,29,79.3103448275862,Oman
+odi,R Vinay Kumar,India,86,150,8,57.333333333333336,Pakistan
+odi,R Walters,Namibia,0,6,2,0.0,Oman
+odi,RA Jadeja,India,2781,3350,86,83.01492537313433,Pakistan
+odi,RA Jones,New Zealand,96,187,4,51.33689839572193,Bangladesh
+odi,RA Lewis,Ireland,2,13,2,15.384615384615385,Bangladesh
+odi,RA Mair,New Zealand,33,50,5,66.0,Bangladesh
+odi,RA Mariu,New Zealand,76,93,2,81.72043010752688,Bangladesh
+odi,RA Reifer,West Indies,51,103,6,49.51456310679612,England
+odi,RA Rolfe,Ireland,0,3,1,0.0,Bangladesh
+odi,RAP Nissanka,Sri Lanka,31,86,3,36.04651162790697,Australia
+odi,RAS Lakmal,Sri Lanka,229,408,22,56.127450980392155,Australia
+odi,RC Irani,England,67,125,6,53.6,Bangladesh
+odi,RD Berrington,Scotland,2470,3266,68,75.62767911818739,Hong Kong
+odi,RD Chahar,India,13,26,1,50.0,Pakistan
+odi,RD Gaikwad,India,115,159,6,72.32704402515722,Pakistan
+odi,RD Jacobs,West Indies,142,225,8,63.11111111111111,England
+odi,RD McCann,Ireland,23,57,2,40.35087719298245,Bangladesh
+odi,RD Rickelton,South Africa,232,255,9,90.98039215686275,Sri Lanka
+odi,RD Shah,Kenya,407,647,14,62.90571870170015,New Zealand
+odi,RD Steede,Bermuda,15,22,2,68.18181818181817,Sri Lanka
+odi,RDM Leverock,Bermuda,45,121,6,37.1900826446281,Sri Lanka
+odi,RE van der Merwe,Netherlands,153,175,13,87.42857142857143,Zimbabwe
+odi,RE van der Merwe,South Africa,39,41,5,95.1219512195122,Sri Lanka
+odi,RG Aga,Kenya,114,122,5,93.44262295081968,New Zealand
+odi,RG Sharma,India,10948,12067,224,90.72677550343913,Pakistan
+odi,RH Candy,New Zealand,10,13,0,76.92307692307693,Bangladesh
+odi,RH Priest,New Zealand,661,816,25,81.00490196078431,Bangladesh
+odi,RH Scholte,Netherlands,8,31,2,25.806451612903224,Zimbabwe
+odi,RJ Harris,Australia,48,48,6,100.0,Pakistan
+odi,RJ Nicol,New Zealand,586,805,21,72.79503105590062,Bangladesh
+odi,RJ Peterson,South Africa,523,636,27,82.23270440251572,Sri Lanka
+odi,RJ Rolls,New Zealand,2,4,1,50.0,Bangladesh
+odi,RJ Sidebottom,England,124,187,10,66.31016042780749,Bangladesh
+odi,RJ Trott,Bermuda,95,194,3,48.96907216494845,Sri Lanka
+odi,RJ van Vuuren,Namibia,26,38,3,68.42105263157895,Oman
+odi,RJW Topley,England,20,66,4,30.303030303030305,Bangladesh
+odi,RK Kleinveldt,South Africa,105,129,7,81.3953488372093,Sri Lanka
+odi,RK Paudel,Nepal,1629,2224,55,73.24640287769785,Oman
+odi,RK Singh,India,55,43,2,127.90697674418605,Pakistan
+odi,RK Whelan,Ireland,5,12,2,41.66666666666667,Bangladesh
+odi,RL Bhudia,Kenya,22,15,1,146.66666666666666,New Zealand
+odi,RL Chase,West Indies,799,1071,31,74.60317460317461,England
+odi,RL Grundy,England,1,6,1,16.666666666666664,Bangladesh
+odi,RL Haynes,Australia,1966,2485,46,79.11468812877264,Pakistan
+odi,RL Johnson,England,16,21,3,76.19047619047619,Bangladesh
+odi,RL Powell,West Indies,570,626,23,91.05431309904152,England
+odi,RM Farrell,Australia,92,156,3,58.97435897435898,Pakistan
+odi,RM Ghosh,India,800,852,29,93.89671361502347,Pakistan
+odi,RM Haq,Scotland,181,354,14,51.12994350282486,Hong Kong
+odi,RM Jariwala,United States of America,30,53,4,56.60377358490566,Papua New Guinea
+odi,RM Patidar,India,22,18,1,122.22222222222223,Pakistan
+odi,RM West,Ireland,0,3,1,0.0,Bangladesh
+odi,RM van Oosterom,Netherlands,15,38,4,39.473684210526315,Zimbabwe
+odi,RML Taylor,Scotland,105,128,8,82.03125,Hong Kong
+odi,RMS Eranga,Sri Lanka,34,68,3,50.0,Australia
+odi,RMVD Gunaratne,Sri Lanka,567,838,24,67.66109785202865,Australia
+odi,RN Bhatia,United Arab Emirates,51,114,7,44.73684210526316,Papua New Guinea
+odi,RN Lewis,West Indies,134,128,7,104.6875,England
+odi,RN ten Doeschate,Netherlands,594,682,11,87.09677419354838,Zimbabwe
+odi,RO Hinds,West Indies,8,19,1,42.10526315789473,England
+odi,RO Hurley,West Indies,8,17,2,47.05882352941176,England
+odi,RO Hussain,Scotland,10,20,0,50.0,Hong Kong
+odi,RP Alexander,United States of America,34,81,2,41.9753086419753,Papua New Guinea
+odi,RP Arnold,Sri Lanka,1039,1491,39,69.68477531857815,Australia
+odi,RP Burl,Zimbabwe,761,929,30,81.91603875134554,India
+odi,RP Lefebvre,Netherlands,43,68,3,63.23529411764706,Zimbabwe
+odi,RP Singh,India,103,243,12,42.38683127572017,Pakistan
+odi,RP Singh,United States of America,38,77,4,49.35064935064935,Papua New Guinea
+odi,RP Yadav,India,57,75,3,76.0,Pakistan
+odi,RR Beaton,West Indies,15,54,1,27.77777777777778,England
+odi,RR Emrit,West Indies,13,35,1,37.142857142857146,England
+odi,RR Hendricks,South Africa,930,1211,35,76.79603633360858,Sri Lanka
+odi,RR Joshi,Canada,3,4,1,75.0,United States of America
+odi,RR Pant,India,871,846,25,102.95508274231679,Pakistan
+odi,RR Patel,Kenya,168,237,6,70.88607594936708,New Zealand
+odi,RR Powar,India,156,246,12,63.41463414634146,Pakistan
+odi,RR Ramdass,West Indies,1,9,1,11.11111111111111,England
+odi,RR Rossouw,South Africa,1239,1341,32,92.39373601789708,Sri Lanka
+odi,RR Sarwan,West Indies,3717,5143,96,72.27299241687732,England
+odi,RR Watson,Scotland,239,344,7,69.47674418604652,Hong Kong
+odi,RS Bopara,England,2689,3520,94,76.39204545454545,Bangladesh
+odi,RS Gavaskar,India,93,164,6,56.70731707317073,Pakistan
+odi,RS Gayakwad,India,15,48,7,31.25,Pakistan
+odi,RS Higgins,Zimbabwe,2,21,2,9.523809523809524,India
+odi,RS Kaluwitharana,Sri Lanka,124,180,4,68.88888888888889,Australia
+odi,RS Morton,West Indies,1205,1872,37,64.36965811965813,England
+odi,RS Vandort,Sri Lanka,10,17,2,58.82352941176471,Australia
+odi,RS Williams,West Indies,477,1032,32,46.22093023255814,England
+odi,RT Crandon,West Indies,5,9,1,55.55555555555556,England
+odi,RT Lyons,Scotland,5,3,0,166.66666666666669,Hong Kong
+odi,RT Ponting,Australia,6979,8658,173,80.6075306075306,Pakistan
+odi,RTM Mendis,Sri Lanka,50,50,2,100.0,Australia
+odi,RV Uthappa,India,934,1070,38,87.28971962616822,Pakistan
+odi,RW Chakabva,Zimbabwe,1106,1650,48,67.03030303030303,India
+odi,RW Price,Zimbabwe,315,541,34,58.225508317929766,India
+odi,RW Sims,Zimbabwe,24,64,1,37.5,India
+odi,RW Staple,United States of America,4,13,2,30.76923076923077,Papua New Guinea
+odi,RWT Key,England,36,105,4,34.285714285714285,Bangladesh
+odi,Rabeya Khan,Bangladesh,71,151,11,47.019867549668874,New Zealand
+odi,Rabiya Shah,Pakistan,80,127,5,62.99212598425197,South Africa
+odi,Rachel Delaney,Ireland,78,187,9,41.711229946524064,Bangladesh
+odi,Rahat Ali,Pakistan,8,37,3,21.62162162162162,South Africa
+odi,Rajin Saleh,Bangladesh,515,1059,27,48.63078375826252,New Zealand
+odi,Rameen Shamim,Pakistan,34,51,2,66.66666666666666,South Africa
+odi,Rameez Shahzad,United Arab Emirates,848,1118,22,75.84973166368515,Papua New Guinea
+odi,Raqibul Hasan,Bangladesh,1177,1910,44,61.623036649214654,New Zealand
+odi,Rashid Latif,Pakistan,335,408,14,82.1078431372549,South Africa
+odi,Rashid Zia,United States of America,9,58,2,15.517241379310345,Papua New Guinea
+odi,Ravi Bishnoi,India,4,2,0,200.0,Pakistan
+odi,Ravinderpal Singh,Canada,77,107,6,71.96261682242991,United States of America
+odi,Raza Hasan,Pakistan,0,3,1,0.0,South Africa
+odi,Raza-ur-Rehman,Canada,174,215,3,80.93023255813954,United States of America
+odi,Rehan Ahmed,England,35,48,4,72.91666666666666,Bangladesh
+odi,Renuka Singh,India,16,41,7,39.02439024390244,Pakistan
+odi,Reon King,West Indies,3,10,0,30.0,England
+odi,Rishad Hossain,Bangladesh,98,70,4,140.0,New Zealand
+odi,Ritu Moni,Bangladesh,443,718,25,61.6991643454039,New Zealand
+odi,Rizwan Cheema,Canada,196,167,12,117.36526946107784,United States of America
+odi,Robiul Islam,Bangladesh,0,1,0,0.0,New Zealand
+odi,Rohan Mustafa,United Arab Emirates,1401,2261,65,61.96373286156568,Papua New Guinea
+odi,Rony Talukdar,Bangladesh,4,15,1,26.666666666666668,New Zealand
+odi,Rubel Hossain,Bangladesh,112,226,21,49.557522123893804,New Zealand
+odi,Rumana Ahmed,Bangladesh,346,683,22,50.658857979502194,New Zealand
+odi,Rumman Raees,Pakistan,27,25,3,108.0,South Africa
+odi,S Asha,India,8,5,0,160.0,Pakistan
+odi,S Badrinath,India,79,173,5,45.664739884393065,Pakistan
+odi,S Bau,Papua New Guinea,874,1483,45,58.93459204315577,Ireland
+odi,S Bhari,Nepal,22,52,3,42.30769230769231,Oman
+odi,S Chanderpaul,West Indies,3804,5605,90,67.86797502230152,England
+odi,S Chattergoon,West Indies,281,441,8,63.718820861678005,England
+odi,S Chaturongrattana,Thailand,13,36,3,36.11111111111111,Netherlands
+odi,S Daniel,Sri Lanka,12,29,1,41.37931034482759,Australia
+odi,S Dhakal,Nepal,7,44,0,15.909090909090908,Oman
+odi,S Dhamala,Nepal,12,40,1,30.0,Oman
+odi,S Dhaniram,Canada,281,316,12,88.92405063291139,United States of America
+odi,S Dhawan,India,6733,7524,154,89.4869750132908,Pakistan
+odi,S Dube,India,43,49,4,87.75510204081633,Pakistan
+odi,S Ecclestone,England,372,537,33,69.27374301675978,Bangladesh
+odi,S Forbes,Ireland,272,488,12,55.73770491803278,Bangladesh
+odi,S Fouché,Namibia,261,403,10,64.76426799007444,Oman
+odi,S Gajnabi,West Indies,138,291,18,47.42268041237113,England
+odi,S Glenn,England,65,81,3,80.24691358024691,Bangladesh
+odi,S Horley,Scotland,276,356,7,77.52808988764045,Hong Kong
+odi,S Immadi,United States of America,4,13,1,30.76923076923077,Papua New Guinea
+odi,S Ismail,South Africa,273,551,31,49.546279491833026,Sri Lanka
+odi,S Jafta,South Africa,165,301,12,54.81727574750831,Sri Lanka
+odi,S Jimmy,Papua New Guinea,118,198,8,59.59595959595959,Ireland
+odi,S Jora,Nepal,56,68,5,82.35294117647058,Oman
+odi,S Joseph,West Indies,0,1,0,0.0,England
+odi,S Jyoti,Canada,19,43,2,44.18604651162791,United States of America
+odi,S Kalyan,United Arab Emirates,55,128,4,42.96875,Papua New Guinea
+odi,S Kaul,India,1,2,1,50.0,Pakistan
+odi,S Khiaoto,Thailand,106,147,5,72.10884353741497,Netherlands
+odi,S Lackay,South Africa,0,2,1,0.0,Sri Lanka
+odi,S Lamichhane,Nepal,440,500,24,88.0,Oman
+odi,S Laomi,Thailand,74,147,9,50.34013605442177,Netherlands
+odi,S Loubser,South Africa,43,75,3,57.333333333333336,Sri Lanka
+odi,S Luus,South Africa,2141,3263,80,65.61446521605883,Sri Lanka
+odi,S MacMahon,Ireland,108,125,8,86.4,Bangladesh
+odi,S Mahmood,England,29,51,4,56.86274509803921,Bangladesh
+odi,S Mandhana,India,3790,4303,77,88.07808505693701,Pakistan
+odi,S Matsikenyeri,Zimbabwe,1309,1968,74,66.51422764227642,India
+odi,S Meghana,India,114,111,3,102.7027027027027,Pakistan
+odi,S Molineux,Australia,64,77,5,83.11688311688312,Pakistan
+odi,S Mostary,Bangladesh,246,425,18,57.88235294117647,New Zealand
+odi,S Movva,Canada,374,570,14,65.6140350877193,United States of America
+odi,S Mukuddem,Bermuda,90,150,3,60.0,Sri Lanka
+odi,S Muthusamy,South Africa,2,3,1,66.66666666666666,Sri Lanka
+odi,S Naidu,South Africa,0,2,0,0.0,Sri Lanka
+odi,S Naik,India,25,39,3,64.1025641025641,Pakistan
+odi,S Nisansala,Sri Lanka,20,30,2,66.66666666666666,Australia
+odi,S Nitschke,Australia,81,84,2,96.42857142857143,Pakistan
+odi,S Pandey,India,271,313,15,86.5814696485623,Pakistan
+odi,S Prasanna,Sri Lanka,421,460,32,91.52173913043478,Australia
+odi,S Rana,India,195,236,15,82.62711864406779,Pakistan
+odi,S Randiv,Sri Lanka,280,390,14,71.7948717948718,Australia
+odi,S Samarawickrama,Sri Lanka,1073,1184,36,90.625,Australia
+odi,S Sharma,India,4,10,1,40.0,Pakistan
+odi,S Shrivastava,Oman,21,49,2,42.857142857142854,Papua New Guinea
+odi,S Siegers,Netherlands,11,19,3,57.89473684210527,Zimbabwe
+odi,S Snater,Netherlands,21,13,1,161.53846153846155,Zimbabwe
+odi,S Sreesanth,India,44,125,9,35.199999999999996,Pakistan
+odi,S Sriharsha,United States of America,200,295,4,67.79661016949152,Papua New Guinea
+odi,S Sriram,India,3,5,1,60.0,Pakistan
+odi,S Thuraisingam,Canada,26,47,3,55.319148936170215,United States of America
+odi,S Tippoch,Thailand,89,226,9,39.38053097345133,Netherlands
+odi,S Tyagi,India,1,2,0,50.0,Pakistan
+odi,S Verma,India,135,217,13,62.21198156682027,Pakistan
+odi,S Vesawkar,Nepal,62,140,2,44.285714285714285,Oman
+odi,SA Abbott,Australia,374,397,19,94.20654911838791,Pakistan
+odi,SA Campbelle,West Indies,1238,2053,55,60.30199707744763,England
+odi,SA Edwards,Netherlands,1765,1972,48,89.50304259634888,Zimbabwe
+odi,SA Engelbrecht,Netherlands,327,519,10,63.005780346820806,Zimbabwe
+odi,SA Fritz,South Africa,28,52,3,53.84615384615385,Sri Lanka
+odi,SA Millanta,Australia,15,19,0,78.94736842105263,Pakistan
+odi,SA Wijeratne,Canada,191,275,8,69.45454545454545,United States of America
+odi,SA Yadav,India,773,751,32,102.92942743009321,Pakistan
+odi,SACA King,West Indies,126,233,9,54.077253218884124,England
+odi,SB Bangar,India,8,19,4,42.10526315789473,Pakistan
+odi,SB Styris,New Zealand,3184,3970,82,80.2015113350126,Bangladesh
+odi,SC Ganguly,Asia XI,120,146,3,82.1917808219178,
+odi,SC Ganguly,India,2289,3283,64,69.7228144989339,Pakistan
+odi,SC Getkate,Ireland,23,23,1,100.0,Bangladesh
+odi,SC Joseph,West Indies,77,153,4,50.326797385620914,England
+odi,SC Kuggeleijn,New Zealand,11,6,0,183.33333333333331,Bangladesh
+odi,SC Meaker,England,2,18,2,11.11111111111111,Bangladesh
+odi,SC Selman,West Indies,136,317,17,42.90220820189275,England
+odi,SC Taylor,England,77,73,0,105.47945205479452,Bangladesh
+odi,SC Williams,Zimbabwe,4274,4903,116,87.17111972261881,India
+odi,SC van Schalkwyk,United States of America,138,236,8,58.47457627118644,Papua New Guinea
+odi,SCJ Broad,England,509,692,48,73.55491329479769,Bangladesh
+odi,SD Heazlett,Australia,4,11,1,36.36363636363637,Pakistan
+odi,SD Hope,West Indies,5218,6614,113,78.89325672815241,England
+odi,SD Outerbridge,Bermuda,72,147,9,48.97959183673469,Sri Lanka
+odi,SD Udal,England,0,2,1,0.0,Bangladesh
+odi,SDNS Karunaratne,Sri Lanka,17,14,2,121.42857142857142,Australia
+odi,SE Aley,Australia,15,8,0,187.5,Pakistan
+odi,SE Bond,New Zealand,173,271,14,63.837638376383765,Bangladesh
+odi,SE Findlay,West Indies,88,140,3,62.857142857142854,England
+odi,SE Marsh,Australia,2622,3318,67,79.02350813743219,Pakistan
+odi,SE Rutherford,West Indies,497,450,7,110.44444444444443,England
+odi,SEA Ruck,New Zealand,7,13,1,53.84615384615385,Bangladesh
+odi,SF Burger,Namibia,11,20,2,55.00000000000001,Oman
+odi,SF Daley,West Indies,141,240,11,58.75,England
+odi,SF Mire,Zimbabwe,729,944,36,77.22457627118644,India
+odi,SFM Devine,New Zealand,2796,3194,76,87.53913587977458,Bangladesh
+odi,SG Borthwick,England,18,16,2,112.5,Bangladesh
+odi,SG Satghare,India,2,3,0,66.66666666666666,Pakistan
+odi,SG Whittingham,Scotland,5,15,2,33.33333333333333,Hong Kong
+odi,SH Johnson,Australia,12,14,1,85.71428571428571,Pakistan
+odi,SHT Kandamby,Sri Lanka,827,1198,25,69.03171953255426,Australia
+odi,SI Galagedara,Sri Lanka,0,11,1,0.0,Australia
+odi,SI Kamea,Papua New Guinea,18,55,6,32.72727272727273,Ireland
+odi,SI Mahmood,England,84,99,9,84.84848484848484,Bangladesh
+odi,SIP Fernando,Sri Lanka,15,60,4,25.0,Australia
+odi,SIR Dunkley,England,798,1004,32,79.4820717131474,Bangladesh
+odi,SJ Andrews,Australia,16,36,1,44.44444444444444,Pakistan
+odi,SJ Baard,Namibia,326,567,18,57.49559082892416,Oman
+odi,SJ Benn,West Indies,182,242,23,75.20661157024794,England
+odi,SJ Bryce,Scotland,298,417,12,71.46282973621103,Hong Kong
+odi,SJ Cameron,Scotland,9,13,1,69.23076923076923,Hong Kong
+odi,SJ Coyte,Australia,154,233,6,66.09442060085837,Pakistan
+odi,SJ Elliott,Australia,8,16,0,50.0,Pakistan
+odi,SJ Harmison,England,80,138,10,57.971014492753625,Bangladesh
+odi,SJ Massiah,United States of America,23,47,2,48.93617021276596,Papua New Guinea
+odi,SJ McGlashan,New Zealand,160,234,9,68.37606837606837,Bangladesh
+odi,SJ Modani,United States of America,898,1460,31,61.50684931506849,Papua New Guinea
+odi,SJ Myburgh,Netherlands,347,466,12,74.46351931330472,Zimbabwe
+odi,SJ Swanepoel,Namibia,43,99,5,43.43434343434344,Oman
+odi,SJ Taylor,England,1651,1932,47,85.45548654244305,Bangladesh
+odi,SJ Tsukigawa,New Zealand,39,70,1,55.714285714285715,Bangladesh
+odi,SK Atai,Papua New Guinea,90,184,9,48.91304347826087,Ireland
+odi,SK Dolawatte,Sri Lanka,16,56,2,28.57142857142857,Australia
+odi,SK Naidu,India,0,3,1,0.0,Pakistan
+odi,SK Patel,United States of America,559,731,14,76.47058823529412,Papua New Guinea
+odi,SK Raina,India,5585,6147,154,90.85732877826582,Pakistan
+odi,SK Warne,Australia,0,1,1,0.0,Pakistan
+odi,SKW Kelly,Bermuda,7,5,0,140.0,Sri Lanka
+odi,SL Kalis,Netherlands,106,240,5,44.166666666666664,Zimbabwe
+odi,SL Malinga,Sri Lanka,508,701,76,72.46790299572041,Australia
+odi,SL Quintyne,West Indies,117,204,6,57.35294117647059,England
+odi,SL Stewart,New Zealand,26,59,4,44.06779661016949,Bangladesh
+odi,SM Benade,South Africa,100,128,3,78.125,Sri Lanka
+odi,SM Boland,Australia,9,22,2,40.909090909090914,Pakistan
+odi,SM Curran,England,587,637,24,92.15070643642072,Bangladesh
+odi,SM Davies,England,244,239,8,102.09205020920503,Bangladesh
+odi,SM Ervine,Zimbabwe,321,350,11,91.71428571428571,India
+odi,SM Harwood,Australia,0,4,1,0.0,Pakistan
+odi,SM Katich,Australia,1041,1517,27,68.62228081740277,Pakistan
+odi,SM Kavanagh,Ireland,126,239,12,52.719665271966534,Bangladesh
+odi,SM Mayers,Zimbabwe,162,241,10,67.21991701244814,India
+odi,SM Pollock,Africa XI,269,243,4,110.69958847736625,Asia XI
+odi,SM Pollock,ICC World XI,23,43,2,53.48837209302325,
+odi,SM Pollock,South Africa,1066,1183,42,90.10989010989012,Sri Lanka
+odi,SM Sharif,Scotland,497,707,30,70.29702970297029,Hong Kong
+odi,SM Sharma,United Arab Emirates,130,138,6,94.20289855072464,Papua New Guinea
+odi,SM Warnapura,Sri Lanka,30,64,2,46.875,Australia
+odi,SMA Priyanjan,Sri Lanka,420,533,17,78.79924953095684,Australia
+odi,SMSM Senanayake,Sri Lanka,290,321,24,90.34267912772586,Australia
+odi,SN Netravalkar,United States of America,145,241,15,60.16597510373444,Papua New Guinea
+odi,SN Thakur,India,329,321,18,102.49221183800623,Pakistan
+odi,SO Dowrich,West Indies,6,8,1,75.0,England
+odi,SO Hetmyer,West Indies,1414,1339,45,105.60119492158326,England
+odi,SO Ngoche,Kenya,37,45,3,82.22222222222221,New Zealand
+odi,SO Tikolo,Africa XI,16,46,3,34.78260869565217,Asia XI
+odi,SO Tikolo,Kenya,689,1051,34,65.55661274976214,New Zealand
+odi,SP Fleming,New Zealand,2133,3036,62,70.25691699604744,Bangladesh
+odi,SP Jones,England,1,2,1,50.0,Bangladesh
+odi,SP Khakurel,Nepal,78,166,5,46.98795180722892,Oman
+odi,SP Krishnamurthi,United States of America,255,266,10,95.86466165413535,Papua New Guinea
+odi,SP Narine,West Indies,363,455,31,79.78021978021978,England
+odi,SP Patil,United Arab Emirates,153,295,7,51.864406779661024,Papua New Guinea
+odi,SP Terry,Ireland,16,18,2,88.88888888888889,Bangladesh
+odi,SP de Alwis,Sri Lanka,28,53,2,52.83018867924528,Australia
+odi,SPD Smith,Australia,5668,6653,136,85.19464903051255,Pakistan
+odi,SR Clark,Australia,69,90,6,76.66666666666667,Pakistan
+odi,SR Hain,England,106,100,2,106.0,Bangladesh
+odi,SR Mukkamalla,United States of America,982,1217,27,80.69022185702546,Papua New Guinea
+odi,SR Patel,England,482,532,16,90.6015037593985,Bangladesh
+odi,SR Patil,India,7,12,1,58.333333333333336,Pakistan
+odi,SR Taylor,United States of America,934,1202,36,77.70382695507487,Papua New Guinea
+odi,SR Taylor,West Indies,2194,3241,62,67.69515581610615,England
+odi,SR Tendulkar,India,6432,7607,133,84.55370053897727,Pakistan
+odi,SR Thadani,United States of America,6,13,1,46.15384615384615,Papua New Guinea
+odi,SR Thompson,Ireland,178,198,9,89.8989898989899,Bangladesh
+odi,SR Waters,Kenya,67,147,7,45.57823129251701,New Zealand
+odi,SR Watson,Australia,5357,5949,126,90.04874768868717,Pakistan
+odi,SRH Curtis,New Zealand,156,234,6,66.66666666666666,Bangladesh
+odi,SS Connell,West Indies,114,229,15,49.78165938864629,England
+odi,SS Cottrell,West Indies,88,135,8,65.18518518518519,England
+odi,SS Grimmond,West Indies,48,60,5,80.0,England
+odi,SS Iyer,India,2820,2905,58,97.07401032702238,Pakistan
+odi,SS Kang,United Arab Emirates,25,98,2,25.510204081632654,Papua New Guinea
+odi,SS McKechnie,Hong Kong,73,142,6,51.40845070422535,Papua New Guinea
+odi,SS Pathirana,Sri Lanka,332,399,13,83.20802005012531,Australia
+odi,SS Tiwary,India,49,57,0,85.96491228070175,Pakistan
+odi,SS Weerakkody,Sri Lanka,328,521,27,62.95585412667947,Australia
+odi,SSB Magala,South Africa,18,25,3,72.0,Sri Lanka
+odi,SSD Arachchige,Sri Lanka,89,134,3,66.4179104477612,Australia
+odi,SSJ Brooks,West Indies,842,1150,28,73.21739130434783,England
+odi,ST Doheny,Ireland,165,275,9,60.0,Bangladesh
+odi,ST Finn,England,136,228,18,59.64912280701754,Bangladesh
+odi,ST Gabriel,West Indies,22,58,6,37.93103448275862,England
+odi,ST Jayasuriya,Asia XI,38,54,3,70.37037037037037,
+odi,ST Jayasuriya,Sri Lanka,4364,4724,122,92.37933954276038,Australia
+odi,STR Binny,India,230,252,9,91.26984126984127,Pakistan
+odi,SV Bahutule,India,11,13,1,84.61538461538461,Pakistan
+odi,SV Carlisle,Zimbabwe,110,249,7,44.17670682730924,India
+odi,SV Samson,India,510,527,9,96.7741935483871,Pakistan
+odi,SW Ambris,West Indies,473,505,12,93.66336633663367,England
+odi,SW Bates,New Zealand,3303,4361,91,75.73950928686081,Bangladesh
+odi,SW Billings,England,690,768,20,89.84375,Bangladesh
+odi,SW Currie,Scotland,10,19,2,52.63157894736842,Hong Kong
+odi,SW Masakadza,Zimbabwe,109,112,7,97.32142857142857,India
+odi,SW Poynter,Ireland,74,102,6,72.54901960784314,Bangladesh
+odi,SW Tait,Australia,25,29,1,86.20689655172413,Pakistan
+odi,SZ Thakor,India,46,102,6,45.09803921568628,Pakistan
+odi,Saad Ali,Pakistan,11,23,2,47.82608695652174,South Africa
+odi,Saad Bin Zafar,Canada,262,365,17,71.78082191780823,United States of America
+odi,Saad Nasim,Pakistan,99,125,2,79.2,South Africa
+odi,Sabahat Rasheed,Pakistan,2,3,0,66.66666666666666,South Africa
+odi,Sabbir Rahman,Bangladesh,1259,1395,47,90.25089605734767,New Zealand
+odi,Sabir Ali,United Arab Emirates,12,13,2,92.3076923076923,Papua New Guinea
+odi,Sadaf Shamas,Pakistan,262,496,12,52.82258064516129,South Africa
+odi,Sadia Iqbal,Pakistan,32,61,8,52.459016393442624,South Africa
+odi,Sadia Yousuf,Pakistan,10,98,7,10.204081632653061,South Africa
+odi,Saeed Ajmal,Pakistan,323,539,45,59.92578849721707,South Africa
+odi,Saeed Anwar,Pakistan,218,318,5,68.55345911949685,South Africa
+odi,Sagar Pun,Nepal,3,20,1,15.0,Oman
+odi,Saim Ayub,Pakistan,515,504,8,102.18253968253967,South Africa
+odi,Sajjida Shah,Pakistan,77,172,2,44.76744186046512,South Africa
+odi,Saleem Elahi,Pakistan,199,307,6,64.82084690553745,South Africa
+odi,Salma Khatun,Bangladesh,232,460,15,50.43478260869565,New Zealand
+odi,Salman Butt,Pakistan,2186,2932,59,74.55661664392906,South Africa
+odi,Salman Faris,United Arab Emirates,0,2,1,0.0,Papua New Guinea
+odi,Sami Aslam,Pakistan,78,123,4,63.41463414634146,South Africa
+odi,Sami Faridi,Canada,16,26,1,61.53846153846154,United States of America
+odi,Sana Javed,Pakistan,68,136,3,50.0,South Africa
+odi,Sana Mir,Pakistan,714,1380,26,51.73913043478261,South Africa
+odi,Sandeep Goud,Oman,535,766,23,69.84334203655352,Papua New Guinea
+odi,Sania Khan,Pakistan,4,12,1,33.33333333333333,South Africa
+odi,Sanjida Islam,Bangladesh,93,226,7,41.150442477876105,New Zealand
+odi,Sanwar Hossain,Bangladesh,115,203,9,56.65024630541872,New Zealand
+odi,Saqib Ali,United Arab Emirates,29,53,2,54.71698113207547,Papua New Guinea
+odi,Saqib Zulfiqar,Netherlands,158,233,8,67.81115879828327,Zimbabwe
+odi,Saqlain Haider,United Arab Emirates,30,40,3,75.0,Papua New Guinea
+odi,Saqlain Mushtaq,Pakistan,17,39,1,43.58974358974359,South Africa
+odi,Sarfraz Ahmed,Pakistan,2289,2673,70,85.6341189674523,South Africa
+odi,Saud Shakeel,Pakistan,374,455,13,82.19780219780219,South Africa
+odi,Shabbir Ahmed,Pakistan,6,15,3,40.0,South Africa
+odi,Shadab Khan,Pakistan,714,866,29,82.44803695150115,South Africa
+odi,Shafali Verma,India,644,813,27,79.21279212792129,Pakistan
+odi,Shafiul Islam,Bangladesh,132,242,19,54.54545454545454,New Zealand
+odi,Shahadat Hossain,Bangladesh,60,119,6,50.42016806722689,New Zealand
+odi,Shahbaz Ahmed,India,0,4,1,0.0,Pakistan
+odi,Shaheen Shah Afridi,Pakistan,250,296,20,84.45945945945947,South Africa
+odi,Shahid Afridi,Asia XI,13,15,2,86.66666666666667,
+odi,Shahid Afridi,ICC World XI,16,8,1,200.0,
+odi,Shahid Afridi,Pakistan,3884,2964,164,131.0391363022942,South Africa
+odi,Shahid Ahmadzai,Canada,28,44,2,63.63636363636363,United States of America
+odi,Shahid Wasif,Hong Kong,60,138,6,43.47826086956522,Papua New Guinea
+odi,Shahnawaz Dhani,Pakistan,4,3,0,133.33333333333331,South Africa
+odi,Shahriar Hossain,Bangladesh,0,3,1,0.0,New Zealand
+odi,Shahriar Nafees,Bangladesh,1216,1817,52,66.92350027517887,New Zealand
+odi,Shahzaib Hasan,Pakistan,100,118,3,84.7457627118644,South Africa
+odi,Shaila Sharmin,Bangladesh,59,98,5,60.204081632653065,New Zealand
+odi,Shaiman Anwar,United Arab Emirates,947,1162,28,81.49741824440619,Papua New Guinea
+odi,Shakeel Ahmed,Oman,99,181,6,54.69613259668509,Papua New Guinea
+odi,Shakib Al Hasan,Bangladesh,6638,8133,176,81.61809910242222,New Zealand
+odi,Shamim Hossain,Bangladesh,22,38,3,57.89473684210527,New Zealand
+odi,Shamima Sultana,Bangladesh,304,540,14,56.2962962962963,New Zealand
+odi,Shamsur Rahman,Bangladesh,266,357,9,74.50980392156863,New Zealand
+odi,Shan Masood,Pakistan,163,242,9,67.35537190082644,South Africa
+odi,Shariz Ahmad,Netherlands,159,291,13,54.63917525773196,Zimbabwe
+odi,Sharjeel Khan,Pakistan,787,692,24,113.72832369942196,South Africa
+odi,Sharmin Akhter,Bangladesh,909,1532,28,59.33420365535248,New Zealand
+odi,Sharmin Sultana,Bangladesh,67,198,11,33.83838383838384,New Zealand
+odi,Shathira Jakir,Bangladesh,0,2,1,0.0,New Zealand
+odi,Shawaal Zulfiqar,Pakistan,15,45,3,33.33333333333333,South Africa
+odi,Shayan Jahangir,United States of America,624,687,17,90.82969432314411,Papua New Guinea
+odi,Shivam Sharma,Canada,82,120,5,68.33333333333333,United States of America
+odi,Shoaib Akhtar,Asia XI,15,13,1,115.38461538461537,
+odi,Shoaib Akhtar,ICC World XI,2,3,1,66.66666666666666,
+odi,Shoaib Akhtar,Pakistan,200,233,22,85.83690987124464,South Africa
+odi,Shoaib Khan,Oman,843,1025,25,82.24390243902438,Papua New Guinea
+odi,Shoaib Malik,Pakistan,5981,7309,171,81.83061978382817,South Africa
+odi,Shoriful Islam,Bangladesh,91,106,10,85.84905660377359,New Zealand
+odi,Shorna Akter,Bangladesh,155,258,11,60.07751937984496,New Zealand
+odi,Shubman Gill,India,2775,2863,49,96.9263010827803,Pakistan
+odi,Shuvagata Hom,Bangladesh,70,88,2,79.54545454545455,New Zealand
+odi,Sidra Ameen,Pakistan,1820,2919,58,62.35011990407674,South Africa
+odi,Sidra Nawaz,Pakistan,377,752,38,50.13297872340425,South Africa
+odi,Sikandar Raza,Zimbabwe,3511,4084,107,85.96963761018608,India
+odi,Simandeep Singh,Hong Kong,0,7,1,0.0,Papua New Guinea
+odi,Simi Singh,Ireland,406,517,14,78.52998065764024,Bangladesh
+odi,Skhawat Ali,Hong Kong,18,60,3,30.0,Papua New Guinea
+odi,Sohag Gazi,Bangladesh,182,207,12,87.92270531400966,New Zealand
+odi,Sohaib Maqsood,Pakistan,768,935,23,82.13903743315508,South Africa
+odi,Sohail Khan,Pakistan,25,52,5,48.07692307692308,South Africa
+odi,Sohail Tanvir,Pakistan,399,468,27,85.25641025641025,South Africa
+odi,Sompal Kami,Nepal,621,866,28,71.70900692840647,Oman
+odi,Soumya Sarkar,Bangladesh,2044,2150,59,95.06976744186046,New Zealand
+odi,Steven Ryan Taylor,United States of America,205,318,12,64.46540880503144,Papua New Guinea
+odi,Subashis Roy,Bangladesh,1,9,0,11.11111111111111,New Zealand
+odi,Sufiyan Muqeem,Pakistan,15,17,1,88.23529411764706,South Africa
+odi,Sufyan Mehmood,Oman,107,141,6,75.88652482269504,Papua New Guinea
+odi,Suhrawadi Shuvo,Bangladesh,98,138,8,71.01449275362319,New Zealand
+odi,Sultan Ahmed (2),United Arab Emirates,18,44,2,40.909090909090914,Papua New Guinea
+odi,Sultana Khatun,Bangladesh,40,90,8,44.44444444444444,New Zealand
+odi,Sultana Yesmin,Bangladesh,0,1,1,0.0,New Zealand
+odi,Sumaiya Akter,Bangladesh,0,4,1,0.0,New Zealand
+odi,Sumaiya Siddiqi,Pakistan,27,32,3,84.375,South Africa
+odi,Sunzamul Islam,Bangladesh,19,25,1,76.0,New Zealand
+odi,Suraiya Azmin,Bangladesh,0,2,1,0.0,New Zealand
+odi,Suraj Kumar,Oman,392,524,13,74.80916030534351,Papua New Guinea
+odi,Surya Tamang,Nepal,10,33,0,30.303030303030305,Oman
+odi,Syed Rasel,Bangladesh,76,168,13,45.23809523809524,New Zealand
+odi,Syeda Aroob Shah,Pakistan,0,1,0,0.0,South Africa
+odi,T Banton,England,172,186,6,92.47311827956989,Bangladesh
+odi,T Bavuma,South Africa,1706,1970,39,86.59898477157361,Sri Lanka
+odi,T Bhatia,India,138,205,8,67.31707317073172,Pakistan
+odi,T Brits,South Africa,973,1349,34,72.1275018532246,Sri Lanka
+odi,T Chetty,South Africa,1414,2064,50,68.5077519379845,Sri Lanka
+odi,T Duffin,Zimbabwe,224,492,9,45.52845528455284,India
+odi,T Granger,Zimbabwe,38,58,3,65.51724137931035,India
+odi,T Gwandu,Zimbabwe,6,15,1,40.0,India
+odi,T Kaitano,Zimbabwe,157,264,9,59.46969696969697,India
+odi,T Kamungozi,Zimbabwe,25,56,5,44.642857142857146,India
+odi,T Lungameni,Namibia,46,108,7,42.592592592592595,Oman
+odi,T Makusha,Zimbabwe,1,2,0,50.0,India
+odi,T Maruma,Zimbabwe,122,225,14,54.22222222222223,India
+odi,T Marumani,Zimbabwe,216,343,14,62.973760932944614,India
+odi,T Mayes,Ireland,8,5,0,160.0,Bangladesh
+odi,T Mishra,Kenya,395,564,12,70.0354609929078,New Zealand
+odi,T Mufudza,Zimbabwe,1,9,1,11.11111111111111,India
+odi,T Munyonga,Zimbabwe,92,137,5,67.15328467153284,India
+odi,T Mupariwa,Zimbabwe,87,208,16,41.82692307692308,India
+odi,T Muzarabani,Zimbabwe,10,32,3,31.25,India
+odi,T Panyangara,Zimbabwe,192,389,32,49.3573264781491,India
+odi,T Putthawong,Thailand,77,231,8,33.33333333333333,Netherlands
+odi,T Ruma,Papua New Guinea,232,368,8,63.04347826086957,Ireland
+odi,T Sangha,Australia,6,20,1,30.0,Pakistan
+odi,T Shamsi,South Africa,39,71,4,54.929577464788736,Sri Lanka
+odi,T Stubbs,South Africa,218,237,5,91.9831223628692,Sri Lanka
+odi,T Suri,United Arab Emirates,91,127,4,71.65354330708661,Papua New Guinea
+odi,T Taibu,Africa XI,10,32,1,31.25,Asia XI
+odi,T Taibu,Zimbabwe,2827,4205,88,67.2294887039239,India
+odi,T Thushara,Sri Lanka,357,386,19,92.48704663212435,Australia
+odi,T de Zorzi,South Africa,403,419,9,96.18138424821002,Sri Lanka
+odi,T van der Gugten,Netherlands,116,170,7,68.23529411764706,Zimbabwe
+odi,TA Blundell,New Zealand,266,309,9,86.08414239482201,Bangladesh
+odi,TA Boult,New Zealand,216,284,26,76.05633802816901,Bangladesh
+odi,TAM Siriwardana,Sri Lanka,516,539,23,95.73283858998145,Australia
+odi,TB Robinson,New Zealand,48,49,3,97.95918367346938,Bangladesh
+odi,TB Sole,Scotland,38,37,5,102.7027027027027,Hong Kong
+odi,TBM de Leede,Netherlands,113,210,8,53.80952380952381,Zimbabwe
+odi,TC Bastiampillai,Canada,89,163,5,54.601226993865026,United States of America
+odi,TCB Fernando,Sri Lanka,18,39,0,46.15384615384615,Australia
+odi,TD Astle,New Zealand,79,80,3,98.75,Bangladesh
+odi,TD Paine,Australia,861,1250,31,68.88,Pakistan
+odi,TD Smartt,West Indies,40,65,6,61.53846153846154,England
+odi,TG Gordon,Canada,23,58,4,39.6551724137931,United States of America
+odi,TG Norris,United States of America,59,58,2,101.72413793103448,Papua New Guinea
+odi,TG Southee,New Zealand,715,770,56,92.85714285714286,Bangladesh
+odi,TH David,Australia,45,56,4,80.35714285714286,Pakistan
+odi,TJ Bishop,West Indies,0,6,1,0.0,England
+odi,TJ Friend,Zimbabwe,132,175,7,75.42857142857143,India
+odi,TJ Heggelman,Netherlands,23,71,2,32.3943661971831,Zimbabwe
+odi,TJ Murtagh,Ireland,143,190,10,75.26315789473685,Bangladesh
+odi,TJG Pringle,Netherlands,6,14,4,42.857142857142854,Zimbabwe
+odi,TK Canning,New Zealand,13,25,2,52.0,Bangladesh
+odi,TK Curran,England,303,332,10,91.26506024096386,Bangladesh
+odi,TK Musakanda,Zimbabwe,210,240,9,87.5,India
+odi,TK Patel,United States of America,71,149,4,47.651006711409394,Papua New Guinea
+odi,TL Best,West Indies,72,114,8,63.1578947368421,England
+odi,TL Chatara,Zimbabwe,176,369,20,47.696476964769644,India
+odi,TL Chivanga,Zimbabwe,18,21,1,85.71428571428571,India
+odi,TL Seifert,New Zealand,59,57,4,103.50877192982458,Bangladesh
+odi,TLW Cooper,Netherlands,576,776,17,74.22680412371135,Zimbabwe
+odi,TM Dilshan,Sri Lanka,9212,10777,242,85.47833348798368,Australia
+odi,TM Dowlin,West Indies,228,362,8,62.98342541436463,England
+odi,TM Head,Australia,2708,2649,62,102.22725556813892,Pakistan
+odi,TM McGrath,Australia,750,854,24,87.82201405152225,Pakistan
+odi,TM Odoyo,Africa XI,51,51,1,100.0,Asia XI
+odi,TM Odoyo,Kenya,779,1150,28,67.73913043478261,New Zealand
+odi,TMK Mawoyo,Zimbabwe,58,166,5,34.93975903614458,India
+odi,TMM Newton,New Zealand,38,79,6,48.10126582278481,Bangladesh
+odi,TN de Grooth,Netherlands,70,150,7,46.666666666666664,Zimbabwe
+odi,TP Ura,Papua New Guinea,1196,1526,50,78.3748361730013,Ireland
+odi,TP Visee,Netherlands,72,66,3,109.09090909090908,Zimbabwe
+odi,TR Ambrose,England,10,34,4,29.411764705882355,Bangladesh
+odi,TR Gripper,Zimbabwe,23,51,2,45.09803921568628,India
+odi,TR Sadhu,India,9,26,3,34.61538461538461,Pakistan
+odi,TS Chisoro,Zimbabwe,109,155,8,70.3225806451613,India
+odi,TS Hasabnis,India,140,184,3,76.08695652173914,Pakistan
+odi,TS Kamunhukamwe,Zimbabwe,131,169,12,77.51479289940828,India
+odi,TS Nethula,New Zealand,12,11,2,109.09090909090908,Bangladesh
+odi,TS Roland-Jones,England,37,38,0,97.36842105263158,Bangladesh
+odi,TS Sekhukhune,South Africa,24,85,5,28.235294117647058,Sri Lanka
+odi,TSS Mackintosh,Scotland,169,203,7,83.2512315270936,Hong Kong
+odi,TT Beaumont,England,4043,5380,94,75.14869888475837,Bangladesh
+odi,TT Bresnan,England,871,984,46,88.51626016260163,Bangladesh
+odi,TT Samaraweera,Sri Lanka,669,914,20,73.19474835886214,Australia
+odi,TV Mufambisi,Zimbabwe,45,71,4,63.38028169014085,India
+odi,TW Hartley,England,12,9,0,133.33333333333331,Bangladesh
+odi,TWM Latham,New Zealand,4280,5128,124,83.46333853354135,Bangladesh
+odi,Tabarak Dar,Hong Kong,45,95,2,47.368421052631575,Papua New Guinea
+odi,Taijul Islam,Bangladesh,89,137,8,64.96350364963503,New Zealand
+odi,Talha Jubair,Bangladesh,4,8,0,50.0,New Zealand
+odi,Tamim Iqbal,Bangladesh,7648,9979,199,76.6409459865718,New Zealand
+odi,Tanbir Hayder,Bangladesh,5,17,2,29.411764705882355,New Zealand
+odi,Tanveer Ahmed,Hong Kong,4,12,0,33.33333333333333,Papua New Guinea
+odi,Tanvir Ahmed (1),Pakistan,18,12,2,150.0,South Africa
+odi,Tanwir Afzal,Hong Kong,161,182,11,88.46153846153845,Papua New Guinea
+odi,Tanzid Hasan,Bangladesh,413,410,18,100.73170731707317,New Zealand
+odi,Tanzim Hasan Sakib,Bangladesh,95,126,4,75.39682539682539,New Zealand
+odi,Tapash Baisya,Bangladesh,113,217,10,52.07373271889401,New Zealand
+odi,Tareq Aziz,Bangladesh,2,11,0,18.181818181818183,New Zealand
+odi,Taskin Ahmed,Bangladesh,220,386,25,56.994818652849744,New Zealand
+odi,Tasqeen Qadeer,Pakistan,48,144,3,33.33333333333333,South Africa
+odi,Taufeeq Umar,Pakistan,262,504,10,51.98412698412699,South Africa
+odi,Tayyab Tahir,Pakistan,181,185,7,97.83783783783784,South Africa
+odi,Tharika Sewwandi,Sri Lanka,1,3,0,33.33333333333333,Australia
+odi,Tilak Varma,India,68,125,3,54.400000000000006,Pakistan
+odi,Towhid Hridoy,Bangladesh,866,1037,22,83.51012536162006,New Zealand
+odi,Tuba Hassan,Pakistan,49,59,3,83.05084745762711,South Africa
+odi,Tushar Imran,Bangladesh,250,477,19,52.41090146750524,New Zealand
+odi,U Bhagwan,Canada,26,28,1,92.85714285714286,United States of America
+odi,U Bhatti,Canada,120,131,6,91.6030534351145,United States of America
+odi,U Raymond-Hoey,Ireland,74,124,8,59.67741935483871,Bangladesh
+odi,U Thimashini,Sri Lanka,2,6,1,33.33333333333333,Australia
+odi,UDU Chandana,Sri Lanka,260,393,14,66.15776081424937,Australia
+odi,UT Khawaja,Australia,1539,1865,35,82.5201072386059,Pakistan
+odi,UT Yadav,India,79,136,10,58.08823529411765,Pakistan
+odi,UWMBCA Welegedara,Sri Lanka,4,9,1,44.44444444444444,Australia
+odi,Umaima Sohail,Pakistan,686,1114,28,61.57989228007181,South Africa
+odi,Umair Ali,United Arab Emirates,10,11,1,90.9090909090909,Papua New Guinea
+odi,Umar Akmal,Pakistan,3032,3626,93,83.61831218974076,South Africa
+odi,Umar Amin,Pakistan,271,408,14,66.42156862745098,South Africa
+odi,Umar Gul,Pakistan,442,648,46,68.20987654320987,South Africa
+odi,Umm-e-Hani,Pakistan,40,77,11,51.94805194805194,South Africa
+odi,Umran Malik,India,2,11,1,18.181818181818183,Pakistan
+odi,Urooj Mumtaz,Pakistan,35,99,3,35.35353535353536,South Africa
+odi,Usama Mir,Pakistan,38,30,4,126.66666666666666,South Africa
+odi,Usman Khan,Pakistan,39,33,1,118.18181818181819,South Africa
+odi,Usman Khan (2),Pakistan,12,18,1,66.66666666666666,South Africa
+odi,Usman Limbada,Canada,123,193,4,63.730569948186535,United States of America
+odi,Usman Rafiq,United States of America,28,42,0,66.66666666666666,Papua New Guinea
+odi,Usman Salahuddin,Pakistan,13,28,2,46.42857142857143,South Africa
+odi,Usman Shinwari,Pakistan,6,7,3,85.71428571428571,South Africa
+odi,Utkarsh Srivastava,United States of America,75,75,2,100.0,Papua New Guinea
+odi,V Araa,Papua New Guinea,71,179,7,39.66480446927375,Ireland
+odi,V Aravind,United Arab Emirates,1865,2785,61,66.96588868940754,Papua New Guinea
+odi,V Buruka,Papua New Guinea,0,8,1,0.0,Ireland
+odi,V Kohli,India,14059,15363,251,91.5120744646228,Pakistan
+odi,V Krishnamurthy,India,410,475,18,86.31578947368422,Pakistan
+odi,V Permaul,West Indies,19,28,2,67.85714285714286,England
+odi,V Sehwag,Asia XI,131,125,5,104.80000000000001,
+odi,V Sehwag,ICC World XI,58,58,1,100.0,
+odi,V Sehwag,India,5503,5401,155,101.88853915941492,Pakistan
+odi,V Shankar,India,194,210,5,92.38095238095238,Pakistan
+odi,V Shetty,United Arab Emirates,7,17,1,41.17647058823529,Papua New Guinea
+odi,V Shukla,Oman,144,172,6,83.72093023255815,Papua New Guinea
+odi,V Sibanda,Africa XI,80,105,2,76.19047619047619,Asia XI
+odi,V Sibanda,Zimbabwe,2045,3362,88,60.82688875669244,India
+odi,V Sukumaran,United Arab Emirates,194,314,10,61.78343949044586,Papua New Guinea
+odi,VAB Tewarie,Netherlands,4,22,1,18.181818181818183,Zimbabwe
+odi,VB van Jaarsveld,South Africa,9,16,1,56.25,Sri Lanka
+odi,VC Drakes,West Indies,58,124,7,46.774193548387096,England
+odi,VCE Wattenberg,Netherlands,0,3,2,0.0,Zimbabwe
+odi,VD Philander,South Africa,151,219,11,68.94977168949772,Sri Lanka
+odi,VJ Kingma,Netherlands,14,46,6,30.434782608695656,Zimbabwe
+odi,VM Nyauchi,Zimbabwe,43,53,5,81.13207547169812,India
+odi,VR Aaron,India,8,15,1,53.333333333333336,Pakistan
+odi,VR Iyer,India,24,41,2,58.536585365853654,Pakistan
+odi,VR Vanitha,India,50,64,4,78.125,Pakistan
+odi,VRV Singh,India,8,13,1,61.53846153846154,Pakistan
+odi,VS Solanki,England,829,1194,30,69.43048576214406,Bangladesh
+odi,VV Morea,Papua New Guinea,142,228,10,62.28070175438597,Ireland
+odi,VVS Laxman,India,828,1142,24,72.50437828371278,Pakistan
+odi,Vikramjit Singh,Netherlands,1259,1800,41,69.94444444444444,Zimbabwe
+odi,W Barresi,Netherlands,820,1076,33,76.2081784386617,Zimbabwe
+odi,W Jaffer,India,10,23,2,43.47826086956522,Pakistan
+odi,W Madhevere,Zimbabwe,743,963,31,77.15472481827622,India
+odi,W Mwayenga,Zimbabwe,1,11,2,9.090909090909092,India
+odi,W O'Rourke,New Zealand,6,17,2,35.294117647058826,Bangladesh
+odi,W Sutherland,Australia,18,33,1,54.54545454545454,Pakistan
+odi,WA Agar,Australia,50,43,2,116.27906976744187,Pakistan
+odi,WA Young,New Zealand,1620,1912,42,84.72803347280335,Bangladesh
+odi,WB Rankin,England,5,5,1,100.0,Bangladesh
+odi,WB Rankin,Ireland,73,178,4,41.01123595505618,Bangladesh
+odi,WCA Ganegama,Sri Lanka,7,8,1,87.5,Australia
+odi,WD Balaji Rao,Canada,22,43,4,51.162790697674424,United States of America
+odi,WD Parnell,South Africa,574,743,27,77.25437415881561,Sri Lanka
+odi,WF Stelling,Netherlands,40,39,0,102.56410256410255,Zimbabwe
+odi,WG Jacks,England,556,561,17,99.10873440285205,Bangladesh
+odi,WGAKK Kulasuriya,Sri Lanka,82,195,14,42.05128205128205,Australia
+odi,WIA Fernando,Sri Lanka,1405,1657,47,84.7917923958962,Australia
+odi,WK Dilhari,Sri Lanka,665,870,25,76.4367816091954,Australia
+odi,WK McCallan,Ireland,101,176,11,57.38636363636363,Bangladesh
+odi,WP Masakadza,Zimbabwe,239,382,17,62.56544502617801,India
+odi,WP Saha,India,41,59,3,69.49152542372882,Pakistan
+odi,WPUJC Vaas,Sri Lanka,569,845,46,67.33727810650888,Australia
+odi,WS Jayantha,Sri Lanka,206,322,9,63.975155279503106,Australia
+odi,WT Gavera,Papua New Guinea,4,6,0,66.66666666666666,Ireland
+odi,WTS Porterfield,Ireland,2670,3962,93,67.3902069661787,Bangladesh
+odi,WU Tharanga,Asia XI,10,22,1,45.45454545454545,
+odi,WU Tharanga,Sri Lanka,6472,8823,188,73.35373455740678,Australia
+odi,WW Hinds,West Indies,1066,1626,33,65.55965559655597,England
+odi,Wahab Riaz,Pakistan,725,863,47,84.00926998841251,South Africa
+odi,Waheed Ahmed,United Arab Emirates,73,131,6,55.72519083969466,Papua New Guinea
+odi,Waqar Younis,Pakistan,17,25,4,68.0,South Africa
+odi,Waqas Barkat,Hong Kong,25,54,3,46.2962962962963,Papua New Guinea
+odi,Waqas Khan,Hong Kong,52,106,2,49.056603773584904,Papua New Guinea
+odi,Waseem Muhammad,United Arab Emirates,1567,1819,63,86.14623419461242,Papua New Guinea
+odi,Washington Sundar,India,329,400,14,82.25,Pakistan
+odi,Wasim Akram,Pakistan,71,72,2,98.61111111111111,South Africa
+odi,Wasim Ali,Oman,54,95,4,56.84210526315789,Papua New Guinea
+odi,XJ Doherty,Australia,101,188,6,53.72340425531915,Pakistan
+odi,XM Marshall,United States of America,216,354,11,61.016949152542374,Papua New Guinea
+odi,XM Marshall,West Indies,163,323,14,50.464396284829725,England
+odi,Y Cariah,West Indies,93,167,7,55.688622754491014,England
+odi,Y Fourie,South Africa,1,8,2,12.5,Sri Lanka
+odi,Y Punja,United Arab Emirates,1,7,1,14.285714285714285,Papua New Guinea
+odi,Y Venugopal Rao,India,161,257,8,62.64591439688716,Pakistan
+odi,Y van der Westhuizen,South Africa,23,39,1,58.97435897435898,Sri Lanka
+odi,YBK Jaiswal,India,15,23,1,65.21739130434783,Pakistan
+odi,YH Bhatia,India,666,953,26,69.88457502623295,Pakistan
+odi,YK Pathan,India,810,736,30,110.05434782608697,Pakistan
+odi,YS Chahal,India,77,144,9,53.47222222222222,Pakistan
+odi,YS Samra,Canada,142,223,4,63.67713004484305,United States of America
+odi,Yasir Ali Chowdhury,Bangladesh,101,106,5,95.28301886792453,New Zealand
+odi,Yasir Arafat,Pakistan,64,103,3,62.13592233009708,South Africa
+odi,Yasir Hameed,Pakistan,1459,2225,42,65.57303370786516,South Africa
+odi,Yasir Mohammad,United States of America,5,20,2,25.0,Papua New Guinea
+odi,Yasir Shah,Pakistan,127,153,6,83.00653594771242,South Africa
+odi,Younis Khan,Pakistan,4777,6411,165,74.51255654344095,South Africa
+odi,Yousuf Youhana,Asia XI,1,3,1,33.33333333333333,
+odi,Yousuf Youhana,Pakistan,1739,2205,42,78.86621315192744,South Africa
+odi,Yuvraj Singh,Asia XI,92,80,2,114.99999999999999,
+odi,Yuvraj Singh,India,6776,7957,171,85.15772275983412,Pakistan
+odi,Z Crawley,England,199,208,7,95.67307692307693,Bangladesh
+odi,Z Groenewald,Namibia,4,19,1,21.052631578947366,Oman
+odi,Z James,West Indies,190,457,17,41.57549234135667,England
+odi,Z Khan,Asia XI,26,26,0,100.0,
+odi,Z Khan,India,505,732,44,68.98907103825137,Pakistan
+odi,Z Mali,South Africa,2,7,0,28.57142857142857,Sri Lanka
+odi,ZB Lion-Cachet,Netherlands,155,210,6,73.80952380952381,Zimbabwe
+odi,ZE Green,Namibia,822,1138,35,72.23198594024605,Oman
+odi,ZE Surkari,Canada,127,299,7,42.474916387959865,United States of America
+odi,Zafar Gohar,Pakistan,15,15,1,100.0,South Africa
+odi,Zaheer Maqsood,United Arab Emirates,5,10,0,50.0,Papua New Guinea
+odi,Zahid Hussain,Canada,9,31,1,29.03225806451613,United States of America
+odi,Zahid Mahmood,Pakistan,9,12,0,75.0,South Africa
+odi,Zahid Shah,United Arab Emirates,11,20,0,55.00000000000001,Papua New Guinea
+odi,Zahoor Khan,United Arab Emirates,143,259,20,55.21235521235521,Papua New Guinea
+odi,Zain Abbas,Hong Kong,26,55,1,47.27272727272727,Papua New Guinea
+odi,Zakir Hasan,Bangladesh,1,5,1,20.0,New Zealand
+odi,Zawar Farid,United Arab Emirates,132,145,7,91.0344827586207,Papua New Guinea
+odi,Zeeshan Maqsood,Oman,1196,1855,39,64.4743935309973,Papua New Guinea
+odi,Zeeshan Siddiqi,Canada,7,21,1,33.33333333333333,United States of America
+odi,Ziaur Rahman,Bangladesh,83,91,10,91.20879120879121,New Zealand
+odi,Zubayr Hamza,South Africa,56,82,1,68.29268292682927,Sri Lanka
+odi,Zuhaib Zubair,United Arab Emirates,38,41,3,92.6829268292683,Papua New Guinea
+odi,Zulfiqar Babar,Pakistan,35,40,2,87.5,South Africa
+odi,Zulqarnain Haider,Pakistan,48,70,3,68.57142857142857,South Africa

@@ -1,0 +1,1169 @@
+match_type,batsman,batting_team,runs,balls,dismissals,strike_rate,team2
+test,A Athanaze,West Indies,627,1171,25,53.543979504696836,India
+test,A Balbirnie,Ireland,330,672,16,49.107142857142854,Pakistan
+test,A Bosch,South Africa,88,193,7,45.59585492227979,England
+test,A Brindle,England,75,242,5,30.991735537190085,South Africa
+test,A Chopra,India,221,672,8,32.88690476190476,New Zealand
+test,A Dananjaya,Sri Lanka,135,254,8,53.14960629921261,Bangladesh
+test,A Dercksen,South Africa,60,128,4,46.875,England
+test,A Flintoff,England,1826,3169,52,57.62070053644683,South Africa
+test,A Flintoff,ICC World XI,50,63,2,79.36507936507937,
+test,A Gardner,Australia,325,560,10,58.03571428571429,South Africa
+test,A Hlubi,South Africa,6,24,3,25.0,England
+test,A King,Australia,53,150,6,35.333333333333336,South Africa
+test,A Kumble,India,893,2230,48,40.044843049327355,New Zealand
+test,A Lyth,England,265,532,12,49.81203007518797,South Africa
+test,A McGrath,England,34,70,1,48.57142857142857,South Africa
+test,A Mishra,India,648,1108,30,58.48375451263538,New Zealand
+test,A Mithun,India,120,249,5,48.19277108433735,New Zealand
+test,A Mukund,India,320,705,14,45.39007092198582,New Zealand
+test,A Ndlovu,Zimbabwe,9,40,4,22.5,New Zealand
+test,A Nehra,India,1,11,1,9.090909090909092,New Zealand
+test,A Nel,South Africa,300,600,29,50.0,England
+test,A Nortje,South Africa,187,620,25,30.161290322580648,England
+test,A Phillip,West Indies,53,103,2,51.45631067961165,India
+test,A Shahzad,England,5,12,1,41.66666666666667,South Africa
+test,A Sharma,India,65,112,2,58.03571428571429,New Zealand
+test,A Shrubsole,England,111,298,10,37.24832214765101,South Africa
+test,A Steyn,South Africa,11,29,2,37.93103448275862,England
+test,A Sutherland,Australia,586,947,7,61.87961985216474,South Africa
+test,A Symonds,Australia,1386,2050,32,67.60975609756098,South Africa
+test,A Wellington,Australia,2,12,1,16.666666666666664,South Africa
+test,AA Jangoo,West Indies,30,56,2,53.57142857142857,India
+test,AAP Atkinson,England,352,447,15,78.74720357941834,South Africa
+test,AB Agarkar,India,88,144,4,61.111111111111114,New Zealand
+test,AB Barath,West Indies,657,1389,27,47.30021598272138,India
+test,AB Fudadin,West Indies,122,380,4,32.10526315789474,India
+test,AB McDonald,Australia,107,218,5,49.08256880733945,South Africa
+test,AB de Villiers,South Africa,8182,14971,159,54.65232783381203,England
+test,AC Agar,Australia,195,352,5,55.39772727272727,South Africa
+test,AC Gilchrist,Australia,1858,2211,46,84.03437358661239,South Africa
+test,AC Voges,Australia,1485,2672,24,55.57634730538922,South Africa
+test,AD Hales,England,573,1310,21,43.74045801526717,South Africa
+test,AD Mathews,Sri Lanka,8026,16629,187,48.2650790787179,Bangladesh
+test,AD Russell,West Indies,2,9,1,22.22222222222222,India
+test,AE Jones,England,188,393,15,47.837150127226465,South Africa
+test,AF Giles,England,452,1004,19,45.0199203187251,South Africa
+test,AG Cremer,Zimbabwe,537,1624,27,33.066502463054185,New Zealand
+test,AG Prince,South Africa,3261,7389,73,44.13317092976045,England
+test,AJ Bichel,Australia,103,137,6,75.18248175182481,South Africa
+test,AJ Blackwell,Australia,417,1230,14,33.90243902439025,South Africa
+test,AJ Doolan,Australia,191,459,8,41.61220043572985,South Africa
+test,AJ Finch,Australia,278,618,10,44.983818770226534,South Africa
+test,AJ Hall,South Africa,533,1192,18,44.71476510067114,England
+test,AJ Healy,Australia,489,861,16,56.79442508710801,South Africa
+test,AJ McKay,New Zealand,25,55,1,45.45454545454545,Bangladesh
+test,AJ Redmond,New Zealand,227,532,13,42.66917293233083,Bangladesh
+test,AJ Stewart,England,284,560,7,50.71428571428571,South Africa
+test,AJ Strauss,England,5324,11213,143,47.48060287166682,South Africa
+test,AK Markram,South Africa,2857,4807,81,59.434158518826706,England
+test,AL Phehlukwayo,South Africa,19,39,2,48.717948717948715,England
+test,AM Blignaut,Zimbabwe,289,440,12,65.68181818181819,New Zealand
+test,AM Fernando,Sri Lanka,54,210,13,25.71428571428571,Bangladesh
+test,AM Rahane,India,5067,10234,131,49.51143247996873,New Zealand
+test,AN Cook,England,12472,26618,277,46.85551130813735,South Africa
+test,AN Davidson-Richards,England,107,195,1,54.871794871794876,South Africa
+test,AN Petersen,South Africa,2093,4052,59,51.65350444225074,England
+test,AR Caddick,England,42,105,4,40.0,South Africa
+test,AR McBrine,Ireland,458,808,11,56.683168316831676,Pakistan
+test,AR Patel,India,646,1235,18,52.307692307692314,New Zealand
+test,ARS Silva,Sri Lanka,702,1713,20,40.98073555166375,Bangladesh
+test,AS Jaggernauth,West Indies,0,8,1,0.0,India
+test,AS Joseph,West Indies,701,1246,59,56.26003210272873,India
+test,AT Carey,Australia,1757,2830,50,62.08480565371025,South Africa
+test,AU Rashid,England,540,1270,28,42.51968503937008,South Africa
+test,AY Patel,New Zealand,189,545,19,34.67889908256881,Bangladesh
+test,AZ Lees,England,453,1052,18,43.06083650190114,South Africa
+test,Aamer Jamal,Pakistan,352,615,13,57.23577235772358,West Indies
+test,Abdul Razzaq,Pakistan,470,1023,17,45.94330400782013,West Indies
+test,Abdullah Shafique,Pakistan,1504,3413,38,44.06680339876941,West Indies
+test,Abdur Rauf,Pakistan,52,168,6,30.952380952380953,West Indies
+test,Abdur Razzak,Bangladesh,204,289,12,70.58823529411765,England
+test,Abdur Rehman,Pakistan,395,933,28,42.336548767416936,West Indies
+test,Abid Ali,Pakistan,1180,2450,24,48.16326530612245,West Indies
+test,Abrar Ahmed,Pakistan,68,120,8,56.666666666666664,West Indies
+test,Abu Jayed,Bangladesh,36,158,13,22.78481012658228,England
+test,Abul Hasan,Bangladesh,165,278,2,59.352517985611506,England
+test,Adnan Akmal,Pakistan,591,1343,23,44.00595681310499,West Indies
+test,Aftab Ahmed,Bangladesh,425,896,19,47.433035714285715,England
+test,Agha Salman,Pakistan,1317,2115,35,62.269503546099294,West Indies
+test,Ahmed Shehzad,Pakistan,982,1929,24,50.90720580611716,West Indies
+test,Aizaz Cheema,Pakistan,1,23,0,4.3478260869565215,West Indies
+test,Akash Deep,India,83,168,9,49.404761904761905,New Zealand
+test,Al Sahariar,Bangladesh,36,61,3,59.01639344262295,England
+test,Al-Amin Hossain,Bangladesh,90,127,4,70.86614173228347,England
+test,Alok Kapali,Bangladesh,143,260,12,55.00000000000001,England
+test,Anamul Haque,Bangladesh,139,340,11,40.88235294117647,England
+test,Anwar Hossain Monir,Bangladesh,0,16,1,0.0,England
+test,Ariful Haque,Bangladesh,88,159,4,55.34591194968554,England
+test,Asad Shafiq,Pakistan,4660,9601,121,48.53661076971149,West Indies
+test,Asim Kamal,Pakistan,219,457,4,47.921225382932164,West Indies
+test,Azhar Ali,Pakistan,7142,17063,170,41.85664888940984,West Indies
+test,B Casson,Australia,10,44,1,22.727272727272727,South Africa
+test,B Evans,Zimbabwe,7,16,2,43.75,New Zealand
+test,B Kumar,India,552,1228,25,44.951140065146575,New Zealand
+test,B Lee,Australia,695,1436,39,48.3983286908078,South Africa
+test,B Mavuta,Zimbabwe,82,206,7,39.80582524271845,New Zealand
+test,B Muzarabani,Zimbabwe,163,301,12,54.15282392026578,New Zealand
+test,B White,Ireland,1,30,2,3.3333333333333335,Pakistan
+test,BA Carse,England,94,120,5,78.33333333333333,South Africa
+test,BA Parchment,West Indies,55,164,4,33.53658536585366,India
+test,BA Stokes,England,6728,11303,189,59.52402017163585,South Africa
+test,BA Williams,Australia,7,11,1,63.63636363636363,South Africa
+test,BAW Mendis,Sri Lanka,213,457,13,46.608315098468275,Bangladesh
+test,BB Chari,Zimbabwe,254,644,14,39.44099378881988,New Zealand
+test,BB McCullum,New Zealand,5778,8826,149,65.46566961250849,Bangladesh
+test,BC Lara,ICC World XI,41,59,2,69.49152542372882,
+test,BC Lara,West Indies,1995,3090,28,64.56310679611651,India
+test,BE Hendricks,South Africa,9,19,0,47.368421052631575,England
+test,BE McGain,Australia,2,16,1,12.5,South Africa
+test,BG Rogers,Zimbabwe,36,75,4,48.0,New Zealand
+test,BJ Arnel,New Zealand,45,148,8,30.405405405405407,Bangladesh
+test,BJ Bennett,Zimbabwe,348,485,10,71.75257731958763,New Zealand
+test,BJ Bess,West Indies,11,12,1,91.66666666666666,India
+test,BJ Clark,Australia,52,121,5,42.97520661157025,South Africa
+test,BJ Curran,Zimbabwe,188,431,8,43.619489559164734,New Zealand
+test,BJ Haddin,Australia,3266,5602,101,58.30060692609782,South Africa
+test,BJ Hodge,Australia,218,438,6,49.77168949771689,South Africa
+test,BJ McCarthy,Ireland,12,56,3,21.428571428571427,Pakistan
+test,BJ Watling,New Zealand,3790,8915,103,42.51261918115536,Bangladesh
+test,BJ Webster,Australia,150,251,3,59.76095617529881,South Africa
+test,BKG Mendis,Sri Lanka,4658,8008,123,58.166833166833165,Bangladesh
+test,BL Mooney,Australia,559,1048,14,53.33969465648855,South Africa
+test,BL Morgan,England,172,733,6,23.465211459754435,South Africa
+test,BM Duckett,England,2410,2784,59,86.56609195402298,South Africa
+test,BM Tickner,New Zealand,13,58,1,22.413793103448278,Bangladesh
+test,BOP Fernando,Sri Lanka,1104,2226,33,49.59568733153639,Bangladesh
+test,BP Martin,New Zealand,74,142,5,52.112676056338024,Bangladesh
+test,BP Nash,West Indies,941,2157,29,43.62540565600371,India
+test,BRM Taylor,Zimbabwe,2060,3538,58,58.22498586772188,New Zealand
+test,BS Mudzinganyama,Zimbabwe,16,62,1,25.806451612903224,New Zealand
+test,BT Foakes,England,1139,2416,39,47.144039735099334,South Africa
+test,BV Sears,New Zealand,0,4,0,0.0,Bangladesh
+test,BV Vitori,Zimbabwe,52,84,5,61.904761904761905,New Zealand
+test,BW Hilfenhaus,Australia,355,657,26,54.03348554033486,South Africa
+test,Babar Azam,Pakistan,4235,7801,97,54.28791180617869,West Indies
+test,Bilal Asif,Pakistan,73,176,8,41.47727272727273,West Indies
+test,Bilawal Bhatti,Pakistan,70,153,2,45.751633986928105,West Indies
+test,C Bosch,South Africa,81,94,1,86.17021276595744,England
+test,C Campher,Ireland,293,654,12,44.801223241590215,Pakistan
+test,C Connolly,Australia,4,6,1,66.66666666666666,South Africa
+test,C Fortuin,South Africa,23,96,4,23.958333333333336,England
+test,C Green,Australia,1377,2842,39,48.45179451090782,South Africa
+test,C Karunaratne,Sri Lanka,22,43,2,51.162790697674424,Bangladesh
+test,C Madande,Zimbabwe,10,31,2,32.25806451612903,New Zealand
+test,C Munro,New Zealand,15,26,2,57.692307692307686,Bangladesh
+test,C Overton,England,182,416,12,43.75,South Africa
+test,C White,England,145,289,2,50.17301038062284,South Africa
+test,C de Grandhomme,New Zealand,1432,1788,37,80.08948545861297,Bangladesh
+test,CA Pujara,India,7160,16191,161,44.22209869680687,New Zealand
+test,CA Young,Ireland,10,22,3,45.45454545454545,Pakistan
+test,CAK Rajitha,Sri Lanka,133,553,19,24.050632911392405,Bangladesh
+test,CAK Walton,West Indies,13,20,4,65.0,India
+test,CB Mpofu,Zimbabwe,99,234,15,42.30769230769231,New Zealand
+test,CB Wishart,Zimbabwe,257,499,9,51.503006012024045,New Zealand
+test,CBRLS Kumara,Sri Lanka,135,462,26,29.22077922077922,Bangladesh
+test,CD Collymore,West Indies,86,266,15,32.33082706766917,India
+test,CD Cumming,New Zealand,408,1116,14,36.55913978494624,Bangladesh
+test,CD McMillan,New Zealand,252,464,6,54.310344827586206,Bangladesh
+test,CE Dean,England,41,110,5,37.27272727272727,South Africa
+test,CE Taylor,England,9,33,0,27.27272727272727,South Africa
+test,CFK van Wyk,New Zealand,341,695,17,49.06474820143885,Bangladesh
+test,CH Gayle,West Indies,3927,5861,88,67.00221805152704,India
+test,CH Morris,South Africa,173,365,7,47.397260273972606,England
+test,CJ Anderson,New Zealand,683,1204,21,56.72757475083057,Bangladesh
+test,CJ Chibhabha,Zimbabwe,175,450,10,38.88888888888889,New Zealand
+test,CJ Connor,England,53,146,4,36.3013698630137,South Africa
+test,CJ Ferguson,Australia,4,23,2,17.391304347826086,South Africa
+test,CJ Jordan,England,180,322,9,55.90062111801242,South Africa
+test,CJ McKay,Australia,10,15,1,66.66666666666666,South Africa
+test,CJ Sayers,Australia,0,5,2,0.0,South Africa
+test,CJL Rogers,Australia,2015,3988,47,50.526579739217645,South Africa
+test,CK Coventry,Zimbabwe,26,38,2,68.42105263157895,New Zealand
+test,CK Holder,West Indies,21,37,0,56.75675675675676,India
+test,CK Kapugedera,Sri Lanka,418,788,12,53.045685279187815,Bangladesh
+test,CK Langeveldt,South Africa,6,14,0,42.857142857142854,England
+test,CK Tshuma,Zimbabwe,3,30,2,10.0,New Zealand
+test,CKB Kulasekara,Sri Lanka,22,50,2,44.0,Bangladesh
+test,CL Cairns,New Zealand,268,321,3,83.48909657320873,Bangladesh
+test,CL Fitzpatrick,Australia,48,184,4,26.08695652173913,South Africa
+test,CL Tryon,South Africa,89,210,4,42.38095238095238,England
+test,CL White,Australia,146,331,5,44.10876132930513,South Africa
+test,CM Edwards,England,563,1438,14,39.15159944367176,South Africa
+test,CMG Atkins,England,137,400,8,34.25,South Africa
+test,CMW Read,England,254,552,10,46.01449275362319,South Africa
+test,CN Evans,Zimbabwe,27,80,2,33.75,New Zealand
+test,CO Browne,West Indies,73,93,3,78.49462365591397,India
+test,CR Brathwaite,West Indies,181,284,4,63.732394366197184,India
+test,CR Ervine,Zimbabwe,1436,2934,45,48.94342194955692,New Zealand
+test,CR Woakes,England,1970,3697,76,53.28644847173384,South Africa
+test,CRD Fernando,Sri Lanka,142,285,11,49.824561403508774,Bangladesh
+test,CS Baugh,West Indies,454,930,26,48.817204301075265,India
+test,CS Martin,New Zealand,92,476,39,19.327731092436977,Bangladesh
+test,CT Bancroft,Australia,446,1042,15,42.80230326295585,South Africa
+test,CT Mumba,Zimbabwe,25,107,3,23.364485981308412,New Zealand
+test,CT Mutombodzi,Zimbabwe,41,121,2,33.88429752066116,New Zealand
+test,CT Tremlett,England,113,299,11,37.79264214046823,South Africa
+test,D Bishoo,West Indies,707,1904,46,37.13235294117647,India
+test,D Brown,Australia,13,37,3,35.13513513513514,South Africa
+test,D Dasgupta,India,0,7,1,0.0,New Zealand
+test,D Elgar,South Africa,5347,11236,143,47.58810964756141,England
+test,D Ganga,West Indies,896,2264,32,39.57597173144876,India
+test,D Gough,England,1,18,1,5.555555555555555,South Africa
+test,D Hazell,England,9,78,2,11.538461538461538,South Africa
+test,D Madushanka,Sri Lanka,0,8,1,0.0,Bangladesh
+test,D Mohammed,West Indies,157,215,4,73.0232558139535,India
+test,D Myers,Zimbabwe,120,319,4,37.61755485893417,New Zealand
+test,D Olivier,South Africa,66,267,11,24.719101123595504,England
+test,D Padikkal,India,90,198,3,45.45454545454545,New Zealand
+test,D Paterson,South Africa,101,110,8,91.81818181818183,England
+test,D Pretorius,South Africa,83,163,6,50.920245398773,England
+test,D Ramdin,West Indies,2591,5306,100,48.83151149641915,India
+test,D Tucker,South Africa,64,194,4,32.98969072164948,England
+test,DA Warner,Australia,8786,12544,202,70.04145408163265,South Africa
+test,DAJ Bracewell,New Zealand,568,1227,40,46.291768541157296,Bangladesh
+test,DAS Gunaratne,Sri Lanka,455,863,9,52.72305909617613,Bangladesh
+test,DB Sharma,India,319,726,5,43.93939393939394,New Zealand
+test,DBL Powell,West Indies,256,676,26,37.8698224852071,India
+test,DC Thomas,West Indies,31,93,2,33.33333333333333,India
+test,DD Ebrahim,Zimbabwe,190,495,14,38.38383838383838,New Zealand
+test,DE Bernard,West Indies,191,356,3,53.65168539325843,India
+test,DE Bollinger,Australia,54,160,6,33.75,South Africa
+test,DG Bedingham,South Africa,645,930,19,69.35483870967742,England
+test,DG Brownlie,New Zealand,711,1588,24,44.77329974811083,Bangladesh
+test,DJ Bravo,West Indies,1855,3717,58,49.90583804143126,India
+test,DJ Malan,England,1074,2627,38,40.88313665778455,South Africa
+test,DJ Mitchell,New Zealand,2059,3874,47,53.14919979349509,Bangladesh
+test,DJ Pattinson,England,21,50,2,42.0,South Africa
+test,DJ Terbrugge,South Africa,2,25,2,8.0,England
+test,DJ Vilas,South Africa,94,211,10,44.54976303317535,England
+test,DJG Sammy,West Indies,1323,1951,60,67.81137878011276,India
+test,DL Piedt,South Africa,214,619,14,34.5718901453958,England
+test,DL Vettori,ICC World XI,8,21,1,38.095238095238095,
+test,DL Vettori,New Zealand,2866,4432,79,64.66606498194946,Bangladesh
+test,DM Bess,England,319,712,13,44.80337078651686,South Africa
+test,DM Bravo,West Indies,3538,7898,98,44.796150924284625,India
+test,DM Richards,West Indies,125,165,6,75.75757575757575,India
+test,DM Washington,West Indies,7,25,0,28.000000000000004,India
+test,DM de Silva,Sri Lanka,4095,7026,107,58.28351836037575,Bangladesh
+test,DN Wellalage,Sri Lanka,29,47,2,61.702127659574465,Bangladesh
+test,DN Wyatt,England,188,274,8,68.61313868613139,South Africa
+test,DP Conway,New Zealand,1836,3566,48,51.48625911385306,Bangladesh
+test,DP Sibley,England,1042,3052,36,34.14154652686763,South Africa
+test,DPMD Jayawardene,Sri Lanka,6615,12924,132,51.183844011142064,Bangladesh
+test,DR Flynn,New Zealand,781,2008,36,38.89442231075697,Bangladesh
+test,DR Martyn,Australia,1303,2599,29,50.13466717968449,South Africa
+test,DR Smith,West Indies,66,107,3,61.6822429906542,India
+test,DR Tuffey,New Zealand,177,313,4,56.54952076677316,Bangladesh
+test,DS Lehmann,Australia,490,900,12,54.44444444444444,South Africa
+test,DS Smith,West Indies,1112,2463,50,45.14819326025172,India
+test,DT Tiripano,Zimbabwe,429,1341,21,31.991051454138702,New Zealand
+test,DW Lawrence,England,671,1211,25,55.40875309661437,South Africa
+test,DW Steyn,South Africa,1226,2785,91,44.021543985637344,England
+test,Danish Kaneria,Pakistan,231,457,30,50.54704595185996,West Indies
+test,Dewald Pretorius,South Africa,17,34,2,50.0,England
+test,Dhruv Jurel,India,202,380,5,53.1578947368421,New Zealand
+test,E Bisht,India,0,1,0,0.0,New Zealand
+test,E Chigumbura,Zimbabwe,428,770,19,55.58441558441558,New Zealand
+test,E Liddell,Australia,24,110,2,21.818181818181817,South Africa
+test,EA Osborne,Australia,38,98,0,38.775510204081634,South Africa
+test,EA Perry,Australia,828,1814,13,45.64498346196251,South Africa
+test,EC Joyce,Ireland,47,102,2,46.07843137254902,Pakistan
+test,EJ Villani,Australia,47,117,3,40.17094017094017,South Africa
+test,EJG Morgan,England,700,1280,22,54.6875,South Africa
+test,EJM Cowan,Australia,1001,2428,31,41.22734761120264,South Africa
+test,EL Lamb,England,76,143,3,53.14685314685315,South Africa
+test,EM Moore,South Africa,23,58,2,39.6551724137931,England
+test,EM Sampson,Australia,0,3,0,0.0,South Africa
+test,ET Smith,England,87,174,5,50.0,South Africa
+test,Ebadat Hossain,Bangladesh,50,228,15,21.929824561403507,England
+test,Ehsan Adil,Pakistan,21,41,4,51.21951219512195,West Indies
+test,Elias Sunny,Bangladesh,38,143,5,26.573426573426573,England
+test,Enamul Haque jnr,Bangladesh,56,258,10,21.705426356589147,England
+test,F Hand,Ireland,8,41,2,19.51219512195122,Pakistan
+test,F Mutizwa,Zimbabwe,24,61,2,39.34426229508197,New Zealand
+test,F de Wet,South Africa,20,71,2,28.169014084507044,England
+test,F du Plessis,South Africa,4163,8997,104,46.27097921529399,England
+test,FC Wilson,England,13,53,1,24.528301886792452,South Africa
+test,FDM Karunaratne,Sri Lanka,7113,13955,185,50.9709781440344,Bangladesh
+test,FH Edwards,West Indies,271,918,39,29.520697167755994,India
+test,FL Reifer,West Indies,48,129,4,37.2093023255814,India
+test,Faheem Ashraf,Pakistan,687,1268,26,54.179810725552045,West Indies
+test,Faisal Iqbal,Pakistan,707,1494,24,47.32262382864793,West Indies
+test,Fakhar Zaman,Pakistan,192,360,6,53.333333333333336,West Indies
+test,Farhan Adil,Pakistan,33,70,2,47.14285714285714,West Indies
+test,Fawad Alam,Pakistan,1011,2173,28,46.52554072710539,West Indies
+test,Fazl-e-Akbar,Pakistan,37,65,2,56.92307692307692,West Indies
+test,G Coetzee,South Africa,67,78,5,85.8974358974359,England
+test,G Gambhir,India,3733,7410,90,50.37786774628879,New Zealand
+test,G Kirsten,South Africa,779,1678,16,46.42431466030989,England
+test,G Motie,West Indies,265,419,12,63.24582338902148,India
+test,G Onions,England,30,97,3,30.927835051546392,South Africa
+test,G Voll,Australia,12,16,1,75.0,South Africa
+test,G Wareham,Australia,2,11,1,18.181818181818183,South Africa
+test,GA Elwiss,England,145,508,4,28.543307086614174,South Africa
+test,GA Lamb,Zimbabwe,46,120,2,38.333333333333336,New Zealand
+test,GA Manou,Australia,21,39,1,53.84615384615385,South Africa
+test,GA Stuurman,South Africa,11,31,2,35.483870967741936,England
+test,GB Hogg,Australia,161,279,4,57.70609318996416,South Africa
+test,GC Smith,ICC World XI,12,30,2,40.0,
+test,GC Smith,South Africa,7572,12485,154,60.64877853424109,England
+test,GC Tonge,West Indies,25,26,1,96.15384615384616,India
+test,GC Viljoen,South Africa,26,31,1,83.87096774193549,England
+test,GC Wilson,Ireland,45,115,3,39.130434782608695,Pakistan
+test,GD Elliott,New Zealand,86,323,8,26.625386996904027,Bangladesh
+test,GD McGrath,Australia,139,323,11,43.034055727554176,South Africa
+test,GD Phillips,New Zealand,728,1008,24,72.22222222222221,Bangladesh
+test,GF Linde,South Africa,135,255,6,52.94117647058824,England
+test,GH Dockrell,Ireland,34,78,2,43.58974358974359,Pakistan
+test,GH Vihari,India,839,1991,25,42.13962832747363,New Zealand
+test,GI Hume,Ireland,36,138,5,26.08695652173913,Pakistan
+test,GJ Bailey,Australia,183,311,7,58.842443729903536,South Africa
+test,GJ Batty,England,46,234,7,19.65811965811966,South Africa
+test,GJ Hopkins,New Zealand,71,278,6,25.539568345323744,Bangladesh
+test,GJ Maxwell,Australia,339,571,13,59.36952714535902,South Africa
+test,GM Ewing,Zimbabwe,36,58,4,62.06896551724138,New Zealand
+test,GO Jones,England,555,1163,24,47.72141014617369,South Africa
+test,GP Swann,England,1370,1798,62,76.19577308120134,South Africa
+test,GP Thorpe,England,544,1183,12,45.984784446322905,South Africa
+test,GS Ballance,England,1498,3187,41,47.00345152180734,South Africa
+test,GS Ballance,Zimbabwe,155,294,1,52.721088435374156,New Zealand
+test,H Hameed,England,439,1372,19,31.997084548104954,South Africa
+test,H Kala,India,84,203,3,41.37931034482759,New Zealand
+test,H Kaur,India,183,334,7,54.79041916167665,New Zealand
+test,H Klaasen,South Africa,104,230,8,45.21739130434783,England
+test,H Masakadza,Zimbabwe,1649,3634,55,45.37699504678041,New Zealand
+test,HAPW Jayawardene,Sri Lanka,2106,4309,70,48.874448828034346,Bangladesh
+test,HC Brook,England,2339,2642,40,88.53141559424678,South Africa
+test,HC Knight,England,955,1964,20,48.62525458248472,South Africa
+test,HD Rutherford,New Zealand,755,1340,28,56.343283582089555,Bangladesh
+test,HDPK Dharmasena,Sri Lanka,6,19,2,31.57894736842105,Bangladesh
+test,HDRL Thirimanne,Sri Lanka,2088,5305,81,39.35909519321395,Bangladesh
+test,HE van der Dussen,South Africa,905,2226,30,40.655884995507634,England
+test,HG Kuhn,South Africa,113,297,8,38.04713804713805,England
+test,HH Dippenaar,South Africa,684,1594,25,42.91091593475534,England
+test,HH Gibbs,South Africa,2103,3697,59,56.88395996754125,England
+test,HH Pandya,India,461,633,16,72.82780410742497,New Zealand
+test,HH Streak,Zimbabwe,309,871,14,35.47646383467279,New Zealand
+test,HJH Marshall,New Zealand,337,695,13,48.489208633093526,Bangladesh
+test,HK Bennett,New Zealand,4,30,1,13.333333333333334,Bangladesh
+test,HL Colvin,England,55,242,1,22.727272727272727,South Africa
+test,HL Ferling,Australia,0,1,0,0.0,South Africa
+test,HM Amla,South Africa,9146,18274,198,50.04925030097406,England
+test,HM Nicholls,New Zealand,2973,5953,80,49.94120611456408,Bangladesh
+test,HMCM Bandara,Sri Lanka,107,204,4,52.450980392156865,Bangladesh
+test,HMRKB Herath,Sri Lanka,1589,3080,102,51.590909090909086,Bangladesh
+test,HP Tillakaratne,Sri Lanka,70,180,3,38.88888888888889,Bangladesh
+test,HT Tector,Ireland,357,818,12,43.64303178484107,Pakistan
+test,HWR Cartwright,Australia,55,125,2,44.0,South Africa
+test,Habibul Bashar,Bangladesh,914,1469,37,62.21919673247107,England
+test,Hannan Sarkar,Bangladesh,162,453,8,35.76158940397351,England
+test,Harbhajan Singh,India,1554,2489,72,62.43471273603857,New Zealand
+test,Haris Rauf,Pakistan,12,34,2,35.294117647058826,West Indies
+test,Haris Sohail,Pakistan,847,1938,27,43.70485036119711,West Indies
+test,Harshit Rana,India,7,21,3,33.33333333333333,New Zealand
+test,Hasan Ali,Pakistan,382,530,30,72.0754716981132,West Indies
+test,Hasan Mahmud,Bangladesh,138,357,12,38.655462184873954,England
+test,Hasan Raza,Pakistan,1,18,2,5.555555555555555,West Indies
+test,I Kaia,Zimbabwe,172,287,4,59.93031358885017,New Zealand
+test,I Khan,South Africa,20,64,1,31.25,England
+test,I Sharma,India,778,2560,94,30.390625,New Zealand
+test,ID Blackwell,England,4,16,1,25.0,South Africa
+test,IDR Bradshaw,West Indies,74,282,6,26.24113475177305,India
+test,IE O'Brien,New Zealand,210,534,27,39.325842696629216,Bangladesh
+test,IJL Trott,England,3835,8160,89,46.997549019607845,South Africa
+test,IK Pathan,India,744,1287,19,57.80885780885781,New Zealand
+test,IR Bell,England,7369,14902,169,49.449738290162394,South Africa
+test,IS Sodhi,New Zealand,561,1197,26,46.8671679197995,Bangladesh
+test,IT Guha,England,65,279,3,23.297491039426525,South Africa
+test,Iftikhar Ahmed,Pakistan,61,143,5,42.65734265734265,West Indies
+test,Iftikhar Anjum,Pakistan,9,39,2,23.076923076923077,West Indies
+test,Imam-ul-Haq,Pakistan,1568,3406,46,46.03640634174985,West Indies
+test,Imran Butt,Pakistan,49,93,4,52.68817204301075,West Indies
+test,Imran Butt (2),Pakistan,129,360,6,35.833333333333336,West Indies
+test,Imran Farhat,Pakistan,1568,3344,50,46.889952153110045,West Indies
+test,Imran Khan (2),Pakistan,16,50,7,32.0,West Indies
+test,Imran Tahir,South Africa,130,235,14,55.319148936170215,England
+test,Imrul Kayes,Bangladesh,1751,3685,73,47.51696065128901,England
+test,Inzamam-ul-Haq,ICC World XI,1,7,2,14.285714285714285,
+test,Inzamam-ul-Haq,Pakistan,1258,2346,32,53.62318840579711,West Indies
+test,Ishan Kishan,India,78,91,1,85.71428571428571,New Zealand
+test,J Blackwood,West Indies,2898,5398,97,53.68655057428677,India
+test,J Botha,South Africa,83,240,4,34.583333333333336,England
+test,J Campbell,Zimbabwe,37,65,2,56.92307692307692,New Zealand
+test,J Da Silva,West Indies,1238,3021,50,40.979808010592514,India
+test,J Goswami,India,108,344,4,31.3953488372093,New Zealand
+test,J Gumbie,Zimbabwe,73,145,2,50.3448275862069,New Zealand
+test,J Hayes,Australia,5,46,2,10.869565217391305,South Africa
+test,J Hull,England,9,16,1,56.25,South Africa
+test,J Lewis,England,27,46,2,58.69565217391305,South Africa
+test,J Mubarak,Sri Lanka,186,413,13,45.036319612590795,Bangladesh
+test,J Nyumbu,Zimbabwe,38,129,5,29.457364341085274,New Zealand
+test,J Overton,England,97,136,1,71.32352941176471,South Africa
+test,J Smit,England,16,45,2,35.55555555555556,South Africa
+test,J Srinath,India,2,5,0,40.0,New Zealand
+test,J Yadav,India,248,578,8,42.90657439446367,New Zealand
+test,JA Burns,Australia,1442,2564,39,56.240249609984396,South Africa
+test,JA McCollum,Ireland,156,397,10,39.29471032745592,Pakistan
+test,JA Morkel,South Africa,58,71,1,81.69014084507043,England
+test,JA Raval,New Zealand,1143,2675,38,42.728971962616825,Bangladesh
+test,JA Richardson,Australia,18,14,3,128.57142857142858,South Africa
+test,JA Rudolph,South Africa,1517,3410,51,44.48680351906159,England
+test,JA Warrican,West Indies,330,568,19,58.098591549295776,India
+test,JAH Marshall,New Zealand,95,227,7,41.85022026431718,Bangladesh
+test,JC Archer,England,155,306,20,50.65359477124183,South Africa
+test,JC Buttler,England,2907,5376,90,54.07366071428571,South Africa
+test,JC Price,Australia,10,28,3,35.714285714285715,South Africa
+test,JC Tongue,England,20,30,2,66.66666666666666,South Africa
+test,JC Tredwell,England,45,87,2,51.724137931034484,South Africa
+test,JD Campbell,West Indies,814,1612,33,50.49627791563276,India
+test,JD Ryder,New Zealand,1025,1872,27,54.75427350427351,Bangladesh
+test,JD Unadkat,India,36,89,3,40.44943820224719,New Zealand
+test,JDF Vandersay,Sri Lanka,71,77,4,92.20779220779221,Bangladesh
+test,JDP Oram,New Zealand,1158,2187,31,52.94924554183813,Bangladesh
+test,JDS Neesham,New Zealand,709,1073,21,66.07642124883503,Bangladesh
+test,JE Cameron,Australia,104,200,3,52.0,South Africa
+test,JE Root,England,13006,22653,260,57.41402904692535,South Africa
+test,JE Taylor,West Indies,701,1129,60,62.0903454384411,India
+test,JEC Franklin,New Zealand,639,1742,28,36.681974741676235,Bangladesh
+test,JG Bethell,England,260,349,5,74.49856733524355,South Africa
+test,JH Kallis,ICC World XI,83,179,1,46.36871508379888,
+test,JH Kallis,South Africa,7322,14732,137,49.70133043714363,England
+test,JI Rodrigues,India,235,358,5,65.64245810055866,New Zealand
+test,JJ Bumrah,India,332,744,42,44.623655913978496,New Zealand
+test,JJ Krejza,Australia,71,146,3,48.63013698630137,South Africa
+test,JJ Roy,England,187,318,10,58.80503144654088,South Africa
+test,JJC Lawson,West Indies,23,31,2,74.19354838709677,India
+test,JK Silva,Sri Lanka,2099,5225,75,40.172248803827756,Bangladesh
+test,JL Denly,England,827,2094,27,39.4937917860554,South Africa
+test,JL Gunn,England,252,760,8,33.1578947368421,South Africa
+test,JL Jonassen,Australia,291,561,10,51.87165775401069,South Africa
+test,JL Langer,Australia,2209,3748,43,58.93810032017076,South Africa
+test,JL Ontong,South Africa,16,63,1,25.396825396825395,England
+test,JL Pattinson,Australia,417,972,16,42.901234567901234,South Africa
+test,JL Smith,England,641,887,16,72.26606538895152,South Africa
+test,JM Anderson,England,1290,3306,147,39.01996370235935,South Africa
+test,JM Bairstow,England,6042,10246,170,58.96935389420261,South Africa
+test,JM Bird,Australia,43,141,3,30.49645390070922,South Africa
+test,JM Fields,Australia,232,410,3,56.58536585365853,South Africa
+test,JM Holland,Australia,6,46,2,13.043478260869565,South Africa
+test,JM How,New Zealand,625,1257,26,49.721559268098645,Bangladesh
+test,JM Mennie,Australia,10,24,2,41.66666666666667,South Africa
+test,JM Vince,England,548,1102,22,49.727767695099814,South Africa
+test,JN Gillespie,Australia,311,1025,12,30.341463414634145,South Africa
+test,JN Hamilton,West Indies,5,61,2,8.19672131147541,India
+test,JNT Seales,West Indies,124,306,16,40.52287581699346,India
+test,JO Holder,West Indies,3062,5588,102,54.79599141016463,India
+test,JP Crawley,England,93,307,4,30.293159609120522,South Africa
+test,JP Duminy,South Africa,2103,4560,64,46.11842105263158,England
+test,JP Faulkner,Australia,45,43,2,104.65116279069768,South Africa
+test,JP Greaves,West Indies,231,431,11,53.596287703016245,India
+test,JP Inglis,Australia,102,96,2,106.25,South Africa
+test,JR Hazlewood,Australia,510,1185,42,43.037974683544306,South Africa
+test,JS Foster,England,73,232,3,31.46551724137931,South Africa
+test,JS Patel,New Zealand,379,692,27,54.76878612716764,Bangladesh
+test,JT Ball,England,67,125,7,53.6,South Africa
+test,JW Hastings,Australia,52,89,2,58.42696629213483,South Africa
+test,JWA Taylor,England,312,755,11,41.324503311258276,South Africa
+test,Jahurul Islam,Bangladesh,347,905,14,38.34254143646409,England
+test,Jaker Ali,Bangladesh,327,574,9,56.968641114982574,England
+test,James Bracey,England,8,27,3,29.629629629629626,South Africa
+test,Javed Omar,Bangladesh,678,1410,33,48.08510638297872,England
+test,Jubair Hossain,Bangladesh,13,88,2,14.772727272727273,England
+test,Julie Hayes,Australia,20,82,2,24.390243902439025,South Africa
+test,Junaid Khan,Pakistan,122,308,17,39.61038961038961,West Indies
+test,Junaid Siddique,Bangladesh,897,2189,33,40.97761534947465,England
+test,K Rabada,South Africa,1030,2061,85,49.97573993207181,England
+test,K Sinclair,West Indies,118,292,7,40.41095890410959,India
+test,K Verreynne,South Africa,1060,1828,33,57.98687089715536,England
+test,K Zondo,South Africa,120,316,5,37.9746835443038,England
+test,KA Blackwell,Australia,154,507,5,30.37475345167653,South Africa
+test,KA Edwards,West Indies,986,2056,30,47.95719844357977,India
+test,KA Hope,West Indies,101,251,8,40.23904382470119,India
+test,KA Jamieson,New Zealand,432,778,22,55.52699228791774,Bangladesh
+test,KA Maharaj,South Africa,1213,2000,81,60.650000000000006,England
+test,KAJ Roach,West Indies,1283,3414,108,37.58055067369654,India
+test,KAR Hodge,West Indies,556,1112,22,50.0,India
+test,KC Brathwaite,West Indies,5916,14492,180,40.8225227711841,India
+test,KC Sangakkara,Sri Lanka,8489,15666,144,54.18741223030767,Bangladesh
+test,KD Karthik,India,863,1733,34,49.79803808424697,New Zealand
+test,KD Mills,New Zealand,210,530,16,39.62264150943396,Bangladesh
+test,KD Petersen,South Africa,704,1478,24,47.6319350473613,England
+test,KDK Vithanage,Sri Lanka,370,485,14,76.28865979381443,Bangladesh
+test,KE Pike,Australia,14,36,2,38.88888888888889,South Africa
+test,KH Brunt,England,176,535,12,32.89719626168225,South Africa
+test,KIC Asalanka,Sri Lanka,88,171,6,51.461988304093566,Bangladesh
+test,KJ Abbott,South Africa,95,339,13,28.023598820058996,England
+test,KJ Garth,Australia,103,204,3,50.49019607843137,South Africa
+test,KJ O'Brien,Ireland,190,367,3,51.771117166212534,Pakistan
+test,KK Jennings,England,781,1842,31,42.39956568946797,South Africa
+test,KK Nair,India,374,506,5,73.91304347826086,New Zealand
+test,KK Peters,West Indies,0,3,0,0.0,India
+test,KL Britt,Australia,8,65,2,12.307692307692308,South Africa
+test,KL Cross,England,55,132,7,41.66666666666667,South Africa
+test,KL Rahul,India,3203,6109,97,52.43083974463906,New Zealand
+test,KL Rolton,Australia,101,309,8,32.68608414239482,South Africa
+test,KM Beams,Australia,26,98,0,26.53061224489796,South Africa
+test,KM Dabengwa,Zimbabwe,72,118,4,61.016949152542374,New Zealand
+test,KM Jarvis,Zimbabwe,128,385,14,33.246753246753244,New Zealand
+test,KM Leng,England,49,191,2,25.654450261780106,South Africa
+test,KMA Paul,West Indies,96,119,6,80.67226890756302,India
+test,KMDN Kulasekara,Sri Lanka,391,928,26,42.133620689655174,Bangladesh
+test,KN Peiris,Sri Lanka,9,40,3,22.5,Bangladesh
+test,KNM Fernando,Sri Lanka,512,956,14,53.55648535564853,Bangladesh
+test,KO Meth,Zimbabwe,72,129,3,55.81395348837209,New Zealand
+test,KOA Powell,West Indies,2113,4160,82,50.79326923076923,India
+test,KP Pietersen,England,7627,12495,160,61.040416166466585,South Africa
+test,KR Mayers,West Indies,949,1552,29,61.14690721649485,India
+test,KR Patterson,Australia,144,275,1,52.36363636363637,South Africa
+test,KS Bharat,India,221,418,11,52.87081339712919,New Zealand
+test,KS Williamson,New Zealand,9276,17947,171,51.68551847105366,Bangladesh
+test,KSA McKenzie,West Indies,203,348,12,58.333333333333336,India
+test,KT Kasuza,Zimbabwe,167,546,8,30.586080586080588,New Zealand
+test,KT Maphaka,South Africa,0,2,1,0.0,England
+test,KTGD Prasad,Sri Lanka,473,870,36,54.367816091954026,Bangladesh
+test,KU Carty,West Indies,179,407,10,43.980343980343974,India
+test,KV Jain,India,37,169,3,21.893491124260358,New Zealand
+test,KV Sharma,India,8,28,1,28.57142857142857,New Zealand
+test,Kabir Ali,England,10,28,2,35.714285714285715,South Africa
+test,Kamran Akmal,Pakistan,1867,2979,63,62.6720375965089,West Indies
+test,Kamran Ghulam,Pakistan,312,552,11,56.52173913043478,West Indies
+test,Kamrul Islam Rabbi,Bangladesh,51,281,9,18.14946619217082,England
+test,Kashif Ali,Pakistan,1,12,1,8.333333333333332,West Indies
+test,Khaled Ahmed,Bangladesh,47,166,18,28.313253012048197,England
+test,Khaled Mahmud,Bangladesh,117,202,8,57.920792079207914,England
+test,Khaled Mashud,Bangladesh,441,1258,29,35.055643879173296,England
+test,Khurram Manzoor,Pakistan,817,1829,30,44.66921815199563,West Indies
+test,Khurram Shahzad,Pakistan,83,224,8,37.05357142857143,West Indies
+test,Kuldeep Yadav,India,199,701,16,28.38801711840228,New Zealand
+test,L Balaji,India,15,29,2,51.724137931034484,New Zealand
+test,L Cheatle,Australia,6,17,1,35.294117647058826,South Africa
+test,L Embuldeniya,Sri Lanka,191,584,25,32.70547945205479,Bangladesh
+test,L Filer,England,41,101,7,40.5940594059406,South Africa
+test,L Goodall,South Africa,36,91,2,39.56043956043956,England
+test,L Lee,South Africa,36,60,2,60.0,England
+test,L Ngidi,South Africa,97,229,19,42.35807860262008,England
+test,L Ronchi,New Zealand,319,432,10,73.8425925925926,Bangladesh
+test,L Sipamla,South Africa,15,53,3,28.30188679245283,England
+test,L Tucker,Ireland,498,734,12,67.8474114441417,Pakistan
+test,L Vincent,New Zealand,590,1056,10,55.871212121212125,Bangladesh
+test,L Winfield,England,94,376,6,25.0,South Africa
+test,L Winfield-Hill,England,72,135,3,53.333333333333336,South Africa
+test,L Wolvaardt,South Africa,255,627,8,40.66985645933015,England
+test,LA Coleman,Australia,21,65,2,32.30769230769231,South Africa
+test,LA Dawson,England,84,197,4,42.63959390862944,South Africa
+test,LA Marsh,England,151,598,10,25.25083612040134,South Africa
+test,LB Williams,South Africa,25,71,2,35.2112676056338,England
+test,LC Pearson,England,0,1,1,0.0,South Africa
+test,LC Sthalekar,Australia,295,804,8,36.691542288557216,South Africa
+test,LD Chandimal,Sri Lanka,6101,12226,148,49.9018485195485,Bangladesh
+test,LE Plunkett,England,229,456,14,50.21929824561403,South Africa
+test,LH Ferguson,New Zealand,1,9,0,11.11111111111111,Bangladesh
+test,LJ Harper,England,0,16,1,0.0,South Africa
+test,LJ Poulton,Australia,45,107,2,42.05607476635514,South Africa
+test,LK Bell,England,19,82,1,23.170731707317074,South Africa
+test,LK Ebsary,Australia,24,48,2,50.0,South Africa
+test,LK Newton,England,111,297,5,37.37373737373738,South Africa
+test,LL Tsotsobe,South Africa,19,53,3,35.84905660377358,England
+test,LM Jongwe,Zimbabwe,56,94,2,59.57446808510638,New Zealand
+test,LM Keightley,Australia,5,29,1,17.24137931034483,South Africa
+test,LMP Simmons,West Indies,278,597,16,46.56616415410385,India
+test,LP Griffiths,England,3,30,2,10.0,South Africa
+test,LPC Silva,Sri Lanka,537,857,16,62.66044340723453,Bangladesh
+test,LR Johnson,West Indies,403,837,16,48.148148148148145,India
+test,LRPL Taylor,New Zealand,7597,12869,168,59.03333592353718,Bangladesh
+test,LS Baker,West Indies,23,50,2,46.0,India
+test,LS Greenway,England,169,668,14,25.299401197604794,South Africa
+test,LS Livingstone,England,16,18,1,88.88888888888889,South Africa
+test,Liton Das,Bangladesh,2671,4562,80,58.54888206926786,England
+test,M Bhanuka,Sri Lanka,6,17,2,35.294117647058826,Bangladesh
+test,M Commins,Ireland,6,26,4,23.076923076923077,Pakistan
+test,M Dillon,West Indies,78,162,4,48.148148148148145,India
+test,M Hayward,South Africa,10,18,1,55.55555555555556,England
+test,M Jansen,South Africa,506,1009,22,50.14866204162537,England
+test,M Jones,Australia,62,182,2,34.065934065934066,South Africa
+test,M Kaif,India,421,930,10,45.26881720430108,New Zealand
+test,M Kapp,South Africa,376,596,6,63.08724832214765,England
+test,M Kartik,India,2,8,2,25.0,New Zealand
+test,M Klaas,South Africa,15,72,2,20.833333333333336,England
+test,M Labuschagne,Australia,4396,8489,92,51.784662504417476,South Africa
+test,M Louis,West Indies,358,857,18,41.77362893815636,India
+test,M Morkel,South Africa,944,1862,80,50.69817400644469,England
+test,M Muralitharan,ICC World XI,2,7,2,28.57142857142857,
+test,M Muralitharan,Sri Lanka,273,348,29,78.44827586206897,Bangladesh
+test,M Ntini,South Africa,370,849,37,43.580683156654885,England
+test,M Prasidh Krishna,India,4,27,3,14.814814814814813,New Zealand
+test,M Raj,India,137,392,6,34.94897959183674,New Zealand
+test,M Shumba,Zimbabwe,111,291,7,38.144329896907216,New Zealand
+test,M Theekshana,Sri Lanka,59,149,3,39.59731543624161,Bangladesh
+test,M Vijay,India,3877,8459,102,45.832840761319304,New Zealand
+test,M Zondeki,South Africa,68,168,4,40.476190476190474,England
+test,M de Lange,South Africa,9,19,2,47.368421052631575,England
+test,M van Jaarsveld,South Africa,175,334,5,52.39520958083832,England
+test,MA Agarwal,India,1488,2786,36,53.409906676238336,New Zealand
+test,MA Beer,Australia,6,29,2,20.689655172413794,South Africa
+test,MA Butcher,England,785,1629,19,48.18907305095151,South Africa
+test,MA Carberry,England,345,835,12,41.31736526946108,South Africa
+test,MA Starc,Australia,2217,3705,109,59.83805668016194,South Africa
+test,MA Vermeulen,Zimbabwe,343,749,8,45.794392523364486,New Zealand
+test,MA Wood,England,807,1148,50,70.29616724738676,South Africa
+test,MC Henriques,Australia,164,346,6,47.398843930635834,South Africa
+test,MD Bell,New Zealand,245,512,8,47.8515625,Bangladesh
+test,MD Craig,New Zealand,589,1085,15,54.285714285714285,Bangladesh
+test,MD Fisher,England,0,5,0,0.0,South Africa
+test,MD Gunathilaka,Sri Lanka,299,600,16,49.833333333333336,Bangladesh
+test,MD Shanaka,Sri Lanka,140,276,10,50.72463768115942,Bangladesh
+test,MD Stoneman,England,526,1190,19,44.20168067226891,South Africa
+test,MDK Perera,Sri Lanka,1303,2782,68,46.836808051761324,Bangladesh
+test,MDKJ Perera,Sri Lanka,1177,1632,38,72.12009803921569,Bangladesh
+test,MDT Kamini,India,45,170,2,26.47058823529412,New Zealand
+test,MDUS Jayasundera,Sri Lanka,30,77,3,38.961038961038966,Bangladesh
+test,ME Bouchier,England,129,191,4,67.5392670157068,South Africa
+test,ME Trescothick,England,1964,3483,39,56.38817111685329,South Africa
+test,MEK Hussey,Australia,5779,11737,117,49.237454204651954,South Africa
+test,MF Maharoof,Sri Lanka,451,1172,25,38.48122866894198,Bangladesh
+test,MG Bracewell,New Zealand,259,455,12,56.92307692307692,Bangladesh
+test,MG Johnson,Australia,2065,3545,93,58.25105782792666,South Africa
+test,MG Neser,Australia,56,72,3,77.77777777777779,South Africa
+test,MG Vandort,Sri Lanka,857,1915,25,44.75195822454308,Bangladesh
+test,MH Richardson,New Zealand,327,972,10,33.641975308641975,Bangladesh
+test,MH Sumra,India,12,92,2,13.043478260869565,New Zealand
+test,MHW Papps,New Zealand,89,273,11,32.6007326007326,Bangladesh
+test,MJ Bulow,Australia,13,61,2,21.311475409836063,South Africa
+test,MJ Clarke,Australia,7857,14070,160,55.84221748400853,South Africa
+test,MJ Guptill,New Zealand,2586,5560,88,46.510791366906474,Bangladesh
+test,MJ Henry,New Zealand,649,838,36,77.44630071599046,Bangladesh
+test,MJ Hoggard,England,222,912,31,24.342105263157894,South Africa
+test,MJ Humphreys,Ireland,47,118,2,39.83050847457627,Pakistan
+test,MJ Leach,England,498,1335,37,37.30337078651685,South Africa
+test,MJ Mason,New Zealand,3,33,1,9.090909090909092,Bangladesh
+test,MJ Mindley,West Indies,11,37,1,29.72972972972973,India
+test,MJ North,Australia,1171,2434,33,48.1101068200493,South Africa
+test,MJ Potts,England,86,169,11,50.887573964497044,South Africa
+test,MJ Prior,England,4099,6662,100,61.528069648754126,South Africa
+test,MJ Saggers,England,1,12,1,8.333333333333332,South Africa
+test,MJ Santner,New Zealand,1066,2280,41,46.75438596491228,Bangladesh
+test,MJ Swepson,Australia,28,54,4,51.85185185185185,South Africa
+test,MKDI Amerasinghe,Sri Lanka,0,25,0,0.0,Bangladesh
+test,ML Cummins,West Indies,114,323,14,35.294117647058826,India
+test,ML Hayden,Australia,3888,6307,75,61.64579039162835,South Africa
+test,ML Love,Australia,133,324,5,41.04938271604938,South Africa
+test,ML Schutt,Australia,12,31,1,38.70967741935484,South Africa
+test,ML Udawatte,Sri Lanka,23,74,4,31.08108108108108,Bangladesh
+test,MM Ali,England,3094,5998,108,51.5838612870957,South Africa
+test,MM Lanning,Australia,325,712,9,45.646067415730336,South Africa
+test,MM Patel,India,52,131,6,39.69465648854962,New Zealand
+test,MN Samuels,West Indies,3021,6232,89,48.47560975609756,India
+test,MN Waller,Zimbabwe,577,1138,26,50.70298769771529,New Zealand
+test,MP Bicknell,England,19,36,3,52.77777777777778,South Africa
+test,MP Breetzke,South Africa,0,4,1,0.0,England
+test,MP Kuhnemann,Australia,18,67,4,26.865671641791046,South Africa
+test,MP Vaughan,England,2337,4697,58,49.75516286991697,South Africa
+test,MR Adair,Ireland,298,423,10,70.44917257683215,Pakistan
+test,MR Gillespie,New Zealand,60,96,7,62.5,Bangladesh
+test,MR Marsh,Australia,2083,3703,73,56.25168782068592,South Africa
+test,MR Ramprakash,England,58,133,1,43.609022556390975,South Africa
+test,MS Atapattu,Sri Lanka,336,874,12,38.443935926773456,Bangladesh
+test,MS Crane,England,6,11,1,54.54545454545454,South Africa
+test,MS Dhoni,India,4721,8033,127,58.770073447031,New Zealand
+test,MS Harris,Australia,607,1327,25,45.742275810097965,South Africa
+test,MS Kasprowicz,Australia,85,198,9,42.92929292929293,South Africa
+test,MS Panesar,England,217,726,42,29.88980716253444,South Africa
+test,MS Sinclair,New Zealand,459,1131,21,40.58355437665783,Bangladesh
+test,MS Wade,Australia,1613,3207,57,50.29622700342999,South Africa
+test,MT Chinouya,Zimbabwe,1,34,2,2.941176470588235,New Zealand
+test,MT Renshaw,Australia,645,1526,22,42.26736566186107,South Africa
+test,MV Boucher,ICC World XI,17,45,2,37.77777777777778,
+test,MV Boucher,South Africa,2909,5879,99,49.48120428644327,England
+test,MVT Fernando,Sri Lanka,159,604,21,26.32450331125828,Bangladesh
+test,MW Parkinson,England,8,8,1,100.0,South Africa
+test,Mahbubul Alam,Bangladesh,3,53,2,5.660377358490567,England
+test,Mahidul Islam Ankon,Bangladesh,29,66,2,43.93939393939394,England
+test,Mahmudul Hasan Joy,Bangladesh,682,1741,32,39.17288914417002,England
+test,Mahmudullah,Bangladesh,2900,5439,88,53.318624747196175,England
+test,Manjural Islam,Bangladesh,6,20,2,30.0,England
+test,Manjural Islam Rana,Bangladesh,93,173,2,53.75722543352601,England
+test,Marshall Ayub,Bangladesh,125,292,6,42.80821917808219,England
+test,Mashrafe Mortaza,Bangladesh,513,732,34,70.08196721311475,England
+test,Meghna Singh,India,2,6,0,33.33333333333333,New Zealand
+test,Mehedi Hasan Miraz,Bangladesh,1997,3972,83,50.27693856998992,England
+test,Mehrab Hossain jnr,Bangladesh,102,209,8,48.803827751196174,England
+test,Mir Hamza,Pakistan,51,183,8,27.86885245901639,West Indies
+test,Misbah-ul-Haq,Pakistan,5102,11375,105,44.85274725274726,West Indies
+test,Mohammad Abbas,Pakistan,120,689,19,17.41654571843251,West Indies
+test,Mohammad Ali,Pakistan,2,66,5,3.0303030303030303,West Indies
+test,Mohammad Amir,Pakistan,751,1981,56,37.910146390711766,West Indies
+test,Mohammad Ashraful,Bangladesh,1523,3127,70,48.70482890949792,England
+test,Mohammad Asif,Pakistan,120,371,23,32.34501347708895,West Indies
+test,Mohammad Ayub,Pakistan,47,168,2,27.976190476190478,West Indies
+test,Mohammad Hafeez,Pakistan,3321,5748,90,57.776617954070986,West Indies
+test,Mohammad Huraira,Pakistan,46,95,4,48.421052631578945,West Indies
+test,Mohammad Irfan,Pakistan,28,87,5,32.18390804597701,West Indies
+test,Mohammad Khalil,Pakistan,5,23,2,21.73913043478261,West Indies
+test,Mohammad Mithun,Bangladesh,333,753,18,44.223107569721115,England
+test,Mohammad Naim,Bangladesh,24,103,2,23.300970873786408,England
+test,Mohammad Nawaz,Pakistan,94,189,5,49.735449735449734,West Indies
+test,Mohammad Nawaz (3),Pakistan,50,157,4,31.84713375796178,West Indies
+test,Mohammad Rafique,Bangladesh,470,761,32,61.76084099868594,England
+test,Mohammad Rizwan,Pakistan,2273,4191,58,54.23526604628967,West Indies
+test,Mohammad Salman,Pakistan,25,57,4,43.859649122807014,West Indies
+test,Mohammad Sami,Pakistan,297,868,24,34.21658986175115,West Indies
+test,Mohammad Shahid,Bangladesh,57,81,5,70.37037037037037,England
+test,Mohammad Sharif,Bangladesh,36,122,3,29.508196721311474,England
+test,Mohammad Talha,Pakistan,34,72,4,47.22222222222222,West Indies
+test,Mohammad Wasim,Pakistan,55,74,3,74.32432432432432,West Indies
+test,Mohammad Yousuf,Pakistan,2636,4735,48,55.670538542766636,West Indies
+test,Mohammad Zahid,Pakistan,0,5,2,0.0,West Indies
+test,Mohammed Shami,India,750,1008,63,74.40476190476191,New Zealand
+test,Mohammed Siraj,India,131,359,25,36.49025069637883,New Zealand
+test,Moin Khan,Pakistan,64,159,2,40.25157232704403,West Indies
+test,Mominul Haque,Bangladesh,4357,8161,119,53.3880651880897,England
+test,Mosaddek Hossain,Bangladesh,113,278,5,40.647482014388494,England
+test,Muhammad Musa,Pakistan,16,17,1,94.11764705882352,West Indies
+test,Mukesh Kumar,India,0,6,1,0.0,New Zealand
+test,Mushfiqur Rahim,Bangladesh,5771,11875,152,48.59789473684211,England
+test,Mushfiqur Rahman,Bangladesh,155,476,6,32.563025210084035,England
+test,Mushtaq Ahmed,Pakistan,20,55,1,36.36363636363637,West Indies
+test,Mustafizur Rahman,Bangladesh,66,163,15,40.49079754601227,England
+test,N Al Khadeer,India,16,31,1,51.61290322580645,New Zealand
+test,N Boje,South Africa,576,983,17,58.59613428280773,England
+test,N Brand,South Africa,66,129,4,51.162790697674424,England
+test,N Burger,South Africa,33,113,4,29.20353982300885,England
+test,N Deonarine,West Indies,622,1472,24,42.255434782608695,India
+test,N Dickwella,Sri Lanka,2757,4158,88,66.3059163059163,Bangladesh
+test,N Hussain,England,721,1693,19,42.58712344949793,South Africa
+test,N M'shangwe,Zimbabwe,8,18,4,44.44444444444444,New Zealand
+test,N Mlaba,South Africa,46,70,6,65.71428571428571,England
+test,N Ncube,Zimbabwe,17,23,2,73.91304347826086,New Zealand
+test,N Niranjana,India,27,83,1,32.53012048192771,New Zealand
+test,N Pradeep,Sri Lanka,132,362,32,36.46408839779006,Bangladesh
+test,N Wagner,New Zealand,875,1693,61,51.683402244536325,Bangladesh
+test,N de Klerk,South Africa,114,280,7,40.714285714285715,England
+test,NA Buley,India,0,29,0,0.0,New Zealand
+test,NA McSweeney,Australia,72,212,5,33.9622641509434,South Africa
+test,NA Saini,India,8,27,2,29.629629629629626,New Zealand
+test,NB Mahwire,Zimbabwe,136,315,6,43.17460317460318,New Zealand
+test,ND McKenzie,South Africa,1610,3848,41,41.83991683991684,England
+test,NE Bolton,Australia,91,265,4,34.33962264150943,South Africa
+test,NE Bonner,West Indies,803,2347,23,34.213890072432896,India
+test,NG Smith,New Zealand,80,121,4,66.11570247933885,Bangladesh
+test,NGRP Jayasuriya,Sri Lanka,232,714,29,32.49299719887955,Bangladesh
+test,NJ Astle,New Zealand,693,1373,23,50.47341587764021,Bangladesh
+test,NJ Maddinson,Australia,27,78,4,34.61538461538461,South Africa
+test,NJ O'Brien,Ireland,18,55,2,32.72727272727273,Pakistan
+test,NJ Shaw,England,13,46,2,28.26086956521739,South Africa
+test,NLTC Perera,Sri Lanka,203,278,10,73.02158273381295,Bangladesh
+test,NM Hauritz,Australia,426,855,16,49.824561403508774,South Africa
+test,NM Lyon,Australia,1595,3114,123,51.220295439948615,South Africa
+test,NO Miller,West Indies,5,57,2,8.771929824561402,India
+test,NP Mayavo,Zimbabwe,62,111,4,55.85585585585585,New Zealand
+test,NR Ferreira,Zimbabwe,21,99,2,21.21212121212121,New Zealand
+test,NR Sciver,England,440,860,11,51.162790697674424,South Africa
+test,NR Sciver-Brunt,England,371,535,8,69.34579439252336,South Africa
+test,NR Welch,Zimbabwe,161,361,6,44.59833795013851,New Zealand
+test,NRD Compton,England,775,2156,27,35.94619666048238,South Africa
+test,NT Broom,New Zealand,32,72,3,44.44444444444444,Bangladesh
+test,NT Nyamhuri,Zimbabwe,8,35,2,22.857142857142858,New Zealand
+test,NT Paranavitana,Sri Lanka,1792,4285,56,41.82030338389732,Bangladesh
+test,NT Pascal,West Indies,12,27,2,44.44444444444444,India
+test,NV Ojha,India,56,117,2,47.863247863247864,New Zealand
+test,NW Bracken,Australia,8,21,1,38.095238095238095,South Africa
+test,Naeem Islam,Bangladesh,383,994,9,38.53118712273642,England
+test,Nafees Iqbal,Bangladesh,221,526,12,42.01520912547528,England
+test,Nahid Rana,Bangladesh,13,67,6,19.402985074626866,England
+test,Naseem Shah,Pakistan,144,459,19,31.372549019607842,West Indies
+test,Nasir Hossain,Bangladesh,1044,1922,31,54.31841831425598,England
+test,Nasir Jamshed,Pakistan,51,108,4,47.22222222222222,West Indies
+test,Nauman Ali,Pakistan,368,775,20,47.483870967741936,West Indies
+test,Naved-ul-Hasan,Pakistan,26,26,2,100.0,West Indies
+test,Nayeem Hasan,Bangladesh,179,449,13,39.86636971046771,England
+test,Nazimuddin,Bangladesh,125,320,6,39.0625,England
+test,Nazmul Hossain,Bangladesh,8,12,0,66.66666666666666,England
+test,Nazmul Hossain Shanto,Bangladesh,1619,3284,63,49.29963459196102,England
+test,Nazmul Islam,Bangladesh,4,16,2,25.0,England
+test,Nithish Kumar Reddy,India,298,465,8,64.08602150537635,New Zealand
+test,Nurul Hasan,Bangladesh,440,697,21,63.127690100430414,England
+test,OA Shah,England,143,362,8,39.50276243093923,South Africa
+test,OAC Banks,West Indies,108,298,3,36.241610738255034,India
+test,OE Robinson,England,410,737,28,55.63093622795115,South Africa
+test,OJ Phillips,West Indies,160,313,4,51.118210862619804,India
+test,OJ Pope,England,3301,5085,93,64.91642084562439,South Africa
+test,OP Stone,England,102,234,9,43.58974358974359,South Africa
+test,P Dimri,India,19,47,0,40.42553191489361,New Zealand
+test,P Jayawickrama,Sri Lanka,12,32,1,37.5,Bangladesh
+test,P Kumar,India,149,161,10,92.54658385093167,New Zealand
+test,P Litchfield,Australia,136,284,5,47.88732394366197,South Africa
+test,P Nissanka,Sri Lanka,936,1767,27,52.97113752122241,Bangladesh
+test,P Utseya,Zimbabwe,62,172,5,36.04651162790697,New Zealand
+test,P Vastrakar,India,111,314,4,35.35031847133758,New Zealand
+test,PA Jaques,Australia,836,1568,18,53.316326530612244,South Africa
+test,PA Patel,India,505,896,15,56.36160714285714,New Zealand
+test,PADLR Sandakan,Sri Lanka,117,275,11,42.54545454545455,Bangladesh
+test,PD Collingwood,England,3914,8226,95,47.580841235108196,South Africa
+test,PG Fulton,New Zealand,892,2302,37,38.748913987836666,Bangladesh
+test,PG Raut,India,134,448,5,29.910714285714285,New Zealand
+test,PHKD Mendis,Sri Lanka,1184,1843,22,64.2430819316332,Bangladesh
+test,PHT Kaushal,Sri Lanka,106,245,10,43.26530612244898,Bangladesh
+test,PJ Cummins,Australia,1454,3170,84,45.867507886435334,South Africa
+test,PJ Hughes,Australia,1535,2871,46,53.46569139672588,South Africa
+test,PJ Ingram,New Zealand,61,152,2,40.131578947368425,Bangladesh
+test,PJ Malan,South Africa,156,530,6,29.433962264150942,England
+test,PJ Moor,Ireland,189,347,12,54.46685878962536,Pakistan
+test,PJ Moor,Zimbabwe,533,1186,15,44.94097807757167,New Zealand
+test,PJ Wiseman,New Zealand,58,110,1,52.72727272727272,Bangladesh
+test,PL Harris,South Africa,450,1330,41,33.83458646616541,England
+test,PLS Gamage,Sri Lanka,6,99,4,6.0606060606060606,Bangladesh
+test,PM Nevill,Australia,468,1155,21,40.519480519480524,South Africa
+test,PM Pushpakumara,Sri Lanka,102,225,6,45.33333333333333,Bangladesh
+test,PM Siddle,Australia,1164,2470,79,47.125506072874494,South Africa
+test,PP Chawla,India,6,23,3,26.08695652173913,New Zealand
+test,PP Ojha,India,89,493,10,18.052738336713997,New Zealand
+test,PP Shaw,India,339,395,8,85.82278481012658,New Zealand
+test,PR Adams,South Africa,83,169,4,49.112426035502956,England
+test,PR George,Australia,2,11,2,18.181818181818183,South Africa
+test,PR Stirling,Ireland,276,464,12,59.48275862068966,Pakistan
+test,PS Masvaure,Zimbabwe,332,912,13,36.40350877192983,New Zealand
+test,PSP Handscomb,Australia,1079,2236,28,48.25581395348838,South Africa
+test,PT Collins,West Indies,10,66,6,15.151515151515152,India
+test,PVD Chameera,Sri Lanka,104,342,19,30.409356725146196,Bangladesh
+test,PWA Mulder,South Africa,589,1274,26,46.23233908948195,England
+test,PWH de Silva,Sri Lanka,196,227,9,86.34361233480176,Bangladesh
+test,Pankaj Singh,India,10,20,3,50.0,New Zealand
+test,Q de Kock,South Africa,3300,4670,87,70.66381156316916,England
+test,R Ashwin,India,3485,6395,134,54.49569976544175,New Zealand
+test,R Chandrika,West Indies,140,449,10,31.180400890868597,India
+test,R Clarke,England,96,253,3,37.94466403162055,South Africa
+test,R Dhar,India,78,164,2,47.5609756097561,New Zealand
+test,R Dravid,ICC World XI,23,74,2,31.08108108108108,
+test,R Dravid,India,5902,13682,123,43.1369682794913,New Zealand
+test,R Kaia,Zimbabwe,59,161,7,36.64596273291926,New Zealand
+test,R MacDonald-Gay,England,22,118,4,18.64406779661017,South Africa
+test,R McLaren,South Africa,47,108,2,43.51851851851852,England
+test,R Mutumbami,Zimbabwe,217,461,11,47.071583514099785,New Zealand
+test,R Ngarava,Zimbabwe,132,265,11,49.81132075471698,New Zealand
+test,R Rampaul,West Indies,335,629,22,53.25914149443561,India
+test,R Ravindra,New Zealand,1057,1890,28,55.925925925925924,Bangladesh
+test,R Vinay Kumar,India,11,25,2,44.0,New Zealand
+test,R de Swardt,South Africa,99,222,3,44.5945945945946,England
+test,R van Tonder,South Africa,64,169,4,37.8698224852071,England
+test,RA Austin,West Indies,39,216,4,18.055555555555554,India
+test,RA Birch,England,34,104,3,32.69230769230769,South Africa
+test,RA Jadeja,India,3350,6080,102,55.098684210526315,New Zealand
+test,RA Reifer,West Indies,298,739,13,40.32476319350474,India
+test,RA Young,New Zealand,169,420,7,40.23809523809524,Bangladesh
+test,RAS Lakmal,Sri Lanka,934,1940,82,48.144329896907216,Bangladesh
+test,RD Jacobs,West Indies,173,382,8,45.287958115183244,India
+test,RD Rickelton,South Africa,616,1142,16,53.94045534150613,England
+test,RG Hart,New Zealand,11,39,1,28.205128205128204,Bangladesh
+test,RG Sharma,India,4301,7546,107,56.99708454810496,New Zealand
+test,RJ Burns,England,1789,4089,59,43.75152849107361,South Africa
+test,RJ Harris,Australia,603,962,28,62.68191268191268,South Africa
+test,RJ Kirtley,England,29,116,6,25.0,South Africa
+test,RJ Nicol,New Zealand,28,105,4,26.666666666666668,Bangladesh
+test,RJ Peterson,South Africa,403,541,15,74.4916820702403,England
+test,RJ Quiney,Australia,9,22,3,40.909090909090914,South Africa
+test,RJ Sidebottom,England,309,883,19,34.994337485843715,South Africa
+test,RK Kleinveldt,South Africa,27,61,3,44.26229508196721,England
+test,RKJ Dawson,England,35,111,3,31.53153153153153,South Africa
+test,RL Chase,West Indies,2263,4868,85,46.4872637633525,India
+test,RL Haynes,Australia,383,961,12,39.85431841831426,South Africa
+test,RL Johnson,England,6,23,1,26.08695652173913,South Africa
+test,RL Powell,West Indies,23,39,1,58.97435897435898,India
+test,RM Farrell,Australia,20,41,2,48.78048780487805,South Africa
+test,RM Ghosh,India,151,226,3,66.8141592920354,New Zealand
+test,RM Patidar,India,63,164,6,38.41463414634146,New Zealand
+test,RMMP Rathnayake,Sri Lanka,151,242,5,62.396694214876035,Bangladesh
+test,RMS Eranga,Sri Lanka,193,469,15,41.15138592750533,Bangladesh
+test,RN Lewis,West Indies,1,10,2,10.0,India
+test,RO Hinds,West Indies,203,577,12,35.181975736568454,India
+test,RP Burl,Zimbabwe,16,39,2,41.02564102564102,New Zealand
+test,RP Singh,India,116,276,16,42.028985507246375,New Zealand
+test,RR Pant,India,2948,4012,68,73.47956131605184,New Zealand
+test,RR Powar,India,13,18,2,72.22222222222221,New Zealand
+test,RR Sarwan,West Indies,2558,4752,61,53.829966329966325,India
+test,RRS Cornwall,West Indies,256,427,13,59.95316159250586,India
+test,RS Bopara,England,575,1092,18,52.65567765567766,South Africa
+test,RS Gayakwad,India,0,6,1,0.0,New Zealand
+test,RS Morton,West Indies,343,729,18,47.05075445816186,India
+test,RT Ponting,Australia,6537,11179,138,58.475713391179895,South Africa
+test,RTM Mendis,Sri Lanka,408,931,25,43.82384532760473,Bangladesh
+test,RW Chakabva,Zimbabwe,984,2512,35,39.171974522293,New Zealand
+test,RW Price,Zimbabwe,134,372,12,36.02150537634409,New Zealand
+test,RWT Key,England,153,406,9,37.68472906403941,South Africa
+test,Rahat Ali,Pakistan,136,372,16,36.55913978494624,West Indies
+test,Rajin Saleh,Bangladesh,482,1373,25,35.10560815731974,England
+test,Raqibul Hasan,Bangladesh,301,739,15,40.73071718538566,England
+test,Rashid Latif,Pakistan,10,53,2,18.867924528301888,West Indies
+test,Rehan Ahmed,England,103,182,10,56.59340659340659,South Africa
+test,Renuka Singh,India,9,16,2,56.25,New Zealand
+test,Reon King,West Indies,3,12,0,25.0,India
+test,Robiul Islam,Bangladesh,99,203,11,48.76847290640394,England
+test,Rubel Hossain,Bangladesh,265,603,28,43.946932006633496,England
+test,S Badrinath,India,63,178,3,35.39325842696629,New Zealand
+test,S Campbell,Australia,0,1,0,0.0,South Africa
+test,S Chanderpaul,West Indies,5995,13587,110,44.123058806211816,India
+test,S Chattergoon,West Indies,76,131,4,58.01526717557252,India
+test,S Dhawan,India,2208,3365,57,65.61664190193164,New Zealand
+test,S Ecclestone,England,196,467,11,41.97002141327623,South Africa
+test,S Jafta,South Africa,36,145,7,24.82758620689655,England
+test,S Joseph,West Indies,186,229,14,81.22270742358079,India
+test,S Kalavitigoda,Sri Lanka,8,55,2,14.545454545454545,Bangladesh
+test,S Konstas,Australia,113,140,4,80.71428571428572,South Africa
+test,S Luus,South Africa,299,696,8,42.95977011494253,England
+test,S Mahmood,England,52,125,1,41.6,South Africa
+test,S Mandhana,India,621,976,10,63.627049180327866,New Zealand
+test,S Matsikenyeri,Zimbabwe,55,169,6,32.544378698224854,New Zealand
+test,S Molineux,Australia,97,182,4,53.2967032967033,South Africa
+test,S Moseley,West Indies,28,105,4,26.666666666666668,India
+test,S Muthusamy,South Africa,173,402,4,43.03482587064676,England
+test,S Nadeem,India,1,30,2,3.3333333333333335,New Zealand
+test,S Nitschke,Australia,191,629,7,30.36565977742448,South Africa
+test,S Pandey,India,49,202,3,24.257425742574256,New Zealand
+test,S Prasanna,Sri Lanka,5,12,1,41.66666666666667,Bangladesh
+test,S Rana,India,121,301,4,40.19933554817276,New Zealand
+test,S Randiv,Sri Lanka,147,480,15,30.625000000000004,Bangladesh
+test,S Samarawickrama,Sri Lanka,281,374,12,75.1336898395722,Bangladesh
+test,S Sharma,India,4,17,1,23.52941176470588,New Zealand
+test,S Shillingford,West Indies,266,629,20,42.289348171701114,India
+test,S Shubha,India,97,129,2,75.1937984496124,New Zealand
+test,S Sreesanth,India,252,485,27,51.958762886597945,New Zealand
+test,S van Zyl,South Africa,395,779,15,50.70603337612324,England
+test,S von Berg,South Africa,40,111,2,36.03603603603604,England
+test,SA Yadav,India,8,20,1,40.0,New Zealand
+test,SB Odedra,England,2,35,2,5.714285714285714,South Africa
+test,SB Styris,New Zealand,867,1553,20,55.82743077913715,Bangladesh
+test,SC Cook,South Africa,632,1403,19,45.04632929436921,England
+test,SC Ganguly,India,2577,4420,55,58.30316742081448,New Zealand
+test,SC Joseph,West Indies,39,102,4,38.23529411764706,India
+test,SC Kerrigan,England,1,12,0,8.333333333333332,South Africa
+test,SC Kuggeleijn,New Zealand,92,122,6,75.40983606557377,Bangladesh
+test,SC Taylor,England,424,1136,7,37.32394366197183,South Africa
+test,SC Williams,Zimbabwe,1100,1886,31,58.32449628844114,New Zealand
+test,SCG MacGill,Australia,60,106,11,56.60377358490566,South Africa
+test,SCJ Broad,England,3662,5629,202,65.05596020607568,South Africa
+test,SD Hope,West Indies,1713,4115,68,41.62818955042527,India
+test,SD Robson,England,336,756,11,44.44444444444444,South Africa
+test,SD Udal,England,51,87,2,58.620689655172406,South Africa
+test,SE Bond,New Zealand,115,289,8,39.792387543252595,Bangladesh
+test,SE Marsh,Australia,2265,5173,65,43.785037695727816,South Africa
+test,SF Mire,Zimbabwe,78,135,4,57.77777777777777,New Zealand
+test,SG Borthwick,England,5,19,2,26.31578947368421,South Africa
+test,SH Lewis,West Indies,24,66,4,36.36363636363637,India
+test,SI Mahmood,England,81,161,10,50.31055900621118,South Africa
+test,SIR Dunkley,England,228,424,9,53.77358490566038,South Africa
+test,SJ Andrews,Australia,30,60,2,50.0,South Africa
+test,SJ Benn,West Indies,482,799,32,60.32540675844806,India
+test,SJ Coyte,Australia,3,14,2,21.428571428571427,South Africa
+test,SJ Elliott,Australia,196,597,3,32.83082077051927,South Africa
+test,SJ Erwee,South Africa,479,1108,18,43.23104693140794,England
+test,SJ Harmison,England,565,945,38,59.78835978835979,South Africa
+test,SJ Harmison,ICC World XI,1,9,2,11.11111111111111,
+test,SJ Taylor,England,264,535,12,49.34579439252336,South Africa
+test,SK Raina,India,768,1449,29,53.002070393374744,New Zealand
+test,SK Warne,Australia,465,713,22,65.21739130434783,South Africa
+test,SL Malinga,Sri Lanka,255,538,19,47.39776951672863,Bangladesh
+test,SM Boland,Australia,77,258,9,29.844961240310074,South Africa
+test,SM Curran,England,815,1272,33,64.07232704402516,South Africa
+test,SM Ervine,Zimbabwe,59,110,2,53.63636363636364,New Zealand
+test,SM Katich,Australia,3406,6826,70,49.897450922941694,South Africa
+test,SM Pollock,South Africa,1072,1774,33,60.42841037204059,England
+test,SM Warnapura,Sri Lanka,799,1364,21,58.577712609970675,Bangladesh
+test,SMSM Senanayake,Sri Lanka,5,15,1,33.33333333333333,Bangladesh
+test,SN Khan,India,371,495,9,74.94949494949495,New Zealand
+test,SN Thakur,India,331,523,17,63.28871892925431,New Zealand
+test,SNJ O'Keefe,Australia,86,433,8,19.861431870669747,South Africa
+test,SO Dowrich,West Indies,1528,3253,52,46.97202582231786,India
+test,SO Hetmyer,West Indies,825,1118,28,73.79248658318426,India
+test,SP Fleming,New Zealand,1690,3057,40,55.282957147530254,Bangladesh
+test,SP Jones,England,30,86,3,34.883720930232556,South Africa
+test,SP Narine,West Indies,40,92,5,43.47826086956522,India
+test,SPD Smith,Australia,10271,19237,182,53.3919010240682,South Africa
+test,SR Clark,Australia,248,355,19,69.85915492957746,South Africa
+test,SR Harmer,South Africa,221,624,12,35.41666666666667,England
+test,SR Patel,England,151,339,9,44.54277286135693,South Africa
+test,SR Tendulkar,India,6416,11899,124,53.92049752080007,New Zealand
+test,SR Thompson,Ireland,60,153,4,39.21568627450981,Pakistan
+test,SR Watson,Australia,3684,6990,107,52.7038626609442,South Africa
+test,SR Waugh,Australia,700,1134,11,61.72839506172839,South Africa
+test,SS Cottrell,West Indies,11,24,4,45.83333333333333,India
+test,SS Das,India,28,105,1,26.666666666666668,New Zealand
+test,SS Iyer,India,811,1288,22,62.965838509316775,New Zealand
+test,SSJ Brooks,West Indies,442,1042,23,42.41842610364684,India
+test,ST Finn,England,279,902,25,30.93126385809313,South Africa
+test,ST Gabriel,West Indies,229,661,53,34.64447806354009,India
+test,ST Jayasuriya,Sri Lanka,582,818,22,71.14914425427872,Bangladesh
+test,STR Binny,India,194,334,9,58.08383233532935,New Zealand
+test,SV Carlisle,Zimbabwe,211,544,10,38.786764705882355,New Zealand
+test,SV Collyer,England,3,24,2,12.5,South Africa
+test,SW Ambris,West Indies,166,356,12,46.62921348314607,India
+test,SW Billings,England,66,114,3,57.89473684210527,South Africa
+test,SW Masakadza,Zimbabwe,88,240,8,36.666666666666664,New Zealand
+test,SW Tait,Australia,12,20,2,60.0,South Africa
+test,Sabbir Rahman,Bangladesh,481,876,21,54.90867579908676,England
+test,Saeed Ajmal,Pakistan,451,1085,39,41.566820276497694,West Indies
+test,Saif Hassan,Bangladesh,159,308,11,51.62337662337663,England
+test,Saim Ayub,Pakistan,364,657,14,55.403348554033485,West Indies
+test,Sajedul Islam,Bangladesh,18,47,6,38.297872340425535,England
+test,Sajid Khan,Pakistan,206,360,15,57.22222222222222,West Indies
+test,Saleem Elahi,Pakistan,67,229,4,29.257641921397383,West Indies
+test,Salman Butt,Pakistan,1619,3533,50,45.82507783753184,West Indies
+test,Sami Aslam,Pakistan,758,1941,23,39.05203503348789,West Indies
+test,Saqlain Mushtaq,Pakistan,34,158,6,21.518987341772153,West Indies
+test,Sarandeep Singh,India,4,16,1,25.0,New Zealand
+test,Sarfraz Ahmed,Pakistan,3031,4325,84,70.08092485549133,West Indies
+test,Saud Shakeel,Pakistan,1658,3349,34,49.50731561660197,West Indies
+test,Shabbir Ahmed,Pakistan,41,88,4,46.590909090909086,West Indies
+test,Shadab Khan,Pakistan,300,480,9,62.5,West Indies
+test,Shadman Islam,Bangladesh,1018,2149,39,47.3708701721731,England
+test,Shafali Verma,India,567,765,8,74.11764705882354,New Zealand
+test,Shafiul Islam,Bangladesh,211,439,19,48.063781321184514,England
+test,Shahadat Hossain,Bangladesh,697,1553,61,44.880875724404376,England
+test,Shaheen Shah Afridi,Pakistan,249,558,30,44.623655913978496,West Indies
+test,Shahid Afridi,Pakistan,401,351,11,114.24501424501426,West Indies
+test,Shahid Nazir,Pakistan,84,176,6,47.72727272727273,West Indies
+test,Shahriar Nafees,Bangladesh,1188,2090,46,56.84210526315789,England
+test,Shakib Al Hasan,Bangladesh,4356,6984,116,62.371134020618555,England
+test,Shamsur Rahman,Bangladesh,305,641,12,47.581903276131044,England
+test,Shan Masood,Pakistan,2380,4546,79,52.35371755389353,West Indies
+test,Sharjeel Khan,Pakistan,44,45,2,97.77777777777777,West Indies
+test,Shoaib Akhtar,Pakistan,203,460,14,44.130434782608695,West Indies
+test,Shoaib Bashir,England,76,207,10,36.71497584541063,South Africa
+test,Shoaib Malik,Pakistan,1288,2704,39,47.633136094674555,West Indies
+test,Shoriful Islam,Bangladesh,138,191,15,72.25130890052355,England
+test,Shubman Gill,India,1893,3161,53,59.886111989876625,New Zealand
+test,Shuvagata Hom,Bangladesh,244,438,11,55.70776255707762,England
+test,Sikandar Raza,Zimbabwe,1104,2011,33,54.898060666335155,New Zealand
+test,Sohag Gazi,Bangladesh,325,529,15,61.43667296786389,England
+test,Sohail Khan,Pakistan,252,329,9,76.59574468085107,West Indies
+test,Sohail Tanvir,Pakistan,17,44,3,38.63636363636363,West Indies
+test,Soumya Sarkar,Bangladesh,799,1319,28,60.57619408642911,England
+test,Subashis Roy,Bangladesh,14,60,1,23.333333333333332,England
+test,Suhrawadi Shuvo,Bangladesh,15,40,2,37.5,England
+test,Sunzamul Islam,Bangladesh,24,57,1,42.10526315789473,England
+test,Syed Rasel,Bangladesh,37,96,8,38.54166666666667,England
+test,T Bavuma,South Africa,3606,7340,96,49.12806539509537,England
+test,T Bhatia,India,66,169,2,39.053254437869825,New Zealand
+test,T Brits,South Africa,36,178,2,20.224719101123593,England
+test,T Chanderpaul,West Indies,560,1434,16,39.05160390516039,India
+test,T Duffin,Zimbabwe,58,136,2,42.64705882352941,New Zealand
+test,T Gwandu,Zimbabwe,20,97,1,20.618556701030926,New Zealand
+test,T Kaitano,Zimbabwe,134,499,4,26.853707414829657,New Zealand
+test,T Kamungozi,Zimbabwe,5,10,2,50.0,New Zealand
+test,T Makoni,Zimbabwe,43,124,4,34.67741935483871,New Zealand
+test,T Maruma,Zimbabwe,68,186,7,36.55913978494624,New Zealand
+test,T Murphy,Australia,122,206,9,59.22330097087378,South Africa
+test,T Natarajan,India,1,9,0,11.11111111111111,New Zealand
+test,T Panyangara,Zimbabwe,73,198,8,36.868686868686865,New Zealand
+test,T Shamsi,South Africa,20,49,1,40.816326530612244,England
+test,T Stubbs,South Africa,500,958,14,52.19206680584551,England
+test,T Taibu,Zimbabwe,657,1667,23,39.412117576484704,New Zealand
+test,T Thushara,Sri Lanka,70,154,8,45.45454545454545,Bangladesh
+test,T Westley,England,193,455,8,42.417582417582416,South Africa
+test,T de Zorzi,South Africa,600,1104,20,54.347826086956516,England
+test,TA Blundell,New Zealand,2138,4018,63,53.210552513688405,Bangladesh
+test,TA Boult,New Zealand,759,1267,49,59.905288082083665,Bangladesh
+test,TA Copeland,Australia,39,77,3,50.649350649350644,South Africa
+test,TA Imlach,West Indies,55,94,4,58.51063829787234,India
+test,TA McGregor,Australia,0,6,0,0.0,South Africa
+test,TAM Siriwardana,Sri Lanka,298,455,9,65.49450549450549,Bangladesh
+test,TB de Bruyn,South Africa,468,1013,23,46.199407699901286,England
+test,TD Astle,New Zealand,98,257,5,38.13229571984436,Bangladesh
+test,TD Paine,Australia,1534,3362,51,45.627602617489586,South Africa
+test,TE Kane,Ireland,14,98,2,14.285714285714285,Pakistan
+test,TE Tsiga,Zimbabwe,72,233,7,30.90128755364807,New Zealand
+test,TG McIntosh,New Zealand,657,1870,30,35.13368983957219,Bangladesh
+test,TG Southee,New Zealand,2245,2723,145,82.44583180315827,Bangladesh
+test,TJ Murtagh,Ireland,28,25,3,112.00000000000001,Pakistan
+test,TK Curran,England,66,120,2,55.00000000000001,South Africa
+test,TK Musakanda,Zimbabwe,71,165,5,43.03030303030303,New Zealand
+test,TL Best,West Indies,232,359,15,64.62395543175488,India
+test,TL Chatara,Zimbabwe,94,201,15,46.766169154228855,New Zealand
+test,TL Chivanga,Zimbabwe,34,98,4,34.69387755102041,New Zealand
+test,TL Moreki,South Africa,15,68,2,22.058823529411764,England
+test,TL Tsolekile,South Africa,25,84,3,29.761904761904763,England
+test,TM Dilshan,Sri Lanka,4384,6282,98,69.78669213626235,Bangladesh
+test,TM Dowlin,West Indies,343,742,11,46.22641509433962,India
+test,TM Head,Australia,3719,5491,86,67.7290111090876,South Africa
+test,TM McGrath,Australia,358,716,10,50.0,South Africa
+test,TMK Mawoyo,Zimbabwe,615,1665,21,36.93693693693694,New Zealand
+test,TR Ambrose,England,447,964,15,46.36929460580913,South Africa
+test,TR Gripper,Zimbabwe,124,311,6,39.87138263665595,New Zealand
+test,TS Chisoro,Zimbabwe,27,62,5,43.54838709677419,New Zealand
+test,TS Roland-Jones,England,82,119,4,68.90756302521008,South Africa
+test,TS Sekhukhune,South Africa,61,243,0,25.102880658436217,England
+test,TT Beaumont,England,612,1257,17,48.6873508353222,South Africa
+test,TT Bresnan,England,575,1463,23,39.302802460697194,South Africa
+test,TT Samaraweera,Sri Lanka,3890,7992,73,48.673673673673676,Bangladesh
+test,TW Hartley,England,185,284,10,65.14084507042254,South Africa
+test,TWM Latham,New Zealand,5834,12305,153,47.411621292157655,Bangladesh
+test,Taijul Islam,Bangladesh,782,2092,78,37.380497131931165,England
+test,Tamim Iqbal,Bangladesh,5019,8596,127,58.387622149837135,England
+test,Tanvir Ahmed (1),Pakistan,170,272,5,62.5,West Indies
+test,Tanzim Hasan Sakib,Bangladesh,41,80,1,51.24999999999999,England
+test,Tapash Baisya,Bangladesh,133,146,8,91.0958904109589,England
+test,Taskin Ahmed,Bangladesh,259,558,24,46.415770609319,England
+test,Taufeeq Umar,Pakistan,1867,4189,46,44.56910957269038,West Indies
+test,Tushar Imran,Bangladesh,37,107,4,34.57943925233645,England
+test,UDU Chandana,Sri Lanka,195,313,6,62.30031948881789,Bangladesh
+test,UT Khawaja,Australia,5930,12144,130,48.830698287220024,South Africa
+test,UT Yadav,India,434,863,40,50.28968713789108,New Zealand
+test,UWMBCA Welegedara,Sri Lanka,218,423,23,51.536643026004725,Bangladesh
+test,Umar Akmal,Pakistan,1003,1525,28,65.77049180327869,West Indies
+test,Umar Amin,Pakistan,99,198,8,50.0,West Indies
+test,Umar Gul,Pakistan,532,1087,52,48.942042318307266,West Indies
+test,Usman Salahuddin,Pakistan,37,120,2,30.833333333333336,West Indies
+test,V Kohli,India,9230,16655,201,55.41879315520865,New Zealand
+test,V Masekesa,Zimbabwe,10,29,1,34.48275862068966,New Zealand
+test,V Permaul,West Indies,145,290,11,50.0,India
+test,V Sehwag,ICC World XI,83,96,2,86.45833333333334,
+test,V Sehwag,India,5886,6963,129,84.53252908229211,New Zealand
+test,V Sibanda,Zimbabwe,545,1101,24,49.50045413260672,New Zealand
+test,VA Singh,West Indies,63,199,6,31.65829145728643,India
+test,VC Drakes,West Indies,75,149,3,50.33557046979866,India
+test,VD Philander,South Africa,1779,4007,74,44.397304716745694,England
+test,VM Nyauchi,Zimbabwe,77,199,8,38.69346733668342,New Zealand
+test,VR Aaron,India,35,110,9,31.818181818181817,New Zealand
+test,VRV Singh,India,47,42,4,111.90476190476191,New Zealand
+test,VVS Laxman,India,5411,10968,106,49.33442742523705,New Zealand
+test,W Jaffer,India,1662,3385,43,49.09896602658789,New Zealand
+test,W Madhevere,Zimbabwe,199,397,7,50.12594458438288,New Zealand
+test,W O'Rourke,New Zealand,18,194,5,9.278350515463918,Bangladesh
+test,WA Young,New Zealand,1063,2361,34,45.02329521389242,Bangladesh
+test,WB Rankin,England,13,24,2,54.166666666666664,South Africa
+test,WB Rankin,Ireland,30,75,3,40.0,Pakistan
+test,WD Parnell,South Africa,67,182,4,36.81318681318682,England
+test,WER Somerville,New Zealand,115,489,8,23.517382413087933,Bangladesh
+test,WG Jacks,England,89,90,4,98.88888888888889,South Africa
+test,WJ Pucovski,Australia,72,126,2,57.14285714285714,South Africa
+test,WP Masakadza,Zimbabwe,78,323,9,24.148606811145513,New Zealand
+test,WP Saha,India,1353,2980,46,45.40268456375839,New Zealand
+test,WPUJC Vaas,Sri Lanka,918,1929,25,47.58942457231726,Bangladesh
+test,WTS Porterfield,Ireland,49,199,4,24.623115577889447,Pakistan
+test,WU Tharanga,Sri Lanka,1682,3084,54,54.539559014267184,Bangladesh
+test,WW Hinds,West Indies,131,274,7,47.81021897810219,India
+test,Wahab Riaz,Pakistan,306,729,36,41.9753086419753,West Indies
+test,Waqar Younis,Pakistan,52,71,4,73.23943661971832,West Indies
+test,Washington Sundar,India,468,1020,13,45.88235294117647,New Zealand
+test,XJ Doherty,Australia,51,159,3,32.075471698113205,South Africa
+test,XM Marshall,West Indies,182,312,5,58.333333333333336,India
+test,YBK Jaiswal,India,1798,2744,34,65.52478134110787,New Zealand
+test,YH Bhatia,India,98,162,5,60.49382716049383,New Zealand
+test,Yasir Ali,Pakistan,1,5,0,20.0,West Indies
+test,Yasir Ali Chowdhury,Bangladesh,205,446,10,45.964125560538115,England
+test,Yasir Arafat,Pakistan,94,201,2,46.766169154228855,West Indies
+test,Yasir Hameed,Pakistan,426,765,21,55.68627450980392,West Indies
+test,Yasir Shah,Pakistan,918,1951,64,47.05279343926192,West Indies
+test,Younis Khan,Pakistan,7135,13800,137,51.70289855072464,West Indies
+test,Yousuf Youhana,Pakistan,201,264,10,76.13636363636364,West Indies
+test,Yuvraj Singh,India,1534,2634,47,58.238420652999245,New Zealand
+test,Z Crawley,England,3023,4591,97,65.84622086691353,South Africa
+test,Z Khan,India,930,1817,69,51.18326912493121,New Zealand
+test,Z de Bruyn,South Africa,130,345,2,37.68115942028986,England
+test,ZS Ansari,England,49,136,5,36.029411764705884,South Africa
+test,Zafar Gohar,Pakistan,71,127,2,55.90551181102362,West Indies
+test,Zahid Mahmood,Pakistan,20,110,5,18.181818181818183,West Indies
+test,Zakir Hasan,Bangladesh,521,1112,23,46.852517985611506,England
+test,Ziaur Rahman,Bangladesh,14,40,2,35.0,England
+test,Zubayr Hamza,South Africa,307,740,16,41.486486486486484,England
+test,Zulfiqar Babar,Pakistan,144,207,9,69.56521739130434,West Indies
+test,Zulqarnain Haider,Pakistan,88,201,2,43.78109452736319,West Indies
