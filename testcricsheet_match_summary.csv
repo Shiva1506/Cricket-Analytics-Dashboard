@@ -1,0 +1,865 @@
+match_id,date,venue,city,match_type,team1,team2,toss_winner,toss_decision,winner,total_runs,total_wickets,total_balls,total_overs
+1000851,2016-11-03,Western Australia Cricket Association Ground,Perth,Test,Australia,South Africa,South Africa,bat,South Africa,1387,38,2499,416.5
+1000853,2016-11-12,Bellerive Oval,Hobart,Test,Australia,South Africa,South Africa,field,South Africa,572,30,1165,194.17
+1000855,2016-11-24,Adelaide Oval,,Test,Australia,South Africa,South Africa,bat,Australia,1019,32,1952,325.33
+1000881,2016-12-15,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,Pakistan,Australia,bat,Australia,1223,35,2227,371.17
+1000883,2016-12-26,Melbourne Cricket Ground,,Test,Australia,Pakistan,Pakistan,bat,Australia,1230,27,1949,324.83
+1000885,2017-01-03,Sydney Cricket Ground,,Test,Australia,Pakistan,Australia,bat,Australia,1338,30,2156,359.33
+1019985,2017-01-12,Basin Reserve,Wellington,Test,New Zealand,Bangladesh,New Zealand,field,New Zealand,1511,31,2394,399.0
+1019987,2017-01-20,Hagley Oval,Christchurch,Test,New Zealand,Bangladesh,New Zealand,field,New Zealand,927,31,1504,250.67
+1019993,2016-11-17,Hagley Oval,Christchurch,Test,New Zealand,Pakistan,New Zealand,field,New Zealand,612,32,1363,227.17
+1019995,2016-11-25,Seddon Park,Hamilton,Test,New Zealand,Pakistan,Pakistan,field,New Zealand,1030,35,1980,330.0
+1020041,2017-03-08,University Oval,Dunedin,Test,New Zealand,South Africa,South Africa,bat,,873,26,2041,340.17
+1020043,2017-03-16,Basin Reserve,Wellington,Test,New Zealand,South Africa,South Africa,field,South Africa,881,32,1600,266.67
+1020045,2017-03-25,Seddon Park,Hamilton,Test,New Zealand,South Africa,South Africa,bat,,883,25,1750,291.67
+1022593,2016-07-21,"Sir Vivian Richards Stadium, North Sound",Antigua,Test,West Indies,India,India,bat,India,1040,28,1997,332.83
+1022595,2016-07-30,"Sabina Park, Kingston",Jamaica,Test,West Indies,India,West Indies,bat,,1084,25,1993,332.17
+1022597,2016-08-09,"Darren Sammy National Cricket Stadium, Gros Islet",St Lucia,Test,West Indies,India,West Indies,field,India,903,37,1994,332.33
+1022599,2016-08-18,"Queen's Park Oval, Port of Spain",Trinidad,Test,West Indies,India,West Indies,bat,,62,2,133,22.17
+1024041,2016-07-28,Queens Sports Club,Bulawayo,Test,Zimbabwe,New Zealand,Zimbabwe,bat,New Zealand,1035,26,1958,326.33
+1024043,2016-08-06,Queens Sports Club,Bulawayo,Test,Zimbabwe,New Zealand,New Zealand,bat,New Zealand,1242,26,2403,400.5
+1029825,2016-10-20,Zahur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,England,England,bat,England,1044,40,2126,354.33
+1029827,2016-10-28,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,England,Bangladesh,bat,Bangladesh,924,40,1549,258.17
+1030213,2016-09-22,Green Park,Kanpur,Test,India,New Zealand,India,bat,India,1193,35,2329,388.17
+1030215,2016-09-30,Eden Gardens,Kolkata,Test,India,New Zealand,India,bat,India,980,40,1900,316.67
+1030217,2016-10-08,Holkar Cricket Stadium,Indore,Test,India,New Zealand,India,bat,India,1220,28,2125,354.17
+1031437,2017-07-06,Lord's,London,Test,England,South Africa,England,bat,England,1171,40,2019,336.5
+1031439,2017-07-14,Trent Bridge,Nottingham,Test,South Africa,England,South Africa,bat,South Africa,1016,39,1780,296.67
+1031441,2017-07-27,Kennington Oval,London,Test,England,South Africa,England,bat,England,1093,38,1925,320.83
+1031443,2017-08-04,Old Trafford,Manchester,Test,England,South Africa,England,bat,England,1033,40,1883,313.83
+1031659,2017-08-17,Edgbaston,Birmingham,Test,England,West Indies,England,bat,England,819,28,1383,230.5
+1031661,2017-08-25,Headingley,Leeds,Test,England,West Indies,England,bat,West Indies,1497,33,2611,435.17
+1031663,2017-09-07,Lord's,London,Test,West Indies,England,West Indies,bat,England,601,31,1231,205.17
+1034809,2016-11-09,Saurashtra Cricket Association Stadium,Rajkot,Test,India,England,England,bat,,1457,29,2700,450.0
+1034811,2016-11-17,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Test,India,England,India,bat,India,1072,40,2360,393.33
+1034813,2016-11-26,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Test,India,England,England,bat,India,1040,32,2063,343.83
+1034815,2016-12-08,Wankhede Stadium,Mumbai,Test,India,England,England,bat,India,1226,30,2215,369.17
+1034817,2016-12-16,"MA Chidambaram Stadium, Chepauk",Chennai,Test,India,England,England,bat,India,1443,27,2619,436.5
+1041761,2017-02-09,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Test,India,Bangladesh,India,bat,India,1484,30,2547,424.5
+1050229,2016-10-13,Dubai International Cricket Stadium,,Test,Pakistan,West Indies,Pakistan,bat,Pakistan,1348,33,2551,425.17
+1050231,2016-10-21,Sheikh Zayed Stadium,Abu Dhabi,Test,Pakistan,West Indies,Pakistan,bat,Pakistan,1225,32,2347,391.17
+1050233,2016-10-30,Sharjah Cricket Stadium,,Test,Pakistan,West Indies,Pakistan,bat,West Indies,980,35,2009,334.83
+1059702,2016-10-29,Harare Sports Club,,Test,Zimbabwe,Sri Lanka,Sri Lanka,bat,Sri Lanka,1343,36,2496,416.0
+1059703,2016-11-06,Harare Sports Club,,Test,Zimbabwe,Sri Lanka,Zimbabwe,field,Sri Lanka,1267,39,2204,367.33
+1062573,2017-02-23,Maharashtra Cricket Association Stadium,Pune,Test,India,Australia,Australia,bat,Australia,757,40,1542,257.0
+1062574,2017-03-04,M Chinnaswamy Stadium,Bengaluru,Test,India,Australia,India,bat,India,851,40,1968,328.0
+1062575,2017-03-16,JSCA International Stadium Complex,Ranchi,Test,India,Australia,Australia,bat,,1258,25,2690,448.33
+1062576,2017-03-25,Himachal Pradesh Cricket Association Stadium,Dharamsala,Test,India,Australia,Australia,bat,India,875,32,1707,284.5
+1072305,2017-11-23,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,England,Australia,England,bat,Australia,998,30,2222,370.33
+1072306,2017-12-02,Adelaide Oval,,Test,Australia,England,England,field,Australia,1040,38,2209,368.17
+1072307,2017-12-14,W.A.C.A. Ground,Perth,Test,England,Australia,England,bat,Australia,1283,29,2210,368.33
+1072308,2017-12-26,Melbourne Cricket Ground,,Test,Australia,England,Australia,bat,,1081,24,2329,388.17
+1072309,2018-01-04,Sydney Cricket Ground,,Test,England,Australia,England,bat,Australia,1175,27,2367,394.5
+1075502,2017-09-28,Senwes Park,Potchefstroom,Test,South Africa,Bangladesh,Bangladesh,field,South Africa,1153,29,1949,324.83
+1075503,2017-10-06,Mangaung Oval,Bloemfontein,Test,South Africa,Bangladesh,Bangladesh,field,South Africa,892,24,1239,206.5
+1075982,2018-03-01,Kingsmead,Durban,Test,Australia,South Africa,Australia,bat,Australia,1038,40,1979,329.83
+1075983,2018-03-09,St George's Park,Port Elizabeth,Test,Australia,South Africa,Australia,bat,South Africa,966,34,1755,292.5
+1075984,2018-03-22,Newlands,Cape Town,Test,South Africa,Australia,South Africa,bat,South Africa,1046,40,1930,321.67
+1075985,2018-03-30,The Wanderers Stadium,Johannesburg,Test,South Africa,Australia,South Africa,bat,South Africa,1172,36,2162,360.33
+1077953,2017-04-21,"Sabina Park, Kingston",Jamaica,Test,West Indies,Pakistan,Pakistan,field,Pakistan,881,33,1796,299.33
+1077954,2017-04-30,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,Pakistan,West Indies,bat,West Indies,1054,40,2279,379.83
+1077955,2017-05-10,"Windsor Park, Roseau",Dominica,Test,West Indies,Pakistan,West Indies,field,Pakistan,999,38,2518,419.67
+1083444,2017-03-07,Galle International Stadium,,Test,Sri Lanka,Bangladesh,Sri Lanka,bat,Sri Lanka,1277,36,2155,359.17
+1083445,2017-03-15,P Sara Oval,Colombo,Test,Sri Lanka,Bangladesh,Sri Lanka,bat,Bangladesh,1315,36,2521,420.17
+1086066,2017-11-09,"North Sydney Oval, Sydney",Sydney,Test,England,Australia,England,bat,,934,21,2332,388.67
+1104284,2017-08-27,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Bangladesh,Australia,Bangladesh,bat,Bangladesh,942,40,1829,304.83
+1104285,2017-09-04,Zahur Ahmed Chowdhury Stadium,Chattogram,Test,Bangladesh,Australia,Bangladesh,bat,Australia,926,33,1921,320.17
+1104483,2017-07-14,"R.Premadasa Stadium, Khettarama",Colombo,Test,Zimbabwe,Sri Lanka,Zimbabwe,bat,Sri Lanka,1470,36,2531,421.83
+1109602,2017-07-26,Galle International Stadium,,Test,India,Sri Lanka,India,bat,India,1376,30,2065,344.17
+1109603,2017-08-03,Sinhalese Sports Club Ground,Colombo,Test,India,Sri Lanka,India,bat,India,1191,29,1953,325.5
+1109604,2017-08-12,Pallekele International Cricket Stadium,,Test,India,Sri Lanka,India,bat,India,803,30,1419,236.5
+1115780,2018-03-22,Eden Park,Auckland,Test,England,New Zealand,New Zealand,field,New Zealand,805,28,1731,288.5
+1115781,2018-03-30,Hagley Oval,Christchurch,Test,England,New Zealand,New Zealand,field,,1193,37,2538,423.0
+1115793,2017-12-01,Basin Reserve,Wellington,Test,West Indies,New Zealand,New Zealand,field,New Zealand,973,29,1820,303.33
+1115794,2017-12-09,Seddon Park,Hamilton,Test,New Zealand,West Indies,West Indies,field,New Zealand,1088,38,1897,316.17
+1119535,2018-05-24,Lord's,London,Test,England,Pakistan,England,bat,Pakistan,855,31,1612,268.67
+1119536,2018-06-01,Headingley,Leeds,Test,Pakistan,England,Pakistan,bat,England,671,30,1204,200.67
+1119549,2018-08-01,Edgbaston,Birmingham,Test,England,India,England,bat,England,903,40,1644,274.0
+1119550,2018-08-09,Lord's,London,Test,India,England,England,field,England,633,27,1026,171.0
+1119551,2018-08-18,Trent Bridge,Nottingham,Test,India,England,England,field,India,1159,37,2097,349.5
+1119552,2018-08-30,The Rose Bowl,Southampton,Test,England,India,England,bat,England,974,40,1974,329.0
+1119553,2018-09-07,Kennington Oval,London,Test,England,India,England,bat,England,1392,38,2546,424.33
+1120284,2017-09-28,Sheikh Zayed Stadium,Abu Dhabi,Test,Sri Lanka,Pakistan,Sri Lanka,bat,Sri Lanka,1093,40,2606,434.33
+1120285,2017-10-06,Dubai International Cricket Stadium,,Test,Sri Lanka,Pakistan,Sri Lanka,bat,Sri Lanka,1088,40,2217,369.5
+1122276,2018-01-05,Newlands,Cape Town,Test,South Africa,India,South Africa,bat,South Africa,760,40,1388,231.33
+1122277,2018-01-13,SuperSport Park,Centurion,Test,South Africa,India,South Africa,bat,South Africa,1051,40,2093,348.83
+1122278,2018-01-24,The Wanderers Stadium,Johannesburg,Test,India,South Africa,India,bat,India,805,40,1792,298.67
+1122310,2017-12-26,"St George's Park, Port Elizabeth",Port Elizabeth,Test,South Africa,Zimbabwe,South Africa,bat,South Africa,498,29,912,152.0
+1122723,2017-11-16,Eden Gardens,Kolkata,Test,India,Sri Lanka,Sri Lanka,field,,893,35,1556,259.33
+1122724,2017-11-24,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Test,Sri Lanka,India,Sri Lanka,bat,India,981,26,1831,305.17
+1122725,2017-12-02,Arun Jaitley Stadium,Delhi,Test,India,Sri Lanka,India,bat,,1454,28,2526,421.0
+1122886,2017-10-21,Queens Sports Club,Bulawayo,Test,West Indies,Zimbabwe,West Indies,bat,West Indies,1067,40,2168,361.33
+1122887,2017-10-29,Queens Sports Club,Bulawayo,Test,Zimbabwe,West Indies,Zimbabwe,bat,,1075,27,2594,432.33
+1127284,2018-05-11,"The Village, Malahide",Dublin,Test,Ireland,Pakistan,Ireland,field,Pakistan,939,34,1925,320.83
+1130744,2018-01-31,Zahur Ahmed Chowdhury Stadium,Chattogram,Test,Bangladesh,Sri Lanka,Bangladesh,bat,,1533,24,2592,432.0
+1130745,2018-02-08,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Sri Lanka,Bangladesh,Sri Lanka,bat,Sri Lanka,681,40,1289,214.83
+1135149,2018-06-06,"Queen's Park Oval, Port of Spain",Trinidad,Test,West Indies,Sri Lanka,West Indies,bat,West Indies,1048,35,2213,368.83
+1135150,2018-06-14,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,Test,Sri Lanka,West Indies,Sri Lanka,bat,,1042,35,2014,335.67
+1135151,2018-06-23,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,Sri Lanka,West Indies,bat,Sri Lanka,595,36,1207,201.17
+1140385,2018-11-06,Galle International Stadium,,Test,England,Sri Lanka,England,bat,England,1117,36,2061,343.5
+1140386,2018-11-14,Pallekele International Cricket Stadium,,Test,England,Sri Lanka,England,bat,England,1210,40,2000,333.33
+1140387,2018-11-23,Sinhalese Sports Club Ground,Colombo,Test,England,Sri Lanka,England,bat,England,1090,40,1904,317.33
+1142581,2018-07-12,Galle International Stadium,,Test,Sri Lanka,South Africa,Sri Lanka,bat,Sri Lanka,676,40,1323,220.5
+1142582,2018-07-20,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,South Africa,Sri Lanka,bat,Sri Lanka,1027,35,1853,308.83
+1144153,2018-12-26,SuperSport Park,Centurion,Test,South Africa,Pakistan,Pakistan,bat,South Africa,745,34,1290,215.0
+1144154,2019-01-03,Newlands,Cape Town,Test,South Africa,Pakistan,South Africa,field,South Africa,945,32,1550,258.33
+1144155,2019-01-11,The Wanderers Stadium,Johannesburg,Test,South Africa,Pakistan,South Africa,bat,South Africa,1023,40,1650,275.0
+1144164,2019-02-13,Kingsmead,Durban,Test,South Africa,Sri Lanka,Sri Lanka,field,Sri Lanka,989,39,1711,285.17
+1144165,2019-02-21,St George's Park,Port Elizabeth,Test,South Africa,Sri Lanka,South Africa,bat,Sri Lanka,701,31,1142,190.33
+1144993,2018-12-06,Adelaide Oval,,Test,India,Australia,India,bat,India,1083,40,2488,414.67
+1144994,2018-12-14,Perth Stadium,,Test,Australia,India,Australia,bat,Australia,992,40,2196,366.0
+1144995,2018-12-26,Melbourne Cricket Ground,Melbourne,Test,Australia,India,India,bat,India,961,35,2188,364.67
+1144996,2019-01-03,Sydney Cricket Ground,Sydney,Test,Australia,India,India,bat,,928,17,1659,276.5
+1145000,2019-01-24,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,Sri Lanka,Sri Lanka,bat,Australia,606,29,1294,215.67
+1145001,2019-02-01,Manuka Oval,Canberra,Test,Australia,Sri Lanka,Australia,bat,Australia,1094,28,1816,302.67
+1146717,2018-07-04,Sir Vivian Richards Stadium,North Sound,Test,Bangladesh,West Indies,West Indies,field,West Indies,593,30,1187,197.83
+1146718,2018-07-12,"Sabina Park, Kingston",Jamaica,Test,West Indies,Bangladesh,Bangladesh,field,West Indies,800,40,1484,247.33
+1152839,2019-07-24,Lord's,London,Test,England,Ireland,England,bat,England,633,40,1062,177.0
+1152846,2019-08-01,Edgbaston,Birmingham,Test,England,Australia,Australia,bat,Australia,1291,37,2302,383.67
+1152847,2019-08-14,Lord's,London,Test,England,Australia,Australia,field,,920,31,1749,291.5
+1152848,2019-08-22,Headingley,Leeds,Test,England,Australia,England,field,England,854,39,1705,284.17
+1152849,2019-09-04,Old Trafford,Manchester,Test,England,Australia,Australia,bat,Australia,1181,34,2222,370.33
+1152850,2019-09-12,Kennington Oval,London,Test,England,Australia,Australia,field,England,1111,40,1978,329.67
+1153311,2018-11-22,Zahur Ahmed Chowdhury Stadium,Chattogram,Test,Bangladesh,West Indies,Bangladesh,bat,Bangladesh,834,40,1376,229.33
+1153312,2018-11-30,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Bangladesh,West Indies,Bangladesh,bat,Bangladesh,832,30,1505,250.83
+1153639,2018-11-03,Sylhet International Cricket Stadium,,Test,Zimbabwe,Bangladesh,Zimbabwe,bat,Zimbabwe,775,40,1784,297.33
+1153640,2018-11-11,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Bangladesh,Zimbabwe,Bangladesh,bat,Bangladesh,1274,31,2422,403.67
+1153838,2018-12-15,"Basin Reserve, Wellington",Wellington,Test,Sri Lanka,New Zealand,New Zealand,field,,1147,23,2187,364.5
+1153839,2018-12-26,Hagley Oval,Christchurch,Test,New Zealand,Sri Lanka,Sri Lanka,field,New Zealand,1103,34,2110,351.67
+1153847,2019-02-28,Seddon Park,Hamilton,Test,New Zealand,Bangladesh,New Zealand,field,New Zealand,1378,26,1962,327.0
+1153848,2019-03-08,Basin Reserve,Wellington,Test,New Zealand,Bangladesh,New Zealand,field,New Zealand,852,26,1221,203.5
+1157370,2018-10-07,Dubai International Cricket Stadium,,Test,Pakistan,Australia,Pakistan,bat,,1227,34,2679,446.5
+1157371,2018-10-16,Sheikh Zayed Stadium,Abu Dhabi,Test,Pakistan,Australia,Pakistan,bat,Pakistan,991,38,1814,302.33
+1157381,2018-11-16,Sheikh Zayed Stadium,Abu Dhabi,Test,New Zealand,Pakistan,New Zealand,bat,New Zealand,800,40,1859,309.83
+1157382,2018-11-24,Dubai International Cricket Stadium,,Test,Pakistan,New Zealand,Pakistan,bat,Pakistan,820,25,1894,315.67
+1157383,2018-12-03,Sheikh Zayed Stadium,Abu Dhabi,Test,New Zealand,Pakistan,New Zealand,bat,New Zealand,1131,37,2525,420.83
+1157752,2018-10-04,Saurashtra Cricket Association Stadium,Rajkot,Test,India,West Indies,India,bat,India,1026,29,1497,249.5
+1157753,2018-10-12,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Test,West Indies,India,West Indies,bat,India,880,30,1630,271.67
+1158062,2019-01-23,"Kensington Oval, Barbados",Bridgetown,Test,West Indies,England,West Indies,bat,West Indies,1027,36,1903,317.17
+1158063,2019-01-31,"Sir Vivian Richards Stadium, Antigua",North Sound,Test,West Indies,England,West Indies,field,West Indies,642,30,1424,237.33
+1158064,2019-02-09,"Daren Sammy National Cricket Stadium, St Lucia",Gros Islet,Test,West Indies,England,West Indies,field,England,1044,35,1978,329.67
+1168025,2019-07-18,The Cooper Associates County Ground,Taunton,Test,England,Australia,Australia,bat,,925,24,1962,327.0
+1183530,2019-11-21,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,Pakistan,Pakistan,bat,Australia,1155,30,1977,329.5
+1183531,2019-11-29,Adelaide Oval,Adelaide,Test,Australia,Pakistan,Australia,bat,Australia,1130,23,1830,305.0
+1183532,2019-12-12,Perth Stadium,Perth,Test,Australia,New Zealand,Australia,bat,Australia,970,39,2041,340.17
+1183533,2019-12-26,Melbourne Cricket Ground,Melbourne,Test,Australia,New Zealand,New Zealand,field,Australia,1023,34,2027,337.83
+1183534,2020-01-03,Sydney Cricket Ground,Sydney,Test,Australia,New Zealand,Australia,bat,Australia,1058,31,2078,346.33
+1185304,2019-12-26,SuperSport Park,Centurion,Test,South Africa,England,England,field,South Africa,1005,40,1771,295.17
+1185305,2020-01-03,Newlands,Cape Town,Test,South Africa,England,England,bat,England,1131,38,2588,431.33
+1185306,2020-01-16,St George's Park,Port Elizabeth,Test,South Africa,England,England,bat,England,945,29,1976,329.33
+1185307,2020-01-24,The Wanderers Stadium,Johannesburg,Test,South Africa,England,England,bat,England,1105,40,1845,307.5
+1187007,2019-10-02,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Test,India,South Africa,India,bat,India,1447,31,2397,399.5
+1187008,2019-10-10,Maharashtra Cricket Association Stadium,Pune,Test,India,South Africa,India,bat,India,1065,25,1990,331.67
+1187009,2019-10-19,JSCA International Stadium Complex,Ranchi,Test,India,South Africa,India,bat,India,792,30,1327,221.17
+1187016,2019-11-14,Holkar Cricket Stadium,Indore,Test,India,Bangladesh,Bangladesh,bat,India,856,26,1460,243.33
+1187017,2019-11-22,Eden Gardens,Kolkata,Test,India,Bangladesh,Bangladesh,bat,India,648,30,973,162.17
+1187671,2019-11-21,Bay Oval,Mount Maunganui,Test,New Zealand,England,England,bat,New Zealand,1165,29,2547,424.5
+1187672,2019-11-29,Seddon Park,Hamilton,Test,New Zealand,England,England,field,,1092,22,2208,368.0
+1187685,2020-02-21,Basin Reserve,Wellington,Test,New Zealand,India,New Zealand,field,New Zealand,713,30,1513,252.17
+1187686,2020-02-29,Hagley Oval,Christchurch,Test,New Zealand,India,New Zealand,field,New Zealand,733,33,1311,218.5
+1188628,2019-08-22,"Sir Vivian Richards Stadium, Antigua",North Sound,Test,West Indies,India,West Indies,field,India,962,37,1868,311.33
+1188629,2019-08-30,"Sabina Park, Jamaica",Kingston,Test,West Indies,India,West Indies,field,India,911,35,1816,302.67
+1192873,2019-08-14,Galle International Stadium,Galle,Test,Sri Lanka,New Zealand,New Zealand,bat,Sri Lanka,1069,34,2217,369.5
+1192874,2019-08-22,P Sara Oval,Colombo,Test,Sri Lanka,New Zealand,Sri Lanka,bat,New Zealand,797,26,1661,276.83
+1198241,2020-08-05,Old Trafford,Manchester,Test,Pakistan,England,Pakistan,bat,England,991,37,1873,312.17
+1198242,2020-08-13,The Rose Bowl,Southampton,Test,Pakistan,England,Pakistan,bat,,346,14,813,135.5
+1198243,2020-08-21,The Rose Bowl,Southampton,Test,England,Pakistan,England,bat,,1043,22,1996,332.67
+1206635,2019-12-11,Rawalpindi Cricket Stadium,Rawalpindi,Test,Pakistan,Sri Lanka,Sri Lanka,bat,,560,8,1008,168.0
+1206636,2019-12-19,National Stadium,Karachi,Test,Pakistan,Sri Lanka,Pakistan,bat,Pakistan,1229,33,2042,340.33
+1212541,2020-01-19,Harare Sports Club,Harare,Test,Zimbabwe,Sri Lanka,Zimbabwe,bat,Sri Lanka,1057,29,2523,420.5
+1212542,2020-01-27,Harare Sports Club,Harare,Test,Zimbabwe,Sri Lanka,Zimbabwe,bat,,1150,30,2387,397.83
+1213062,2020-02-07,Rawalpindi Cricket Stadium,Rawalpindi,Test,Pakistan,Bangladesh,Pakistan,field,Pakistan,846,30,1617,269.5
+1214666,2020-02-22,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Bangladesh,Zimbabwe,Zimbabwe,bat,Bangladesh,1014,26,1923,320.5
+1223869,2020-12-17,Adelaide Oval,Adelaide,Test,India,Australia,India,bat,Australia,564,32,1255,209.17
+1223870,2020-12-26,Melbourne Cricket Ground,Melbourne,Test,Australia,India,Australia,bat,India,791,32,1851,308.5
+1223871,2021-01-07,Sydney Cricket Ground,Sydney,Test,Australia,India,Australia,bat,,1228,31,2566,427.67
+1223872,2021-01-15,Brisbane Cricket Ground,Brisbane,Test,Australia,India,Australia,bat,India,1328,37,2417,402.83
+1225247,2020-07-08,The Rose Bowl,Southampton,Test,England,West Indies,England,bat,West Indies,1035,36,2081,346.83
+1225248,2020-07-16,Old Trafford,Manchester,Test,England,West Indies,West Indies,field,England,1083,32,2121,353.5
+1225249,2020-07-24,Old Trafford,Manchester,Test,England,West Indies,West Indies,field,England,921,32,1643,273.83
+1233957,2020-12-03,Seddon Park,Hamilton,Test,New Zealand,West Indies,West Indies,field,New Zealand,904,25,1630,271.67
+1233958,2020-12-11,Basin Reserve,Wellington,Test,New Zealand,West Indies,West Indies,field,New Zealand,908,30,1508,251.33
+1233962,2020-12-26,Bay Oval,Mount Maunganui,Test,New Zealand,Pakistan,Pakistan,field,New Zealand,1121,35,2588,431.33
+1233963,2021-01-03,Hagley Oval,Christchurch,Test,Pakistan,New Zealand,New Zealand,field,New Zealand,1142,26,1975,329.17
+1237356,2020-12-26,SuperSport Park,Centurion,Test,Sri Lanka,South Africa,Sri Lanka,bat,South Africa,1197,29,1730,288.33
+1237357,2021-01-03,The Wanderers Stadium,Johannesburg,Test,Sri Lanka,South Africa,Sri Lanka,bat,South Africa,737,30,1124,187.33
+1239543,2021-08-04,"Trent Bridge, Nottingham",Nottingham,Test,England,India,England,bat,,816,31,1527,254.5
+1239544,2021-08-12,"Lord's, London",London,Test,India,England,England,field,India,1173,38,2519,419.83
+1239545,2021-08-25,"Headingley, Leeds",Leeds,Test,India,England,India,bat,England,788,30,1655,275.83
+1239546,2021-09-02,"Kennington Oval, London",London,Test,India,England,England,field,India,1157,40,2334,389.0
+1243015,2021-01-14,Galle International Stadium,Galle,Test,Sri Lanka,England,Sri Lanka,bat,England,991,33,1957,326.17
+1243016,2021-01-22,Galle International Stadium,Galle,Test,Sri Lanka,England,Sri Lanka,bat,England,1015,34,2021,336.83
+1243017,2021-01-26,National Stadium,Karachi,Test,South Africa,Pakistan,South Africa,bat,Pakistan,933,33,1897,316.17
+1243018,2021-02-04,Rawalpindi Cricket Stadium,Rawalpindi,Test,Pakistan,South Africa,Pakistan,bat,Pakistan,1045,40,2266,377.67
+1243384,2021-02-05,MA Chidambaram Stadium,Chennai,Test,England,India,England,bat,England,1285,40,2374,395.67
+1243385,2021-02-13,MA Chidambaram Stadium,Chennai,Test,India,England,India,bat,India,913,40,1776,296.0
+1243386,2021-02-24,Narendra Modi Stadium,Ahmedabad,Test,England,India,England,bat,India,387,30,846,141.0
+1243387,2021-03-04,Narendra Modi Stadium,Ahmedabad,Test,England,India,England,bat,India,705,30,1477,246.17
+1244025,2021-02-03,Zahur Ahmed Chowdhury Stadium,Chattogram,Test,Bangladesh,West Indies,Bangladesh,bat,West Indies,1307,35,2666,444.33
+1244026,2021-02-11,Shere Bangla National Stadium,Dhaka,Test,West Indies,Bangladesh,West Indies,bat,West Indies,1035,40,2136,356.0
+1249210,2021-06-02,"Lord's, London",London,Test,New Zealand,England,New Zealand,bat,,992,29,2095,349.17
+1249211,2021-06-10,"Edgbaston, Birmingham",Birmingham,Test,England,New Zealand,England,bat,New Zealand,854,32,1641,273.5
+1249875,2021-06-18,"The Rose Bowl, Southampton",Southampton,Test,India,New Zealand,New Zealand,field,New Zealand,776,32,1874,312.33
+1252073,2021-03-21,Sir Vivian Richards Stadium,North Sound,Test,Sri Lanka,West Indies,West Indies,field,,1152,34,2565,427.5
+1252074,2021-03-29,Sir Vivian Richards Stadium,North Sound,Test,West Indies,Sri Lanka,Sri Lanka,field,,1085,26,2243,373.83
+1255828,2021-04-21,Pallekele International Cricket Stadium,Pallekele,Test,Sri Lanka,Bangladesh,Bangladesh,bat,,1289,17,2334,389.0
+1255829,2021-04-29,Pallekele International Cricket Stadium,Kandy,Test,Sri Lanka,Bangladesh,Sri Lanka,bat,Sri Lanka,1165,36,2139,356.5
+1256726,2022-03-08,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Test,England,West Indies,England,bat,,1182,30,2523,420.5
+1256727,2022-03-16,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Test,England,West Indies,England,bat,,1238,30,2677,446.17
+1256728,2022-03-24,"National Cricket Stadium, St George's, Grenada",St George's,Test,England,West Indies,West Indies,field,West Indies,649,30,1655,275.83
+1257186,2021-04-29,Harare Sports Club,Harare,Test,Zimbabwe,Pakistan,Zimbabwe,bat,Pakistan,736,29,1440,240.0
+1257187,2021-05-07,Harare Sports Club,Harare,Test,Pakistan,Zimbabwe,Pakistan,bat,Pakistan,873,28,1664,277.33
+1260093,2021-06-16,"County Ground, Bristol",Bristol,Test,England,India,England,bat,,971,27,1947,324.5
+1263149,2021-06-10,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,Test,West Indies,South Africa,West Indies,bat,South Africa,581,30,1227,204.5
+1263150,2021-06-18,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,Test,South Africa,West Indies,West Indies,field,South Africa,786,39,1688,281.33
+1263169,2021-08-12,"Sabina Park, Kingston, Jamaica",Kingston,Test,Pakistan,West Indies,West Indies,field,West Indies,841,39,1817,302.83
+1263170,2021-08-20,"Sabina Park, Kingston, Jamaica",Kingston,Test,Pakistan,West Indies,West Indies,field,Pakistan,847,35,1660,276.67
+1263462,2021-12-08,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Test,England,Australia,England,bat,Australia,889,31,1588,264.67
+1263463,2021-12-16,Adelaide Oval,Adelaide,Test,Australia,England,Australia,bat,Australia,1131,38,2481,413.5
+1263464,2021-12-26,Melbourne Cricket Ground,Melbourne,Test,England,Australia,Australia,field,Australia,520,30,1091,181.83
+1263465,2022-01-05,Sydney Cricket Ground,Sydney,Test,Australia,England,Australia,bat,,1245,33,2321,386.83
+1263466,2022-01-14,"Bellerive Oval, Hobart",Hobart,Test,Australia,England,England,field,Australia,770,40,1316,219.33
+1263571,2022-01-27,"Manuka Oval, Canberra",Canberra,Test,Australia,England,England,field,,1095,35,1951,325.17
+1263620,2021-09-30,Carrara Oval,Carrara,Test,India,Australia,Australia,field,,789,22,1771,295.17
+1267676,2021-07-07,Harare Sports Club,Harare,Test,Bangladesh,Zimbabwe,Bangladesh,bat,Bangladesh,1284,31,2428,404.67
+1276901,2022-06-02,"Lord's, London",London,Test,New Zealand,England,New Zealand,bat,England,837,35,1528,254.67
+1276902,2022-06-10,"Trent Bridge, Nottingham",Nottingham,Test,New Zealand,England,England,field,England,1675,35,2468,411.33
+1276903,2022-06-23,"Headingley, Leeds",Leeds,Test,New Zealand,England,New Zealand,bat,England,1311,33,2075,345.83
+1276916,2022-08-17,"Lord's, London",London,Test,England,South Africa,South Africa,field,South Africa,640,30,1038,173.0
+1276917,2022-08-25,"Old Trafford, Manchester",Manchester,Test,South Africa,England,South Africa,bat,England,745,29,1492,248.67
+1276918,2022-09-08,"Kennington Oval, London",London,Test,South Africa,England,England,field,England,575,31,929,154.83
+1277079,2021-12-26,"SuperSport Park, Centurion",Centurion,Test,India,South Africa,India,bat,India,889,40,1748,291.33
+1277080,2022-01-03,"The Wanderers Stadium, Johannesburg",Johannesburg,Test,India,South Africa,India,bat,South Africa,940,33,1650,275.0
+1277081,2022-01-11,"Newlands, Cape Town",Cape Town,Test,India,South Africa,India,bat,South Africa,843,33,1737,289.5
+1277100,2022-03-31,"Kingsmead, Durban",Durban,Test,South Africa,Bangladesh,Bangladesh,field,South Africa,922,40,1989,331.5
+1277101,2022-04-08,"St George's Park, Port Elizabeth",Gqeberha,Test,South Africa,Bangladesh,South Africa,bat,South Africa,926,36,1648,274.67
+1277977,2021-11-26,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Test,Bangladesh,Pakistan,Bangladesh,bat,Pakistan,976,33,2073,345.5
+1277978,2021-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Pakistan,Bangladesh,Pakistan,bat,Pakistan,592,24,1292,215.33
+1278674,2021-11-25,"Green Park, Kanpur",Kanpur,Test,India,New Zealand,India,bat,,1040,36,2611,435.17
+1278675,2021-12-03,"Wankhede Stadium, Mumbai",Mumbai,Test,India,New Zealand,India,bat,India,830,37,1592,265.33
+1278682,2022-03-04,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Test,India,Sri Lanka,India,bat,India,926,28,1547,257.83
+1278683,2022-03-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Test,India,Sri Lanka,India,bat,India,872,39,1344,224.0
+1288310,2022-03-04,Rawalpindi Cricket Stadium,Rawalpindi,Test,Pakistan,Australia,Pakistan,bat,,1187,14,2287,381.17
+1288311,2022-03-12,"National Stadium, Karachi",Karachi,Test,Australia,Pakistan,Australia,bat,,1244,28,2644,440.67
+1288312,2022-03-21,"Gaddafi Stadium, Lahore",Lahore,Test,Australia,Pakistan,Australia,bat,Australia,1121,33,2431,405.17
+1288345,2021-11-21,Galle International Stadium,Galle,Test,Sri Lanka,West Indies,Sri Lanka,bat,Sri Lanka,967,34,2055,342.5
+1288346,2021-11-29,Galle International Stadium,Galle,Test,Sri Lanka,West Indies,Sri Lanka,bat,Sri Lanka,934,39,2074,345.67
+1288979,2022-01-01,"Bay Oval, Mount Maunganui",Mount Maunganui,Test,New Zealand,Bangladesh,Bangladesh,field,Bangladesh,997,32,2271,378.5
+1288980,2022-01-09,"Hagley Oval, Christchurch",Christchurch,Test,New Zealand,Bangladesh,Bangladesh,field,New Zealand,925,26,1512,252.0
+1288981,2022-02-17,"Hagley Oval, Christchurch",Christchurch,Test,South Africa,New Zealand,New Zealand,field,New Zealand,688,30,1263,210.5
+1288982,2022-02-25,"Hagley Oval, Christchurch",Christchurch,Test,South Africa,New Zealand,South Africa,bat,South Africa,1238,39,2455,409.17
+1301327,2022-06-27,"The Cooper Associates County Ground, Taunton",Taunton,Test,South Africa,England,England,field,,882,23,1690,281.67
+1307301,2022-06-29,Galle International Stadium,Galle,Test,Sri Lanka,Australia,Sri Lanka,bat,Australia,656,30,924,154.0
+1307302,2022-07-08,Galle International Stadium,Galle,Test,Australia,Sri Lanka,Australia,bat,Sri Lanka,1069,30,1999,333.17
+1308488,2022-05-15,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Test,Sri Lanka,Bangladesh,Sri Lanka,bat,,1122,26,2493,415.5
+1308489,2022-05-23,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Bangladesh,Sri Lanka,Bangladesh,bat,Sri Lanka,1069,30,2051,341.83
+1317147,2022-06-16,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Test,Bangladesh,West Indies,West Indies,field,West Indies,701,33,1559,259.83
+1317148,2022-06-24,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,Test,Bangladesh,West Indies,West Indies,field,West Indies,841,30,1444,240.67
+1317484,2022-11-30,Perth Stadium,Perth,Test,Australia,West Indies,Australia,bat,Australia,1396,27,2418,403.0
+1317485,2022-12-08,Adelaide Oval,Adelaide,Test,Australia,West Indies,Australia,bat,Australia,1001,33,1690,281.67
+1317492,2022-12-17,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Test,South Africa,Australia,Australia,field,Australia,504,34,874,145.67
+1317493,2022-12-26,Melbourne Cricket Ground,Melbourne,Test,South Africa,Australia,Australia,field,Australia,968,28,1704,284.0
+1317494,2023-01-04,Sydney Cricket Ground,Sydney,Test,Australia,South Africa,Australia,bat,,836,16,1699,283.17
+1320741,2022-07-01,"Edgbaston, Birmingham",Birmingham,Test,India,England,England,field,England,1323,33,1869,311.5
+1320953,2022-07-16,Galle International Stadium,Galle,Test,Sri Lanka,Pakistan,Sri Lanka,bat,Pakistan,1121,36,2312,385.33
+1320954,2022-07-24,Galle International Stadium,Galle,Test,Sri Lanka,Pakistan,Sri Lanka,bat,Sri Lanka,1230,38,2181,363.5
+1322355,2023-02-16,"Bay Oval, Mount Maunganui",Mount Maunganui,Test,England,New Zealand,New Zealand,field,England,1131,39,1583,263.83
+1322356,2023-02-24,"Basin Reserve, Wellington",Wellington,Test,England,New Zealand,New Zealand,field,New Zealand,1383,38,2281,380.17
+1322357,2023-03-09,"Hagley Oval, Christchurch",Christchurch,Test,Sri Lanka,New Zealand,New Zealand,field,New Zealand,1315,38,2270,378.33
+1322358,2023-03-17,"Basin Reserve, Wellington",Wellington,Test,New Zealand,Sri Lanka,Sri Lanka,field,New Zealand,1102,24,2021,336.83
+1330871,2022-12-01,Rawalpindi Cricket Stadium,Rawalpindi,Test,England,Pakistan,England,bat,England,1768,37,2352,392.0
+1330872,2022-12-09,Multan Cricket Stadium,Multan,Test,England,Pakistan,England,bat,England,1086,40,1695,282.5
+1330873,2022-12-17,"National Stadium, Karachi",Karachi,Test,Pakistan,England,Pakistan,bat,England,1044,32,1595,265.83
+1336043,2023-06-16,"Edgbaston, Birmingham",Birmingham,Test,England,Australia,England,bat,Australia,1334,36,2146,357.67
+1336044,2023-06-28,"Lord's, London",London,Test,Australia,England,England,field,Australia,1347,40,2209,368.17
+1336045,2023-07-06,"Headingley, Leeds",Leeds,Test,Australia,England,England,field,England,978,37,1401,233.5
+1336046,2023-07-19,"Old Trafford, Manchester",Manchester,Test,Australia,England,England,field,,1123,25,1630,271.67
+1336047,2023-07-27,"Kennington Oval, London",London,Test,England,Australia,Australia,field,England,1307,40,2016,336.0
+1336073,2023-06-22,"Trent Bridge, Nottingham",Nottingham,Test,Australia,England,Australia,bat,Australia,1371,40,2259,376.5
+1336127,2023-06-01,"Lord's, London",London,Test,Ireland,England,England,field,England,1070,24,1366,227.67
+1339599,2023-02-28,"SuperSport Park, Centurion",Centurion,Test,South Africa,West Indies,South Africa,bat,South Africa,829,40,1373,228.83
+1339600,2023-03-08,"The Wanderers Stadium, Johannesburg",Johannesburg,Test,South Africa,West Indies,South Africa,bat,South Africa,998,40,1859,309.83
+1339609,2022-12-26,"National Stadium, Karachi",Karachi,Test,Pakistan,New Zealand,Pakistan,bat,,1422,28,2631,438.5
+1339610,2023-01-02,"National Stadium, Karachi",Karachi,Test,New Zealand,Pakistan,New Zealand,bat,,1438,34,2630,438.33
+1340848,2022-12-14,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Test,India,Bangladesh,India,bat,India,1136,32,2194,365.67
+1340849,2022-12-22,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Bangladesh,India,Bangladesh,bat,India,917,37,1672,278.67
+1348652,2023-02-09,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Test,Australia,India,Australia,bat,India,668,30,1425,237.5
+1348653,2023-02-17,"Arun Jaitley Stadium, Delhi",Delhi,Test,Australia,India,Australia,bat,India,756,34,1322,220.33
+1348654,2023-03-01,"Holkar Cricket Stadium, Indore",Indore,Test,India,Australia,India,bat,Australia,547,31,1140,190.0
+1348655,2023-03-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Test,Australia,India,Australia,bat,,1226,21,2554,425.67
+1350681,2023-02-04,"Queens Sports Club, Bulawayo",Bulawayo,Test,West Indies,Zimbabwe,West Indies,bat,,1163,26,2301,383.5
+1350682,2023-02-12,"Queens Sports Club, Bulawayo",Bulawayo,Test,Zimbabwe,West Indies,Zimbabwe,bat,West Indies,580,30,1094,182.33
+1355723,2023-04-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Ireland,Bangladesh,Ireland,bat,Bangladesh,1013,33,1816,302.67
+1358412,2023-06-07,"Kennington Oval, London",London,Test,Australia,India,India,field,Australia,1269,38,2066,344.33
+1363447,2023-04-16,Galle International Stadium,Galle,Test,Sri Lanka,Ireland,Sri Lanka,bat,Sri Lanka,902,26,1432,238.67
+1363448,2023-04-24,Galle International Stadium,Galle,Test,Ireland,Sri Lanka,Ireland,bat,Sri Lanka,1398,24,2250,375.0
+1375842,2023-12-14,Perth Stadium,Perth,Test,Australia,Pakistan,Australia,bat,Australia,1080,35,1880,313.33
+1375843,2023-12-26,Melbourne Cricket Ground,Melbourne,Test,Australia,Pakistan,Pakistan,field,Australia,1081,40,1949,324.83
+1375844,2024-01-03,Sydney Cricket Ground,Sydney,Test,Pakistan,Australia,Pakistan,bat,Australia,857,32,1540,256.67
+1375845,2024-01-17,Adelaide Oval,Adelaide,Test,West Indies,Australia,Australia,field,Australia,617,31,1129,188.17
+1375846,2024-01-25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Test,West Indies,Australia,West Indies,bat,West Indies,1000,39,1733,288.83
+1375875,2024-02-15,"Western Australia Cricket Association Ground, Perth",Perth,Test,South Africa,Australia,Australia,field,Australia,866,29,1539,256.5
+1381212,2023-07-12,"Windsor Park, Roseau, Dominica",Roseau,Test,West Indies,India,West Indies,bat,India,701,25,1608,268.0
+1381213,2023-07-20,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Test,India,West Indies,West Indies,field,,950,24,1819,303.17
+1385685,2023-07-16,Galle International Stadium,Galle,Test,Sri Lanka,Pakistan,Sri Lanka,bat,Pakistan,1185,36,2010,335.0
+1385686,2023-07-24,"Sinhalese Sports Club Ground, Colombo",Colombo,Test,Sri Lanka,Pakistan,Sri Lanka,bat,Pakistan,930,26,1510,251.67
+1385691,2024-07-10,"Lord's, London",London,Test,West Indies,England,England,field,England,628,30,1082,180.33
+1385692,2024-07-18,"Trent Bridge, Nottingham",Nottingham,Test,England,West Indies,West Indies,field,England,1441,40,1998,333.0
+1385693,2024-07-26,"Edgbaston, Birmingham",Birmingham,Test,West Indies,England,West Indies,bat,England,920,30,1271,211.83
+1385694,2024-08-21,"Old Trafford, Manchester",Manchester,Test,Sri Lanka,England,Sri Lanka,bat,England,1125,35,1853,308.83
+1385695,2024-08-29,"Lord's, London",London,Test,England,Sri Lanka,Sri Lanka,field,England,1166,40,1798,299.67
+1385696,2024-09-06,"Kennington Oval, London",London,Test,England,Sri Lanka,Sri Lanka,field,Sri Lanka,963,32,1234,205.67
+1387603,2023-12-26,"SuperSport Park, Centurion",Centurion,Test,India,South Africa,South Africa,field,South Africa,784,29,1279,213.17
+1387604,2024-01-03,"Newlands, Cape Town",Cape Town,Test,South Africa,India,South Africa,bat,India,464,33,656,109.33
+1388221,2024-02-04,"Bay Oval, Mount Maunganui",Mount Maunganui,Test,New Zealand,South Africa,South Africa,field,New Zealand,1099,34,2055,342.5
+1388222,2024-02-13,"Seddon Park, Hamilton",Hamilton,Test,South Africa,New Zealand,South Africa,bat,New Zealand,957,33,2044,340.67
+1388226,2024-02-29,"Basin Reserve, Wellington",Wellington,Test,Australia,New Zealand,New Zealand,field,Australia,922,40,1662,277.0
+1388227,2024-03-08,"Hagley Oval, Christchurch",Christchurch,Test,New Zealand,Australia,Australia,field,Australia,1071,37,1732,288.67
+1389399,2024-01-25,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Test,England,India,England,bat,England,1304,40,2156,359.33
+1389400,2024-02-02,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Test,India,England,India,bat,India,1196,40,1899,316.5
+1389401,2024-02-15,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Test,India,England,India,bat,India,1311,34,2050,341.67
+1389402,2024-02-23,"JSCA International Stadium Complex, Ranchi",Ranchi,Test,England,India,England,bat,India,997,35,1949,324.83
+1389403,2024-03-07,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Test,England,India,England,bat,India,890,30,1385,230.83
+1392691,2025-05-22,"Trent Bridge, Nottingham",Nottingham,Test,England,Zimbabwe,Zimbabwe,field,England,1085,24,1327,221.17
+1395703,2023-11-28,Sylhet International Cricket Stadium,Sylhet,Test,Bangladesh,New Zealand,Bangladesh,bat,Bangladesh,1146,40,2155,359.17
+1395704,2023-12-06,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Bangladesh,New Zealand,Bangladesh,bat,New Zealand,635,36,1070,178.33
+1406076,2023-12-14,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Test,India,England,India,bat,India,881,36,1259,209.83
+1406077,2023-12-21,"Wankhede Stadium, Mumbai",Mumbai,Test,Australia,India,Australia,bat,India,961,32,1976,329.33
+1419830,2024-03-22,Sylhet International Cricket Stadium,Sylhet,Test,Sri Lanka,Bangladesh,Bangladesh,field,Sri Lanka,1068,40,1692,282.0
+1419831,2024-03-30,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Test,Sri Lanka,Bangladesh,Sri Lanka,bat,Sri Lanka,1184,37,2120,353.33
+1426555,2024-11-22,Perth Stadium,Perth,Test,India,Australia,India,bat,India,979,36,1802,300.33
+1426556,2024-12-06,Adelaide Oval,Adelaide,Test,India,Australia,India,bat,Australia,711,30,1052,175.33
+1426557,2024-12-14,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Test,Australia,India,India,field,,802,27,1312,218.67
+1426558,2024-12-26,Melbourne Cricket Ground,Melbourne,Test,Australia,India,Australia,bat,Australia,1232,40,2452,408.67
+1426559,2025-01-03,Sydney Cricket Ground,Sydney,Test,India,Australia,India,bat,Australia,685,34,1151,191.83
+1426629,2025-01-30,Melbourne Cricket Ground,Melbourne,Test,England,Australia,Australia,field,Australia,758,30,1633,272.17
+1428554,2024-11-28,"Hagley Oval, Christchurch",Christchurch,Test,New Zealand,England,England,field,England,1205,32,1731,288.5
+1428555,2024-12-06,"Basin Reserve, Wellington",Wellington,Test,England,New Zealand,New Zealand,field,England,1091,36,1377,229.5
+1428556,2024-12-14,"Seddon Park, Hamilton",Hamilton,Test,New Zealand,England,England,field,New Zealand,1177,39,1699,283.17
+1431085,2024-07-25,"Civil Service Cricket Club, Stormont, Belfast",Belfast,Test,Zimbabwe,Ireland,Ireland,field,Ireland,815,36,1438,239.67
+1432209,2024-11-27,"Kingsmead, Durban",Durban,Test,South Africa,Sri Lanka,Sri Lanka,field,South Africa,881,35,1488,248.0
+1432210,2024-12-05,"St George's Park, Gqeberha",Gqeberha,Test,South Africa,Sri Lanka,South Africa,bat,South Africa,1241,40,2177,362.83
+1432217,2024-12-26,"SuperSport Park, Centurion",Centurion,Test,Pakistan,South Africa,South Africa,field,South Africa,899,38,1401,233.5
+1432218,2025-01-03,"Newlands, Cape Town",Cape Town,Test,South Africa,Pakistan,South Africa,bat,South Africa,1345,28,1987,331.17
+1432231,2024-12-15,"Mangaung Oval, Bloemfontein",Bloemfontein,Test,England,South Africa,England,bat,England,976,38,1652,275.33
+1433365,2024-08-07,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Test,South Africa,West Indies,South Africa,bat,,964,28,1779,296.5
+1433366,2024-08-15,"Providence Stadium, Guyana",Providence,Test,South Africa,West Indies,South Africa,bat,South Africa,772,40,1468,244.67
+1433378,2024-11-22,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Test,West Indies,Bangladesh,Bangladesh,field,West Indies,1003,38,1969,328.17
+1433379,2024-11-30,"Sabina Park, Kingston, Jamaica",Kingston,Test,Bangladesh,West Indies,Bangladesh,bat,Bangladesh,763,40,1498,249.67
+1434290,2024-06-28,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Test,India,South Africa,India,bat,India,1279,26,2187,364.5
+1439891,2024-09-19,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Test,India,Bangladesh,Bangladesh,field,India,1046,34,1596,266.0
+1439892,2024-09-27,"Green Park, Kanpur",Kanpur,Test,Bangladesh,India,India,field,India,762,32,1047,174.5
+1439896,2024-10-16,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Test,India,New Zealand,India,bat,New Zealand,1020,32,1509,251.5
+1439897,2024-10-24,"Maharashtra Cricket Association Stadium, Pune",Pune,Test,New Zealand,India,New Zealand,bat,New Zealand,915,40,1535,255.83
+1439898,2024-11-01,"Wankhede Stadium, Mumbai",Mumbai,Test,New Zealand,India,New Zealand,bat,New Zealand,793,40,1214,202.33
+1442213,2024-08-21,Rawalpindi Cricket Stadium,Rawalpindi,Test,Pakistan,Bangladesh,Bangladesh,field,Bangladesh,1189,26,2070,345.0
+1442214,2024-08-30,Rawalpindi Cricket Stadium,Rawalpindi,Test,Pakistan,Bangladesh,Bangladesh,field,Bangladesh,893,34,1608,268.0
+1442215,2024-10-07,Multan Cricket Stadium,Multan,Test,Pakistan,England,Pakistan,bat,England,1599,26,2143,357.17
+1442216,2024-10-15,Multan Cricket Stadium,Multan,Test,Pakistan,England,Pakistan,bat,Pakistan,1022,40,1714,285.67
+1442217,2024-10-24,Rawalpindi Cricket Stadium,Rawalpindi,Test,England,Pakistan,England,bat,Pakistan,760,31,1238,206.33
+1442218,2025-01-17,Multan Cricket Stadium,Multan,Test,Pakistan,West Indies,Pakistan,bat,Pakistan,647,40,1073,178.83
+1442219,2025-01-25,Multan Cricket Stadium,Multan,Test,West Indies,Pakistan,West Indies,bat,West Indies,694,40,1198,199.67
+1447096,2024-09-18,Galle International Stadium,Galle,Test,Sri Lanka,New Zealand,Sri Lanka,bat,Sri Lanka,1165,40,2108,351.33
+1447097,2024-09-26,Galle International Stadium,Galle,Test,Sri Lanka,New Zealand,Sri Lanka,bat,Sri Lanka,1050,25,1717,286.17
+1453293,2024-10-21,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,Bangladesh,South Africa,Bangladesh,bat,South Africa,827,33,1457,242.83
+1453294,2024-10-29,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Test,South Africa,Bangladesh,South Africa,bat,South Africa,872,26,1417,236.17
+1459906,2025-01-29,Galle International Stadium,Galle,Test,Australia,Sri Lanka,Australia,bat,Australia,1066,26,1567,261.17
+1459907,2025-02-06,Galle International Stadium,Galle,Test,Sri Lanka,Australia,Sri Lanka,bat,Australia,977,31,1744,290.67
+1467700,2025-02-06,"Queens Sports Club, Bulawayo",Bulawayo,Test,Ireland,Zimbabwe,Ireland,bat,Ireland,1053,40,1950,325.0
+1476409,2025-04-20,Sylhet International Cricket Stadium,Sylhet,Test,Bangladesh,Zimbabwe,Bangladesh,bat,Zimbabwe,893,37,1633,272.17
+1476410,2025-04-28,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Test,Zimbabwe,Bangladesh,Zimbabwe,bat,Bangladesh,782,30,1600,266.67
+207334,2005-04-21,Kensington Oval,Bridgetown,Test,West Indies,South Africa,West Indies,bat,South Africa,1010,29,1970,328.33
+208321,2005-04-29,Antigua Recreation Ground,St John's,Test,South Africa,West Indies,South Africa,bat,,1462,17,2622,437.0
+210366,2005-06-03,Riverside Ground,Chester-le-Street,Test,Bangladesh,England,England,field,England,867,23,1166,194.33
+215253,2005-08-07,Harare Sports Club,Harare,Test,New Zealand,Zimbabwe,Zimbabwe,field,New Zealand,610,29,1031,171.83
+216055,2005-08-15,Queens Sports Club,Bulawayo,Test,Zimbabwe,New Zealand,Zimbabwe,bat,New Zealand,922,30,1540,256.67
+216932,2005-08-24,"County Ground, New Road, Worcester",Worcester,Test,Australia,England,England,field,England,727,34,2115,352.5
+218813,2005-09-12,R.Premadasa Stadium,Colombo,Test,Bangladesh,Sri Lanka,Sri Lanka,field,Sri Lanka,644,29,1128,188.0
+219062,2005-09-13,Queens Sports Club,Bulawayo,Test,Zimbabwe,India,Zimbabwe,bat,India,1018,30,1823,303.83
+219612,2005-09-20,P Sara Oval,Colombo,Test,Sri Lanka,Bangladesh,Sri Lanka,bat,Sri Lanka,845,29,1225,204.17
+221840,2005-10-14,Sydney Cricket Ground,Sydney,Test,Australia,ICC World XI,Australia,bat,Australia,878,40,1535,255.83
+225164,2006-08-08,"Grace Road, Leicester",Leicester,Test,England,India,England,bat,,1053,36,2423,403.83
+225255,2006-07-13,Lord's,London,Test,England,Pakistan,England,bat,,1483,31,2664,444.0
+225256,2006-07-27,Old Trafford,Manchester,Test,Pakistan,England,Pakistan,bat,England,802,29,1466,244.33
+225257,2006-08-04,Headingley,Leeds,Test,England,Pakistan,England,bat,England,1553,40,2452,408.67
+225258,2006-08-17,Kennington Oval,London,Test,England,Pakistan,Pakistan,field,England,975,24,1559,259.83
+225264,2006-05-11,Lord's,London,Test,England,Sri Lanka,England,bat,,1280,25,2422,403.67
+225265,2006-05-25,Edgbaston,Birmingham,Test,Sri Lanka,England,Sri Lanka,bat,England,748,34,1541,256.83
+225266,2006-06-02,Trent Bridge,Nottingham,Test,Sri Lanka,England,Sri Lanka,bat,Sri Lanka,972,40,2080,346.67
+225443,2005-11-12,Multan Cricket Stadium,Multan,Test,Pakistan,England,Pakistan,bat,Pakistan,1208,40,2251,375.17
+226120,2005-11-17,Bellerive Oval,Hobart,Test,West Indies,Australia,West Indies,bat,Australia,967,31,1982,330.33
+226350,2005-11-20,Iqbal Stadium,Faisalabad,Test,Pakistan,England,Pakistan,bat,,1340,35,2381,396.83
+226363,2005-12-18,Sardar Patel Stadium,Ahmedabad,Test,India,Sri Lanka,India,bat,India,1169,39,2124,354.0
+226372,2005-12-26,Melbourne Cricket Ground,,Test,Australia,South Africa,Australia,bat,Australia,1168,37,2359,393.17
+226373,2006-01-02,Sydney Cricket Ground,,Test,South Africa,Australia,South Africa,bat,Australia,1292,27,2146,357.67
+233797,2006-01-21,Iqbal Stadium,Faisalabad,Test,Pakistan,India,Pakistan,bat,,1702,28,2618,436.33
+234783,2006-01-29,National Stadium,Karachi,Test,Pakistan,India,India,field,Pakistan,1347,37,1915,319.17
+238167,2006-02-28,Zahur Ahmed Chowdhury Stadium,Chattogram,Test,Bangladesh,Sri Lanka,Bangladesh,bat,Sri Lanka,1001,32,1751,291.83
+238168,2006-03-08,Shaheed Chandu Stadium,Bogra,Test,Bangladesh,Sri Lanka,Bangladesh,bat,Sri Lanka,871,30,1611,268.5
+238171,2006-04-09,Khan Shaheb Osman Ali Stadium,Fatullah,Test,Bangladesh,Australia,Bangladesh,bat,Australia,1151,37,2278,379.67
+238180,2006-03-09,Eden Park,Auckland,Test,New Zealand,West Indies,West Indies,field,New Zealand,1067,40,2121,353.5
+238186,2006-03-09,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Test,England,India,England,bat,India,963,31,1878,313.0
+238201,2006-03-16,Newlands,Cape Town,Test,South Africa,Australia,South Africa,bat,Australia,805,33,1479,246.5
+238202,2006-03-24,Kingsmead,Durban,Test,Australia,South Africa,Australia,bat,Australia,1240,34,2435,405.83
+238203,2006-03-31,The Wanderers Stadium,Johannesburg,Test,South Africa,Australia,South Africa,bat,Australia,1125,38,1958,326.33
+238205,2006-04-15,SuperSport Park,Centurion,Test,South Africa,New Zealand,South Africa,bat,South Africa,1022,40,1838,306.33
+238206,2006-04-27,Newlands,Cape Town,Test,New Zealand,South Africa,South Africa,field,,1226,21,2365,394.17
+238207,2006-05-05,The Wanderers Stadium,Johannesburg,Test,New Zealand,South Africa,South Africa,field,South Africa,808,36,1307,217.83
+238217,2006-04-03,Asgiriya Stadium,Kandy,Test,Sri Lanka,Pakistan,Pakistan,field,Pakistan,705,31,1288,214.67
+239025,2006-03-01,Vidarbha C.A. Ground,Nagpur,Test,England,India,England,bat,,1273,29,2600,433.33
+239920,2006-06-02,"Antigua Recreation Ground, St John's",Antigua,Test,India,West Indies,India,bat,,1431,35,2686,447.67
+239921,2006-06-10,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,Test,India,West Indies,India,bat,,1097,25,2152,358.67
+239922,2006-06-22,"Warner Park, Basseterre",St Kitts,Test,West Indies,India,West Indies,bat,,1413,30,2394,399.0
+239923,2006-06-30,"Sabina Park, Kingston",Jamaica,Test,India,West Indies,India,bat,India,693,40,1550,258.33
+249193,2006-07-27,Sinhalese Sports Club Ground,Colombo,Test,South Africa,Sri Lanka,South Africa,bat,Sri Lanka,1359,25,2391,398.5
+249194,2006-08-04,P Sara Oval,Colombo,Test,South Africa,Sri Lanka,South Africa,bat,Sri Lanka,1345,39,2402,400.33
+249215,2006-12-15,The Wanderers Stadium,Johannesburg,Test,India,South Africa,India,bat,India,847,40,1568,261.33
+249216,2006-12-26,Kingsmead,Durban,Test,South Africa,India,South Africa,bat,South Africa,1012,38,1801,300.17
+249217,2007-01-02,Newlands,Cape Town,Test,India,South Africa,India,bat,South Africa,1167,35,2358,393.0
+249222,2006-11-23,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,England,Australia,bat,Australia,1331,30,2206,367.67
+249223,2006-12-01,Adelaide Oval,,Test,England,Australia,England,bat,Australia,1361,30,2660,443.33
+249224,2006-12-14,W.A.C.A. Ground,Perth,Test,Australia,England,Australia,bat,Australia,1336,35,2242,373.67
+249225,2006-12-26,Melbourne Cricket Ground,,Test,England,Australia,England,bat,Australia,739,30,1510,251.67
+249226,2007-01-02,Sydney Cricket Ground,,Test,England,Australia,England,bat,Australia,877,30,1634,272.33
+250666,2007-01-19,St George's Park,Port Elizabeth,Test,South Africa,Pakistan,South Africa,bat,Pakistan,911,35,1860,310.0
+250667,2007-01-26,Newlands,Cape Town,Test,Pakistan,South Africa,South Africa,field,South Africa,687,35,1287,214.5
+251485,2006-12-07,AMI Stadium,Christchurch,Test,Sri Lanka,New Zealand,Sri Lanka,bat,New Zealand,649,35,1370,228.33
+251486,2006-12-15,Basin Reserve,Wellington,Test,Sri Lanka,New Zealand,Sri Lanka,bat,Sri Lanka,1049,40,1817,302.83
+257765,2006-11-11,Gaddafi Stadium,Lahore,Test,West Indies,Pakistan,West Indies,bat,Pakistan,995,31,1827,304.5
+257766,2006-11-19,Multan Cricket Stadium,,Test,Pakistan,West Indies,Pakistan,bat,,1409,27,2650,441.67
+258459,2007-05-17,Lord's,London,Test,England,West Indies,West Indies,field,,1363,23,2111,351.83
+258460,2007-05-25,Headingley,Leeds,Test,England,West Indies,England,bat,England,857,25,1236,206.0
+258461,2007-06-07,Old Trafford,Manchester,Test,England,West Indies,England,bat,England,1306,40,2309,384.83
+258462,2007-06-15,Riverside Ground,Chester-le-Street,Test,West Indies,England,England,field,England,1020,33,1738,289.67
+258468,2007-07-19,Lord's,London,Test,England,India,England,bat,,1063,39,2076,346.0
+258469,2007-07-27,Trent Bridge,Nottingham,Test,England,India,India,field,India,1107,33,2138,356.33
+258470,2007-08-09,Kennington Oval,London,Test,India,England,India,bat,,1558,32,2695,449.17
+282691,2007-05-18,Zahur Ahmed Chowdhury Stadium,Chattogram,Test,India,Bangladesh,India,bat,,829,27,1337,222.83
+282692,2007-05-25,"Shere Bangla National Stadium, Mirpur",Dhaka,Test,India,Bangladesh,Bangladesh,field,India,981,24,1515,252.5
+291222,2007-12-01,Asgiriya Stadium,Kandy,Test,Sri Lanka,England,Sri Lanka,bat,Sri Lanka,1172,38,2285,380.83
+291223,2007-12-09,Sinhalese Sports Club Ground,Colombo,Test,England,Sri Lanka,England,bat,,1149,22,2353,392.17
+291224,2007-12-18,Galle International Stadium,,Test,Sri Lanka,England,England,field,,831,24,1679,279.83
+291338,2007-11-08,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,Sri Lanka,Sri Lanka,field,Australia,1062,24,2006,334.33
+291339,2007-11-16,Bellerive Oval,Hobart,Test,Australia,Sri Lanka,Australia,bat,Australia,1408,27,2283,380.5
+291351,2007-12-26,Melbourne Cricket Ground,,Test,Australia,India,Australia,bat,Australia,1051,37,1996,332.67
+291352,2008-01-02,Sydney Cricket Ground,,Test,Australia,India,Australia,bat,Australia,1606,37,2607,434.5
+291353,2008-01-16,Western Australia Cricket Association Ground,Perth,Test,Australia,India,India,bat,India,1176,40,1941,323.5
+291354,2008-01-24,Adelaide Oval,,Test,Australia,India,India,bat,,1358,28,2582,430.33
+293478,2007-06-25,Sinhalese Sports Club Ground,Colombo,Test,Bangladesh,Sri Lanka,Sri Lanka,field,Sri Lanka,920,26,1572,262.0
+293479,2007-07-03,P Sara Oval,Colombo,Test,Bangladesh,Sri Lanka,Sri Lanka,field,Sri Lanka,812,26,1449,241.5
+293480,2007-07-11,Asgiriya Stadium,Kandy,Test,Bangladesh,Sri Lanka,Sri Lanka,field,Sri Lanka,807,24,1321,220.17
+296900,2008-05-15,Lord's,London,Test,England,New Zealand,England,field,,865,26,1723,287.17
+296901,2008-05-23,Old Trafford,Manchester,Test,England,New Zealand,New Zealand,bat,England,991,33,1837,306.17
+296902,2008-06-05,Trent Bridge,Nottingham,Test,England,New Zealand,New Zealand,field,England,719,30,1483,247.17
+296909,2008-07-10,Lord's,London,Test,England,South Africa,South Africa,field,,1233,21,2523,420.5
+296910,2008-07-18,Headingley,Leeds,Test,England,South Africa,South Africa,field,South Africa,1061,30,2052,342.0
+296911,2008-07-30,Edgbaston,Birmingham,Test,England,South Africa,England,bat,South Africa,1191,35,2099,349.83
+296912,2008-08-07,Kennington Oval,London,Test,England,South Africa,South Africa,bat,England,1026,34,1893,315.5
+297806,2007-11-22,Arun Jaitley Stadium,Delhi,Test,Pakistan,India,Pakistan,bat,India,957,34,1927,321.17
+297807,2007-11-30,Eden Gardens,Kolkata,Test,India,Pakistan,India,bat,,1470,23,2566,427.67
+297808,2007-12-08,M.Chinnaswamy Stadium,Bengaluru,Test,India,Pakistan,India,bat,,1609,34,2607,434.5
+298793,2007-11-08,The Wanderers Stadium,Johannesburg,Test,South Africa,New Zealand,South Africa,bat,South Africa,938,32,1771,295.17
+298794,2007-11-16,SuperSport Park,Centurion,Test,New Zealand,South Africa,New Zealand,bat,South Africa,707,29,1150,191.67
+298801,2007-12-26,St George's Park,Port Elizabeth,Test,West Indies,South Africa,South Africa,field,West Indies,1038,40,1986,331.0
+298802,2008-01-02,Newlands,Cape Town,Test,South Africa,West Indies,West Indies,bat,South Africa,1012,33,2100,350.0
+298803,2008-01-10,Kingsmead,Durban,Test,South Africa,West Indies,South Africa,field,South Africa,1012,23,1450,241.67
+299004,2007-10-01,National Stadium,Karachi,Test,South Africa,Pakistan,South Africa,bat,South Africa,1268,37,2456,409.33
+299005,2007-10-08,Gaddafi Stadium,Lahore,Test,South Africa,Pakistan,South Africa,bat,,1184,28,2447,407.83
+300429,2008-01-04,University Oval,Dunedin,Test,New Zealand,Bangladesh,New Zealand,field,New Zealand,787,31,1389,231.5
+300430,2008-01-12,Basin Reserve,Wellington,Test,New Zealand,Bangladesh,New Zealand,field,New Zealand,649,29,1195,199.17
+300442,2008-03-05,Seddon Park,Hamilton,Test,New Zealand,England,New Zealand,bat,New Zealand,1105,39,2547,424.5
+300443,2008-03-13,Basin Reserve,Wellington,Test,New Zealand,England,New Zealand,field,England,1144,40,2190,365.0
+300444,2008-03-22,McLean Park,Napier,Test,New Zealand,England,England,bat,England,1319,37,2389,398.17
+312450,2008-02-15,"Bradman Oval, Bowral",Bowral,Test,Australia,England,England,field,England,773,33,2239,373.17
+319132,2008-03-22,Providence Stadium,Guyana,Test,West Indies,Sri Lanka,Sri Lanka,bat,Sri Lanka,1311,35,2641,440.17
+319133,2008-04-03,"Queen's Park Oval, Port of Spain",Trinidad,Test,West Indies,Sri Lanka,West Indies,field,West Indies,1094,34,1747,291.17
+319139,2008-05-22,"Sabina Park, Kingston",Jamaica,Test,West Indies,Australia,Australia,bat,Australia,1101,40,2161,360.17
+319140,2008-05-30,"Sir Vivian Richards Stadium, North Sound",Antigua,Test,West Indies,Australia,Australia,bat,,1341,28,2435,405.83
+319141,2008-06-12,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,Australia,West Indies,field,Australia,1293,35,2307,384.5
+323947,2008-02-22,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,South Africa,Bangladesh,bat,South Africa,749,35,1551,258.5
+323948,2008-02-29,Chittagong Divisional Stadium,,Test,Bangladesh,South Africa,South Africa,bat,South Africa,961,26,1649,274.83
+332911,2008-03-26,"MA Chidambaram Stadium, Chepauk",Chennai,Test,India,South Africa,South Africa,bat,,1498,25,2512,418.67
+332912,2008-04-03,"Sardar Patel Stadium, Motera",Ahmedabad,Test,India,South Africa,India,bat,South Africa,898,27,1550,258.33
+332913,2008-04-11,Green Park,Kanpur,Test,India,South Africa,South Africa,bat,India,775,32,1552,258.67
+343729,2008-07-23,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,India,Sri Lanka,bat,Sri Lanka,961,26,1701,283.5
+343730,2008-07-31,Galle International Stadium,,Test,Sri Lanka,India,India,bat,India,1026,40,1803,300.5
+343731,2008-08-08,P Saravanamuttu Stadium,Colombo,Test,Sri Lanka,India,India,bat,Sri Lanka,1036,32,2019,336.5
+345669,2008-10-09,M Chinnaswamy Stadium,Bangalore,Test,India,Australia,Australia,bat,,1195,30,2506,417.67
+345670,2008-10-17,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Test,India,Australia,India,bat,India,1246,33,2178,363.0
+345671,2008-10-29,Feroz Shah Kotla,Delhi,Test,India,Australia,India,bat,,1429,22,2577,429.5
+345672,2008-11-06,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Test,India,Australia,India,bat,India,1300,40,2376,396.0
+345970,2009-07-08,Sophia Gardens,Cardiff,Test,England,Australia,England,bat,,1361,25,2395,399.17
+345971,2009-07-16,Lord's,London,Test,England,Australia,England,bat,England,1357,36,2082,347.0
+345972,2009-07-30,Edgbaston,Birmingham,Test,England,Australia,Australia,bat,,1014,25,1678,279.67
+345973,2009-08-07,Headingley,Leeds,Test,England,Australia,England,bat,Australia,810,30,1220,203.33
+345974,2009-08-20,Kennington Oval,London,Test,England,Australia,England,bat,England,1213,39,2088,348.0
+350345,2008-11-19,OUTsurance Oval,Bloemfontein,Test,South Africa,Bangladesh,Bangladesh,field,South Africa,753,29,1292,215.33
+350346,2008-11-26,SuperSport Park,Centurion,Test,South Africa,Bangladesh,Bangladesh,bat,South Africa,810,30,1394,232.33
+350472,2009-02-26,New Wanderers Stadium,Johannesburg,Test,South Africa,Australia,Australia,bat,Australia,1184,40,2302,383.67
+350473,2009-03-06,Kingsmead,Durban,Test,South Africa,Australia,Australia,bat,Australia,1191,34,2381,396.83
+350474,2009-03-19,Newlands,Cape Town,Test,South Africa,Australia,Australia,bat,South Africa,1282,30,2115,352.5
+351679,2008-11-20,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,New Zealand,New Zealand,field,Australia,815,40,1591,265.17
+351680,2008-11-28,Adelaide Oval,,Test,Australia,New Zealand,New Zealand,bat,Australia,1008,30,2012,335.33
+351681,2008-12-17,Western Australia Cricket Association Ground,Perth,Test,Australia,South Africa,Australia,bat,South Africa,1389,34,2467,411.17
+351682,2008-12-26,Melbourne Cricket Ground,,Test,Australia,South Africa,Australia,bat,South Africa,1283,31,2431,405.17
+351683,2009-01-03,Sydney Cricket Ground,,Test,Australia,South Africa,Australia,bat,Australia,1301,34,2660,443.33
+352661,2009-02-04,"Sabina Park, Kingston",Jamaica,Test,West Indies,England,England,bat,West Indies,761,30,1890,315.0
+352662,2009-02-13,"Sir Vivian Richards Stadium, North Sound",Antigua,Test,West Indies,England,West Indies,field,,7,0,10,1.67
+352663,2009-02-26,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,England,England,bat,,1628,17,2595,432.5
+352664,2009-03-06,"Queen's Park Oval, Port of Spain",Trinidad,Test,West Indies,England,England,bat,,1441,30,2686,447.67
+361050,2008-12-11,"MA Chidambaram Stadium, Chepauk",Chennai,Test,India,England,England,bat,India,1255,33,2436,406.0
+361051,2008-12-19,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Test,India,England,India,bat,,1070,28,2083,347.17
+361759,2008-10-25,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,New Zealand,Bangladesh,field,,510,16,991,165.17
+366628,2009-03-18,Seddon Park,Hamilton,Test,New Zealand,India,India,field,India,1117,30,2044,340.67
+366629,2009-04-03,Basin Reserve,Wellington,Test,New Zealand,India,New Zealand,field,,1291,35,2228,371.33
+378751,2009-01-03,Chittagong Divisional Stadium,,Test,Bangladesh,Sri Lanka,Sri Lanka,bat,Sri Lanka,1197,36,2110,351.67
+380712,2009-05-06,Lord's,London,Test,England,West Indies,West Indies,field,England,817,30,1357,226.17
+380713,2009-05-14,Riverside Ground,Chester-le-Street,Test,England,West Indies,England,bat,England,1055,26,1690,281.67
+383288,2009-07-10,"County Ground, New Road, Worcester",Worcester,Test,Australia,England,Australia,bat,,914,33,2207,367.83
+386496,2009-03-26,McLean Park,Napier,Test,New Zealand,India,New Zealand,bat,,1400,23,2588,431.33
+387570,2009-12-16,SuperSport Park,Centurion,Test,South Africa,England,England,field,,1303,36,2666,444.33
+387571,2009-12-26,Kingsmead,Durban,Test,South Africa,England,South Africa,bat,England,1050,29,1976,329.33
+387572,2010-01-03,Newlands,Cape Town,Test,South Africa,England,England,field,,1307,36,2568,428.0
+387573,2010-01-14,New Wanderers Stadium,Johannesburg,Test,South Africa,England,England,bat,South Africa,772,27,1270,211.67
+388993,2009-02-21,National Stadium,Karachi,Test,Pakistan,Sri Lanka,Sri Lanka,bat,,1553,18,2649,441.5
+388994,2009-03-01,Gaddafi Stadium,Lahore,Test,Pakistan,Sri Lanka,Pakistan,field,,716,11,1067,177.83
+390680,2009-02-15,"Antigua Recreation Ground, St John's",Antigua,Test,West Indies,England,West Indies,field,,1442,36,2627,437.83
+401071,2009-07-09,"Arnos Vale Ground, Kingstown",St Vincent,Test,West Indies,Bangladesh,Bangladesh,bat,Bangladesh,1071,40,2283,380.5
+401072,2009-07-17,"National Cricket Stadium, St George's",Grenada,Test,West Indies,Bangladesh,Bangladesh,field,Bangladesh,895,36,1713,285.5
+403367,2009-07-04,Galle International Stadium,,Test,Sri Lanka,Pakistan,Pakistan,field,Sri Lanka,968,40,1669,278.17
+403368,2009-07-12,P Sara Oval,Colombo,Test,Sri Lanka,Pakistan,Pakistan,bat,Sri Lanka,821,33,1485,247.5
+403369,2009-07-20,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,Pakistan,Sri Lanka,field,,1348,33,2510,418.33
+403378,2009-08-18,Galle International Stadium,,Test,Sri Lanka,New Zealand,New Zealand,field,Sri Lanka,1220,34,2146,357.67
+403379,2009-08-26,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,New Zealand,Sri Lanka,bat,Sri Lanka,1358,35,2516,419.33
+406189,2009-11-26,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,West Indies,Australia,bat,Australia,895,28,1533,255.5
+406190,2009-12-04,Adelaide Oval,,Test,Australia,West Indies,West Indies,bat,,1419,35,2625,437.5
+406191,2009-12-16,Western Australia Cricket Association Ground,Perth,Test,Australia,West Indies,Australia,bat,Australia,1305,38,2177,362.83
+406199,2009-12-26,Melbourne Cricket Ground,,Test,Australia,Pakistan,Australia,bat,Australia,1188,33,2268,378.0
+406200,2010-01-03,Sydney Cricket Ground,,Test,Australia,Pakistan,Australia,bat,Australia,980,40,1854,309.0
+406201,2010-01-14,Bellerive Oval,Hobart,Test,Australia,Pakistan,Australia,bat,Australia,1245,33,2317,386.17
+423778,2009-11-24,University Oval,Dunedin,Test,New Zealand,Pakistan,Pakistan,field,New Zealand,1132,40,2243,373.83
+423779,2009-12-03,Basin Reserve,Wellington,Test,New Zealand,Pakistan,New Zealand,field,Pakistan,865,40,1768,294.67
+423780,2009-12-11,McLean Park,Napier,Test,New Zealand,Pakistan,Pakistan,bat,,1239,30,2512,418.67
+423786,2010-02-15,Seddon Park,Hamilton,Test,New Zealand,Bangladesh,Bangladesh,field,New Zealand,1501,32,2300,383.33
+423789,2010-03-19,Basin Reserve,Wellington,Test,New Zealand,Australia,Australia,bat,Australia,1129,25,2122,353.67
+423790,2010-03-27,Seddon Park,Hamilton,Test,New Zealand,Australia,Australia,bat,Australia,1308,38,2306,384.33
+426394,2010-07-13,Lord's,London,Test,Australia,Pakistan,Pakistan,field,Australia,1024,40,1825,304.17
+426395,2010-07-21,Headingley,Leeds,Test,Australia,Pakistan,Australia,bat,Pakistan,875,37,1491,248.5
+426401,2010-05-27,Lord's,London,Test,England,Bangladesh,Bangladesh,field,England,1332,32,2213,368.83
+426402,2010-06-04,Old Trafford,Manchester,Test,England,Bangladesh,England,bat,England,758,30,1272,212.0
+426413,2010-07-29,Trent Bridge,Nottingham,Test,England,Pakistan,England,bat,England,878,39,1590,265.0
+426414,2010-08-06,Edgbaston,Birmingham,Test,England,Pakistan,Pakistan,bat,England,737,31,1668,278.0
+426415,2010-08-18,Kennington Oval,London,Test,England,Pakistan,England,bat,Pakistan,911,36,1712,285.33
+426416,2010-08-26,Lord's,London,Test,England,Pakistan,Pakistan,field,England,667,30,1277,212.83
+426423,2010-03-12,Zohur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,England,Bangladesh,field,England,1435,33,2434,405.67
+426424,2010-03-20,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,England,Bangladesh,bat,England,1409,31,2632,438.67
+428749,2010-11-25,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,England,England,bat,,1365,22,2511,418.5
+428750,2010-12-03,Adelaide Oval,,Test,Australia,England,Australia,bat,England,1169,25,2029,338.17
+428751,2010-12-16,Western Australia Cricket Association Ground,Perth,Test,Australia,England,England,field,Australia,887,40,1579,263.17
+428752,2010-12-26,Melbourne Cricket Ground,,Test,Australia,England,England,field,England,869,29,1735,289.17
+428753,2011-01-03,Sydney Cricket Ground,,Test,Australia,England,Australia,bat,England,1205,30,2229,371.5
+430881,2009-11-16,"Sardar Patel Stadium, Motera",Ahmedabad,Test,India,Sri Lanka,India,bat,,1598,21,2661,443.5
+430882,2009-11-24,Green Park,Kanpur,Test,India,Sri Lanka,India,bat,India,1140,30,1840,306.67
+430883,2009-12-02,Brabourne Stadium,Mumbai,Test,India,Sri Lanka,Sri Lanka,bat,India,1428,29,2173,362.17
+434256,2010-01-17,Zahur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,India,Bangladesh,field,India,1199,38,1824,304.0
+434257,2010-01-24,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,India,Bangladesh,bat,India,1091,29,1799,299.83
+439152,2010-06-10,"Queen's Park Oval, Port of Spain",Trinidad,Test,West Indies,South Africa,South Africa,bat,South Africa,953,34,1930,321.67
+439153,2010-06-18,"Warner Park, Basseterre",St Kitts,Test,West Indies,South Africa,South Africa,bat,,1324,19,2571,428.5
+439154,2010-06-26,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,South Africa,West Indies,bat,South Africa,787,33,1720,286.67
+441825,2010-02-06,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Test,India,South Africa,South Africa,bat,South Africa,1110,26,2105,350.83
+441826,2010-02-14,Eden Gardens,Kolkata,Test,India,South Africa,South Africa,bat,India,1229,26,2270,378.33
+456669,2010-07-18,Galle International Stadium,,Test,Sri Lanka,India,Sri Lanka,bat,Sri Lanka,1230,28,1945,324.17
+456670,2010-07-26,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,India,Sri Lanka,bat,,1478,17,2609,434.83
+456671,2010-08-03,P Sara Oval,Colombo,Test,Sri Lanka,India,Sri Lanka,bat,India,1386,35,2437,406.17
+461571,2010-11-12,Dubai International Cricket Stadium,,Test,Pakistan,South Africa,South Africa,bat,,1289,25,2589,431.5
+461572,2010-11-20,Sheikh Zayed Stadium,Abu Dhabi,Test,Pakistan,South Africa,Pakistan,field,,1374,27,2529,421.5
+463146,2010-12-16,SuperSport Park,Centurion,Test,South Africa,India,South Africa,field,South Africa,1215,24,1803,300.5
+463147,2010-12-26,Kingsmead,Durban,Test,South Africa,India,South Africa,field,India,779,40,1507,251.17
+463148,2011-01-02,Newlands,Cape Town,Test,South Africa,India,India,field,,1233,33,2515,419.17
+464526,2010-10-01,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Test,India,Australia,Australia,bat,India,1241,39,2299,383.17
+464527,2010-10-09,M Chinnaswamy Stadium,Bangalore,Test,India,Australia,Australia,bat,India,1403,33,2458,409.67
+464531,2010-11-04,"Sardar Patel Stadium, Motera",Ahmedabad,Test,India,New Zealand,India,bat,,1234,31,2593,432.17
+464532,2010-11-12,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Test,India,New Zealand,New Zealand,bat,,1338,28,2493,415.5
+464533,2010-11-20,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Test,India,New Zealand,New Zealand,bat,India,934,28,1705,284.17
+464987,2010-11-15,Galle International Stadium,,Test,Sri Lanka,West Indies,West Indies,bat,,1199,23,2076,346.0
+464988,2010-11-23,R Premadasa Stadium,Colombo,Test,Sri Lanka,West Indies,Sri Lanka,bat,,699,22,1296,216.0
+464989,2010-12-01,Pallekele International Cricket Stadium,,Test,Sri Lanka,West Indies,Sri Lanka,field,,303,8,625,104.17
+473921,2011-01-07,Seddon Park,Hamilton,Test,New Zealand,Pakistan,Pakistan,field,Pakistan,773,30,1584,264.0
+473922,2011-01-15,Basin Reserve,Wellington,Test,New Zealand,Pakistan,New Zealand,bat,,1251,35,2683,447.17
+474463,2011-05-26,Sophia Gardens,Cardiff,Test,England,Sri Lanka,Sri Lanka,bat,England,978,25,1795,299.17
+474464,2011-06-03,Lord's,London,Test,England,Sri Lanka,Sri Lanka,field,,1427,30,2235,372.5
+474465,2011-06-16,The Rose Bowl,Southampton,Test,England,Sri Lanka,England,field,,895,23,1588,264.67
+474472,2011-07-21,Lord's,London,Test,England,India,India,field,England,1290,34,2393,398.83
+474473,2011-07-29,Trent Bridge,Nottingham,Test,England,India,India,field,England,1211,40,1979,329.83
+474474,2011-08-10,Edgbaston,Birmingham,Test,England,India,England,field,England,1178,27,1855,309.17
+474475,2011-08-18,Kennington Oval,London,Test,England,India,England,bat,England,1174,26,2044,340.67
+474625,2011-01-22,"Bankstown Oval, Sydney",Sydney,Test,England,Australia,England,bat,Australia,713,32,2256,376.0
+489218,2011-05-12,Providence Stadium,Guyana,Test,West Indies,Pakistan,West Indies,bat,West Indies,716,40,1795,299.17
+489219,2011-05-20,"Warner Park, Basseterre",St Kitts,Test,West Indies,Pakistan,Pakistan,bat,Pakistan,1102,36,2345,390.83
+489226,2011-06-20,"Sabina Park, Kingston",Jamaica,Test,West Indies,India,India,bat,India,933,40,1776,296.0
+489227,2011-06-28,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,India,West Indies,field,,862,33,1918,319.67
+489228,2011-07-06,"Windsor Park, Roseau",Dominica,Test,West Indies,India,India,field,,967,33,2109,351.5
+514029,2011-11-09,Newlands,Cape Town,Test,South Africa,Australia,South Africa,field,South Africa,663,32,1018,169.67
+514030,2011-11-17,New Wanderers Stadium,Johannesburg,Test,South Africa,Australia,South Africa,bat,Australia,1211,38,2093,348.83
+514032,2011-12-15,SuperSport Park,Centurion,Test,South Africa,Sri Lanka,South Africa,field,South Africa,741,30,1284,214.0
+514033,2011-12-26,Kingsmead,Durban,Test,South Africa,Sri Lanka,Sri Lanka,bat,Sri Lanka,1026,40,1990,331.67
+514034,2012-01-03,Newlands,Cape Town,Test,South Africa,Sri Lanka,Sri Lanka,field,South Africa,1163,24,1932,322.0
+516212,2011-08-31,Galle International Stadium,,Test,Sri Lanka,Australia,Australia,bat,Australia,841,40,1757,292.83
+516213,2011-09-08,Pallekele International Cricket Stadium,,Test,Sri Lanka,Australia,Sri Lanka,bat,,902,23,1877,312.83
+516214,2011-09-16,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,Australia,Sri Lanka,field,,1284,30,2528,421.33
+518947,2011-12-01,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,New Zealand,New Zealand,bat,Australia,891,31,1605,267.5
+518948,2011-12-09,Bellerive Oval,Hobart,Test,Australia,New Zealand,Australia,field,New Zealand,745,40,1443,240.5
+518950,2011-12-26,Melbourne Cricket Ground,,Test,Australia,India,Australia,bat,Australia,1024,40,1987,331.17
+518951,2012-01-03,Sydney Cricket Ground,,Test,Australia,India,India,bat,Australia,1250,24,2017,336.17
+518952,2012-01-13,Western Australia Cricket Association Ground,Perth,Test,Australia,India,Australia,field,Australia,701,30,1207,201.17
+518953,2012-01-24,Adelaide Oval,,Test,Australia,India,Australia,bat,Australia,1244,32,2214,369.0
+520591,2012-01-26,McLean Park,Napier,Test,New Zealand,Zimbabwe,Zimbabwe,field,New Zealand,689,28,1219,203.17
+520603,2012-03-07,University Oval,Dunedin,Test,New Zealand,South Africa,New Zealand,field,,1083,27,2035,339.17
+520604,2012-03-15,Seddon Park,Hamilton,Test,New Zealand,South Africa,South Africa,field,South Africa,709,31,1364,227.33
+520605,2012-03-23,Basin Reserve,Wellington,Test,New Zealand,South Africa,New Zealand,field,,1138,28,2143,357.17
+521225,2012-03-26,Galle International Stadium,,Test,Sri Lanka,England,Sri Lanka,bat,Sri Lanka,989,40,1971,328.5
+521226,2012-04-03,P Sara Oval,Colombo,Test,Sri Lanka,England,Sri Lanka,bat,England,1110,32,2418,403.0
+522245,2011-08-04,Harare Sports Club,,Test,Zimbabwe,Bangladesh,Bangladesh,field,Zimbabwe,1192,35,2275,379.17
+523731,2011-09-01,Queens Sports Club,Bulawayo,Test,Zimbabwe,Pakistan,Pakistan,field,Pakistan,1107,33,2316,386.0
+527017,2011-11-01,Queens Sports Club,Bulawayo,Test,Zimbabwe,New Zealand,New Zealand,bat,New Zealand,1322,38,2681,446.83
+530424,2011-10-18,Sheikh Zayed Stadium,Abu Dhabi,Test,Pakistan,Sri Lanka,Pakistan,field,,1212,27,2591,431.83
+530425,2011-10-26,Dubai International Cricket Stadium,,Test,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan,993,31,2138,356.33
+530426,2011-11-03,Sharjah Cricket Stadium,,Test,Pakistan,Sri Lanka,Sri Lanka,bat,,1021,30,2456,409.33
+531628,2012-01-17,Dubai International Cricket Stadium,,Test,England,Pakistan,England,bat,Pakistan,705,30,1527,254.5
+531629,2012-01-25,Sheikh Zayed Stadium,Abu Dhabi,Test,England,Pakistan,Pakistan,bat,Pakistan,870,40,2068,344.67
+531630,2012-02-03,Dubai International Cricket Stadium,,Test,England,Pakistan,Pakistan,bat,Pakistan,857,40,2099,349.83
+531986,2011-10-21,Zahur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,West Indies,Bangladesh,bat,,813,24,1544,257.33
+531987,2011-10-29,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,West Indies,West Indies,bat,West Indies,1247,35,2334,389.0
+534205,2012-05-17,Lord's,London,Test,England,West Indies,England,field,England,1179,35,2309,384.83
+534206,2012-05-25,Trent Bridge,Nottingham,Test,England,West Indies,West Indies,bat,England,1074,31,1964,327.33
+534207,2012-06-07,Edgbaston,Birmingham,Test,England,West Indies,England,field,,647,15,1129,188.17
+534225,2012-07-19,Kennington Oval,London,Test,England,South Africa,England,bat,South Africa,1262,22,2501,416.83
+534226,2012-08-02,Headingley,Leeds,Test,England,South Africa,England,field,,1232,33,2220,370.0
+534227,2012-08-16,Lord's,London,Test,England,South Africa,South Africa,bat,South Africa,1269,40,2509,418.17
+535997,2011-11-06,Feroz Shah Kotla,Delhi,Test,India,West Indies,West Indies,bat,India,969,35,1801,300.17
+535998,2011-11-14,Eden Gardens,Kolkata,Test,India,West Indies,India,bat,India,1247,27,1967,327.83
+535999,2011-11-22,Wankhede Stadium,Mumbai,Test,India,West Indies,West Indies,bat,,1448,39,2659,443.17
+538072,2011-12-09,Zahur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,Pakistan,Pakistan,field,Pakistan,1004,24,1882,313.67
+538073,2011-12-17,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,Pakistan,Pakistan,field,Pakistan,1149,33,2205,367.5
+540176,2012-04-07,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,Australia,West Indies,bat,Australia,1195,35,2484,414.0
+540177,2012-04-15,"Queen's Park Oval, Port of Spain",Trinidad,Test,West Indies,Australia,Australia,bat,,781,30,1890,315.0
+540178,2012-04-23,"Windsor Park, Roseau",Dominica,Test,West Indies,Australia,Australia,bat,Australia,1099,40,2318,386.33
+560929,2012-07-25,"Sir Vivian Richards Stadium, North Sound",Antigua,Test,West Indies,New Zealand,New Zealand,bat,West Indies,1247,31,2520,420.0
+560930,2012-08-02,"Sabina Park, Kingston",Jamaica,Test,West Indies,New Zealand,West Indies,field,West Indies,829,35,1680,280.0
+562444,2012-06-22,Galle International Stadium,,Test,Sri Lanka,Pakistan,Sri Lanka,bat,Sri Lanka,1009,35,2184,364.0
+562445,2012-06-30,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,Pakistan,Sri Lanka,field,,1128,20,1876,312.67
+562446,2012-07-08,Pallekele International Cricket Stadium,,Test,Sri Lanka,Pakistan,Sri Lanka,field,,1138,32,2189,364.83
+565806,2012-11-15,"Sardar Patel Stadium, Motera",Ahmedabad,Test,India,England,India,bat,India,1198,29,2428,404.67
+565807,2012-11-23,Wankhede Stadium,Mumbai,Test,India,England,India,bat,England,940,30,1745,290.83
+565808,2012-12-05,Eden Gardens,Kolkata,Test,India,England,India,bat,England,1127,33,2223,370.5
+565809,2012-12-13,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Test,India,England,England,bat,,1008,23,2663,443.83
+565817,2012-08-23,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Test,India,New Zealand,India,bat,India,761,30,1657,276.17
+565818,2012-08-31,M Chinnaswamy Stadium,Bangalore,Test,India,New Zealand,New Zealand,bat,India,1228,35,1951,325.17
+566921,2013-05-16,Lord's,London,Test,England,New Zealand,England,bat,England,720,40,1647,274.5
+566922,2013-05-24,Headingley,Leeds,Test,England,New Zealand,England,bat,England,1035,35,1780,296.67
+566932,2013-07-10,Trent Bridge,Nottingham,Test,England,Australia,England,bat,England,1166,40,2320,386.67
+566933,2013-07-18,Lord's,London,Test,England,Australia,England,bat,England,1073,37,2163,360.5
+566934,2013-08-01,Old Trafford,Manchester,Test,England,Australia,Australia,bat,,1104,27,2061,343.5
+566935,2013-08-09,Riverside Ground,Chester-le-Street,Test,England,Australia,England,bat,England,1062,40,2084,347.33
+566936,2013-08-21,Kennington Oval,London,Test,England,Australia,Australia,bat,,1186,30,2034,339.0
+567356,2013-01-02,Newlands,Cape Town,Test,South Africa,New Zealand,New Zealand,bat,South Africa,667,28,1308,218.0
+567357,2013-01-11,St George's Park,Port Elizabeth,Test,South Africa,New Zealand,South Africa,bat,South Africa,857,28,1720,286.67
+567363,2013-02-01,New Wanderers Stadium,Johannesburg,Test,South Africa,Pakistan,South Africa,bat,South Africa,845,33,1679,279.83
+567364,2013-02-14,Newlands,Cape Town,Test,South Africa,Pakistan,South Africa,field,South Africa,1015,36,2042,340.33
+567365,2013-02-22,SuperSport Park,Centurion,Test,South Africa,Pakistan,South Africa,bat,South Africa,800,30,1397,232.83
+569243,2013-03-06,University Oval,Dunedin,Test,New Zealand,England,New Zealand,field,,1048,25,2054,342.33
+569244,2013-03-14,Basin Reserve,Wellington,Test,New Zealand,England,New Zealand,field,,881,22,1841,306.83
+569245,2013-03-22,Eden Park,Auckland,Test,New Zealand,England,England,field,,1203,35,2657,442.83
+573007,2012-11-09,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,South Africa,South Africa,bat,,1181,19,2189,364.83
+573008,2012-11-22,Adelaide Oval,,Test,Australia,South Africa,Australia,bat,,1453,36,2731,455.17
+573009,2012-11-30,Western Australia Cricket Association Ground,Perth,Test,Australia,South Africa,South Africa,bat,South Africa,1279,40,1938,323.0
+573011,2012-12-14,Bellerive Oval,Hobart,Test,Australia,Sri Lanka,Australia,bat,Australia,1319,35,2621,436.83
+573012,2012-12-26,Melbourne Cricket Ground,,Test,Australia,Sri Lanka,Sri Lanka,bat,Australia,719,28,1228,204.67
+573013,2013-01-03,Sydney Cricket Ground,,Test,Australia,Sri Lanka,Australia,field,Australia,1145,34,1927,321.17
+582192,2012-11-17,Galle International Stadium,,Test,Sri Lanka,New Zealand,New Zealand,bat,Sri Lanka,679,30,1360,226.67
+582193,2012-11-25,P Sara Oval,Colombo,Test,Sri Lanka,New Zealand,New Zealand,bat,New Zealand,1045,39,2330,388.33
+587469,2012-11-13,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,West Indies,West Indies,bat,West Indies,1523,34,2551,425.17
+587470,2012-11-21,Sheikh Abu Naser Stadium,Khulna,Test,Bangladesh,West Indies,Bangladesh,bat,West Indies,1352,29,2213,368.83
+592397,2013-11-21,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,England,Australia,bat,Australia,1011,37,1953,325.5
+592398,2013-12-05,Adelaide Oval,,Test,Australia,England,Australia,bat,Australia,1186,32,2217,369.5
+592399,2013-12-13,Western Australia Cricket Association Ground,Perth,Test,Australia,England,Australia,bat,Australia,1358,36,2300,383.33
+592400,2013-12-26,Melbourne Cricket Ground,,Test,Australia,England,Australia,field,Australia,869,32,1774,295.67
+592401,2014-01-03,Sydney Cricket Ground,,Test,Australia,England,England,field,Australia,923,40,1385,230.83
+593722,2013-08-11,Sir Paul Getty's Ground,Wormsley,Test,England,Australia,Australia,bat,,969,23,2322,387.0
+593988,2013-03-12,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,Zimbabwe,Zimbabwe,bat,West Indies,637,31,1251,208.5
+593989,2013-03-20,"Windsor Park, Roseau",Dominica,Test,West Indies,Zimbabwe,West Indies,field,West Indies,697,28,1324,220.67
+598812,2013-02-22,"MA Chidambaram Stadium, Chepauk",Chennai,Test,India,Australia,Australia,bat,India,1243,32,2356,392.67
+598813,2013-03-02,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Test,India,Australia,Australia,bat,India,871,29,1840,306.67
+598814,2013-03-14,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Test,India,Australia,Australia,bat,India,1266,34,2388,398.0
+598815,2013-03-22,Feroz Shah Kotla,Delhi,Test,India,Australia,Australia,bat,India,856,34,1562,260.33
+602472,2013-03-08,Galle International Stadium,,Test,Sri Lanka,Bangladesh,Sri Lanka,bat,,1613,19,2636,439.33
+602473,2013-03-16,R Premadasa Stadium,Colombo,Test,Sri Lanka,Bangladesh,Sri Lanka,field,Sri Lanka,1011,33,2048,341.33
+623576,2013-04-17,Harare Sports Club,,Test,Zimbabwe,Bangladesh,Bangladesh,field,Zimbabwe,897,37,1933,322.17
+623577,2013-04-25,Harare Sports Club,,Test,Zimbabwe,Bangladesh,Zimbabwe,field,Bangladesh,1221,39,2374,395.67
+63963,2001-12-19,"M Chinnaswamy Stadium, Bangalore",Bengaluru,Test,England,India,England,bat,,607,20,1357,226.17
+64012,2002-12-26,Melbourne Cricket Ground,Melbourne,Test,Australia,England,Australia,bat,Australia,1315,31,2315,385.83
+64013,2003-01-02,Sydney Cricket Ground,Sydney,Test,England,Australia,England,bat,England,1403,39,2361,393.5
+64022,2002-12-26,"Kingsmead, Durban",Durban,Test,South Africa,Pakistan,Pakistan,field,South Africa,824,30,1553,258.83
+64023,2003-01-02,"Newlands, Cape Town",Cape Town,Test,South Africa,Pakistan,South Africa,bat,South Africa,1098,27,1720,286.67
+64027,2003-05-09,"Antigua Recreation Ground, St John's, Antigua",St John's,Test,Australia,West Indies,Australia,bat,West Indies,1315,37,2258,376.33
+64036,2003-07-18,"Marrara Cricket Ground, Darwin",Darwin,Test,Bangladesh,Australia,Australia,field,Australia,682,27,1287,214.5
+64038,2003-07-24,"Edgbaston, Birmingham",Birmingham,Test,South Africa,England,South Africa,bat,,1246,20,1991,331.83
+64040,2003-08-14,"Trent Bridge, Nottingham",Nottingham,Test,England,South Africa,England,bat,England,1056,40,2238,373.0
+64041,2003-08-21,"Headingley, Leeds",Leeds,Test,South Africa,England,South Africa,bat,South Africa,1223,40,2230,371.67
+64042,2003-09-04,"Kennington Oval, London",London,Test,South Africa,England,South Africa,bat,England,1427,30,2316,386.0
+64045,2003-09-03,Multan Cricket Stadium,Multan,Test,Bangladesh,Pakistan,Bangladesh,bat,Pakistan,872,39,1776,296.0
+64047,2003-10-16,"Punjab Cricket Association Stadium, Mohali, Chandigarh",Chandigarh,Test,New Zealand,India,New Zealand,bat,,1190,20,2646,441.0
+64048,2003-10-09,"Western Australia Cricket Association Ground, Perth",Perth,Test,Australia,Zimbabwe,Zimbabwe,field,Australia,1295,26,2200,366.67
+64049,2003-10-17,Sydney Cricket Ground,Sydney,Test,Zimbabwe,Australia,Zimbabwe,bat,Australia,1149,31,2025,337.5
+64050,2003-10-17,"Gaddafi Stadium, Lahore",Lahore,Test,South Africa,Pakistan,South Africa,bat,Pakistan,1126,32,2183,363.83
+64051,2003-10-24,"Iqbal Stadium, Faisalabad",Faisalabad,Test,South Africa,Pakistan,South Africa,bat,,1239,34,2662,443.67
+64052,2003-10-21,"Bangabandhu National Stadium, Dhaka",Dhaka,Test,Bangladesh,England,Bangladesh,bat,England,917,33,2121,353.5
+64053,2003-10-29,"MA Aziz Stadium, Chittagong",Chattogram,Test,England,Bangladesh,Bangladesh,field,England,909,34,1840,306.67
+64055,2003-11-12,"Queens Sports Club, Bulawayo",Bulawayo,Test,West Indies,Zimbabwe,West Indies,bat,West Indies,1090,40,2080,346.67
+64058,2003-12-18,"Sinhalese Sports Club Ground, Colombo",Colombo,Test,England,Sri Lanka,England,bat,Sri Lanka,1041,28,2113,352.17
+64059,2003-12-04,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Test,Australia,India,India,field,,1089,25,1692,282.0
+64062,2004-01-02,Sydney Cricket Ground,Sydney,Test,India,Australia,India,bat,,1747,25,2730,455.0
+64063,2003-12-12,"New Wanderers Stadium, Johannesburg",Johannesburg,Test,South Africa,West Indies,South Africa,bat,South Africa,1385,37,2420,403.33
+64071,2004-03-08,Galle International Stadium,Galle,Test,Australia,Sri Lanka,Australia,bat,Australia,1267,38,2420,403.33
+64075,2004-03-18,Eden Park,Auckland,Test,South Africa,New Zealand,New Zealand,field,New Zealand,1293,31,2362,393.67
+64076,2004-03-26,"Basin Reserve, Wellington",Wellington,Test,New Zealand,South Africa,South Africa,field,South Africa,1099,34,2251,375.17
+64080,2004-04-10,Antigua Recreation Ground,St John's,Test,West Indies,England,West Indies,bat,,1458,20,2680,446.67
+64083,2004-04-13,Rawalpindi Cricket Stadium,Rawalpindi,Test,Pakistan,India,India,field,India,1069,30,1848,308.0
+64094,2004-07-29,Edgbaston,Birmingham,Test,England,West Indies,England,bat,England,1372,39,2108,351.33
+64096,2004-08-19,Kennington Oval,London,Test,England,West Indies,England,bat,England,944,29,1493,248.83
+64100,2004-10-14,MA Chidambaram Stadium,Chennai,Test,Australia,India,Australia,bat,,999,30,2077,346.17
+64102,2004-11-03,Wankhede Stadium,Mumbai,Test,India,Australia,India,bat,India,605,40,1218,203.0
+64104,2004-10-26,MA Aziz Stadium,Chattogram,Test,New Zealand,Bangladesh,New Zealand,bat,New Zealand,989,26,1788,298.0
+64107,2004-11-18,Brisbane Cricket Ground,Brisbane,Test,New Zealand,Australia,New Zealand,bat,Australia,1014,30,1866,311.0
+64108,2004-11-26,Adelaide Oval,Adelaide,Test,Australia,New Zealand,Australia,bat,Australia,1215,30,2311,385.17
+64109,2004-11-20,Green Park,Kanpur,Test,South Africa,India,South Africa,bat,,1145,23,2364,394.0
+64110,2004-11-28,Eden Gardens,Kolkata,Test,South Africa,India,South Africa,bat,India,1058,32,2345,390.83
+64111,2004-12-10,Bangabandhu National Stadium,Dhaka,Test,Bangladesh,India,India,field,India,912,30,1497,249.5
+64113,2004-12-16,W.A.C.A. Ground,Perth,Test,Australia,Pakistan,Pakistan,field,Australia,993,35,1744,290.67
+64118,2005-01-02,Newlands,Cape Town,Test,South Africa,England,South Africa,bat,South Africa,1130,38,2400,400.0
+64123,2005-03-04,Newlands,Cape Town,Test,Zimbabwe,South Africa,Zimbabwe,bat,South Africa,659,23,957,159.5
+64124,2005-03-11,SuperSport Park,Centurion,Test,Zimbabwe,South Africa,South Africa,field,South Africa,898,27,1562,260.33
+64128,2005-03-10,AMI Stadium,Christchurch,Test,New Zealand,Australia,Australia,field,Australia,1131,31,2088,348.0
+64129,2005-03-18,Basin Reserve,Wellington,Test,Australia,New Zealand,New Zealand,field,,862,21,1456,242.67
+64134,2005-04-11,Basin Reserve,Wellington,Test,Sri Lanka,New Zealand,New Zealand,field,New Zealand,1006,29,1858,309.67
+648665,2013-12-18,New Wanderers Stadium,Johannesburg,Test,South Africa,India,India,bat,,1395,37,2633,438.83
+648667,2013-12-26,Kingsmead,Durban,Test,South Africa,India,India,bat,South Africa,1116,30,2200,366.67
+648673,2014-02-12,SuperSport Park,Centurion,Test,South Africa,Australia,South Africa,field,Australia,1093,34,1909,318.17
+648675,2014-02-20,St George's Park,Port Elizabeth,Test,South Africa,Australia,South Africa,bat,South Africa,1155,35,2078,346.33
+648677,2014-03-01,Newlands,Cape Town,Test,South Africa,Australia,Australia,bat,Australia,1349,32,2442,407.0
+649087,2013-10-14,Sheikh Zayed Stadium,Abu Dhabi,Test,Pakistan,South Africa,South Africa,bat,Pakistan,968,33,1974,329.0
+649089,2013-10-23,Dubai International Cricket Stadium,,Test,Pakistan,South Africa,Pakistan,bat,South Africa,942,29,2015,335.83
+657647,2013-12-31,Sheikh Zayed Stadium,Abu Dhabi,Test,Pakistan,Sri Lanka,Pakistan,field,,1225,27,2493,415.5
+657649,2014-01-08,Dubai International Cricket Stadium,,Test,Pakistan,Sri Lanka,Sri Lanka,field,Sri Lanka,1049,31,2293,382.17
+657651,2014-01-16,Sharjah Cricket Stadium,,Test,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan,1285,34,2654,442.33
+659555,2013-09-03,Harare Sports Club,,Test,Zimbabwe,Pakistan,Zimbabwe,field,Pakistan,1115,39,2345,390.83
+659557,2013-09-10,Harare Sports Club,,Test,Zimbabwe,Pakistan,Zimbabwe,bat,Zimbabwe,962,40,2322,387.0
+661679,2013-12-03,University Oval,Dunedin,Test,New Zealand,West Indies,West Indies,field,,1408,33,2452,408.67
+661681,2013-12-11,Basin Reserve,Wellington,Test,New Zealand,West Indies,West Indies,field,New Zealand,809,30,1328,221.33
+661683,2013-12-19,Seddon Park,Hamilton,Test,New Zealand,West Indies,New Zealand,field,New Zealand,943,32,1844,307.33
+667651,2014-02-06,Eden Park,Auckland,Test,New Zealand,India,India,field,New Zealand,1176,40,1939,323.17
+667653,2014-02-14,Basin Reserve,Wellington,Test,New Zealand,India,India,field,,1476,31,2535,422.5
+667711,2014-07-09,Trent Bridge,Nottingham,Test,England,India,India,bat,,1344,29,2598,433.0
+667713,2014-07-17,Lord's,London,Test,England,India,England,field,India,1179,40,2344,390.67
+667715,2014-07-27,The Rose Bowl,Southampton,Test,England,India,England,bat,England,1282,31,2271,378.5
+667717,2014-08-07,Old Trafford,Manchester,Test,England,India,India,bat,England,680,30,1186,197.67
+667719,2014-08-15,Kennington Oval,London,Test,England,India,England,field,England,728,30,1255,209.17
+667899,2014-06-12,Lord's,London,Test,England,Sri Lanka,Sri Lanka,field,,1496,36,2588,431.33
+667901,2014-06-20,Headingley,Leeds,Test,England,Sri Lanka,England,field,Sri Lanka,1328,40,2654,442.33
+668949,2013-10-09,Zahur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,New Zealand,New Zealand,bat,,1430,30,2675,445.83
+668951,2013-10-21,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,New Zealand,Bangladesh,bat,,988,23,1827,304.5
+67517,2003-02-22,"Bankstown Oval, Sydney",Sydney,Test,Australia,England,England,field,,713,33,2468,411.33
+676525,2013-11-06,Eden Gardens,Kolkata,Test,India,West Indies,West Indies,bat,India,855,30,1575,262.5
+676527,2013-11-14,Wankhede Stadium,Mumbai,Test,India,West Indies,India,field,India,864,30,1267,211.17
+690347,2014-01-27,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,Sri Lanka,Sri Lanka,field,Sri Lanka,1212,26,1839,306.5
+690349,2014-02-04,Zahur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,Sri Lanka,Sri Lanka,bat,,1589,27,2659,443.17
+722329,2014-12-17,SuperSport Park,Centurion,Test,South Africa,West Indies,West Indies,field,South Africa,884,23,1472,245.33
+722331,2014-12-26,St George's Park,Port Elizabeth,Test,South Africa,West Indies,West Indies,field,,692,17,1216,202.67
+722333,2015-01-02,Newlands,Cape Town,Test,South Africa,West Indies,West Indies,bat,South Africa,1089,32,2063,343.83
+722387,2014-08-13,Sir Paul Getty's Ground,Wormsley,Test,England,India,India,field,India,591,34,1800,300.0
+727927,2014-10-22,Dubai International Cricket Stadium,,Test,Australia,Pakistan,Pakistan,bat,Pakistan,1259,31,2509,418.17
+727929,2014-10-30,Sheikh Zayed Stadium,Abu Dhabi,Test,Australia,Pakistan,Pakistan,bat,Pakistan,1370,29,2296,382.67
+730089,2014-07-16,Galle International Stadium,,Test,Sri Lanka,South Africa,South Africa,bat,South Africa,1169,35,2364,394.0
+730091,2014-07-24,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,South Africa,Sri Lanka,bat,,1091,36,2541,423.5
+730277,2014-06-08,"Sabina Park, Kingston",Jamaica,Test,West Indies,New Zealand,New Zealand,bat,New Zealand,1142,35,2193,365.5
+730279,2014-06-16,"Queen's Park Oval, Port of Spain",Trinidad,Test,West Indies,New Zealand,New Zealand,bat,West Indies,1107,30,2277,379.5
+730281,2014-06-26,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,New Zealand,New Zealand,bat,New Zealand,1195,37,2100,350.0
+730295,2014-09-05,"Arnos Vale Ground, Kingstown",St Vincent,Test,West Indies,Bangladesh,Bangladesh,field,West Indies,993,27,2094,349.0
+730297,2014-09-13,"Beausejour Stadium, Gros Islet",St Lucia,Test,West Indies,Bangladesh,Bangladesh,field,West Indies,1002,34,2065,344.17
+736435,2014-08-09,Harare Sports Club,,Test,Zimbabwe,South Africa,Zimbabwe,bat,South Africa,878,31,2035,339.17
+742611,2014-11-09,Sheikh Zayed Stadium,Abu Dhabi,Test,New Zealand,Pakistan,Pakistan,bat,Pakistan,1234,25,2216,369.33
+742613,2014-11-17,Dubai International Cricket Stadium,,Test,New Zealand,Pakistan,New Zealand,bat,,1242,34,2612,435.33
+742615,2014-11-26,Sharjah Cricket Stadium,,Test,New Zealand,Pakistan,Pakistan,bat,New Zealand,1300,30,2011,335.17
+743939,2015-05-21,Lord's,London,Test,England,New Zealand,New Zealand,field,England,1610,40,2587,431.17
+743941,2015-05-29,Headingley,Leeds,Test,England,New Zealand,England,field,New Zealand,1409,38,2190,365.0
+743963,2015-07-08,Sophia Gardens,Cardiff,Test,England,Australia,England,bat,England,1269,40,1973,328.83
+743965,2015-07-16,Lord's,London,Test,England,Australia,Australia,bat,Australia,1235,31,1954,325.67
+743967,2015-07-29,Edgbaston,Birmingham,Test,England,Australia,Australia,bat,England,806,32,1298,216.33
+743969,2015-08-06,Trent Bridge,Nottingham,Test,England,Australia,England,field,England,704,29,1072,178.67
+743971,2015-08-20,Kennington Oval,London,Test,England,Australia,England,field,Australia,916,30,1666,277.67
+745153,2014-08-06,Galle International Stadium,,Test,Sri Lanka,Pakistan,Pakistan,bat,Sri Lanka,1263,32,2413,402.17
+745155,2014-08-14,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,Pakistan,Sri Lanka,bat,Sri Lanka,1099,39,2137,356.17
+749777,2014-12-26,Hagley Oval,Christchurch,Test,New Zealand,Sri Lanka,Sri Lanka,field,New Zealand,1093,32,1897,316.17
+749779,2015-01-03,Basin Reserve,Wellington,Test,New Zealand,Sri Lanka,Sri Lanka,field,New Zealand,1297,35,2443,407.17
+754737,2014-12-09,Adelaide Oval,,Test,Australia,India,Australia,bat,Australia,1566,32,2378,396.33
+754739,2014-12-17,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,India,India,bat,Australia,1267,36,1870,311.67
+754741,2014-12-26,Melbourne Cricket Ground,,Test,Australia,India,Australia,bat,,1487,35,2627,437.83
+754743,2015-01-06,Sydney Cricket Ground,,Test,Australia,India,Australia,bat,,1550,30,2677,446.17
+760781,2014-10-25,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,Zimbabwe,Zimbabwe,bat,Bangladesh,709,37,1462,243.67
+760783,2014-11-03,Sheikh Abu Naser Stadium,Khulna,Test,Bangladesh,Zimbabwe,Bangladesh,bat,Bangladesh,1200,39,2585,430.83
+760785,2014-11-12,Zahur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,Zimbabwe,Bangladesh,bat,Bangladesh,1458,35,2546,424.33
+766929,2015-04-13,"Sir Vivian Richards Stadium, North Sound",Antigua,Test,West Indies,England,West Indies,field,,1377,34,2658,443.0
+766931,2015-04-21,"National Cricket Stadium, St George's",Grenada,Test,West Indies,England,England,field,England,1214,31,2435,405.83
+766933,2015-05-01,"Kensington Oval, Bridgetown",Barbados,Test,West Indies,England,England,bat,West Indies,763,35,1511,251.83
+798375,2015-08-11,St Lawrence Ground,Canterbury,Test,England,Australia,Australia,bat,Australia,699,35,1813,302.17
+800461,2015-12-26,Kingsmead,Durban,Test,South Africa,England,South Africa,field,England,1017,40,2135,355.83
+800463,2016-01-02,Newlands,Cape Town,Test,South Africa,England,England,bat,,1415,19,2440,406.67
+800465,2016-01-14,New Wanderers Stadium,Johannesburg,Test,South Africa,England,South Africa,bat,England,793,33,1400,233.33
+800467,2016-01-22,SuperSport Park,Centurion,Test,South Africa,England,South Africa,bat,South Africa,1166,35,2137,356.17
+810423,2015-06-03,"Windsor Park, Roseau",Dominica,Test,West Indies,Australia,West Indies,bat,Australia,729,31,1521,253.5
+810425,2015-06-11,"Sabina Park, Kingston",Jamaica,Test,West Indies,Australia,West Indies,field,Australia,945,32,1773,295.5
+817213,2015-07-21,Zahur Ahmed Chowdhury Stadium,Chittagong,Test,Bangladesh,South Africa,South Africa,bat,,635,20,1328,221.33
+817215,2015-07-30,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,South Africa,Bangladesh,bat,,246,8,531,88.5
+858493,2015-04-28,Sheikh Abu Naser Stadium,Khulna,Test,Bangladesh,Pakistan,Bangladesh,bat,,1515,26,2562,427.0
+858495,2015-05-06,Shere Bangla National Stadium,Mirpur,Test,Bangladesh,Pakistan,Bangladesh,field,Pakistan,1176,32,1802,300.33
+860263,2015-06-17,Galle International Stadium,,Test,Sri Lanka,Pakistan,Pakistan,field,Pakistan,1015,30,1880,313.33
+860265,2015-06-25,P Sara Oval,Colombo,Test,Sri Lanka,Pakistan,Pakistan,bat,Sri Lanka,935,33,1872,312.0
+860267,2015-07-03,Pallekele International Cricket Stadium,,Test,Sri Lanka,Pakistan,Pakistan,field,Pakistan,1188,33,2144,357.33
+870729,2015-06-10,Khan Shaheb Osman Ali Stadium,Fatullah,Test,Bangladesh,India,India,bat,,741,16,1110,185.0
+892509,2015-11-05,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Test,Australia,New Zealand,Australia,bat,Australia,1432,28,2085,347.5
+892511,2015-11-13,Western Australia Cricket Association Ground,Perth,Test,Australia,New Zealand,Australia,bat,,1672,28,2517,419.5
+892513,2015-11-27,Adelaide Oval,,Test,Australia,New Zealand,New Zealand,bat,Australia,821,37,1512,252.0
+892515,2015-12-10,Bellerive Oval,Hobart,Test,Australia,West Indies,Australia,bat,Australia,954,22,1350,225.0
+892517,2015-12-26,Melbourne Cricket Ground,,Test,Australia,West Indies,West Indies,field,Australia,1283,26,2153,358.83
+892519,2016-01-03,Sydney Cricket Ground,,Test,Australia,West Indies,West Indies,bat,,506,12,902,150.33
+895773,2015-08-12,Galle International Stadium,,Test,Sri Lanka,India,Sri Lanka,bat,Sri Lanka,1037,40,1828,304.67
+895775,2015-08-20,P Sara Oval,Colombo,Test,Sri Lanka,India,India,bat,India,1158,38,2159,359.83
+895777,2015-08-28,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,India,Sri Lanka,field,India,1055,40,1916,319.33
+902635,2015-10-13,Sheikh Zayed Stadium,Abu Dhabi,Test,England,Pakistan,Pakistan,bat,,1368,31,2575,429.17
+902637,2015-10-22,Dubai International Cricket Stadium,,Test,England,Pakistan,Pakistan,bat,Pakistan,1286,36,2573,428.83
+902639,2015-11-01,Sharjah Cricket Stadium,,Test,England,Pakistan,Pakistan,bat,Pakistan,1051,40,2351,391.83
+903603,2015-11-05,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Test,India,South Africa,India,bat,India,694,40,1513,252.17
+903605,2015-11-14,M Chinnaswamy Stadium,Bangalore,Test,India,South Africa,India,field,,294,10,495,82.5
+903607,2015-11-25,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Test,India,South Africa,India,bat,India,652,40,1497,249.5
+903609,2015-12-03,Feroz Shah Kotla,Delhi,Test,India,South Africa,India,bat,India,865,35,2471,411.83
+913613,2016-05-19,Headingley,Leeds,Test,England,Sri Lanka,Sri Lanka,field,England,508,30,989,164.83
+913615,2016-05-27,Riverside Ground,Chester-le-Street,Test,England,Sri Lanka,England,bat,England,1154,30,1971,328.5
+913617,2016-06-09,Lord's,London,Test,England,Sri Lanka,England,bat,,1015,28,1924,320.67
+913641,2016-07-14,Lord's,London,Test,England,Pakistan,Pakistan,bat,Pakistan,1033,40,2009,334.83
+913643,2016-07-22,Old Trafford,Manchester,Test,England,Pakistan,England,bat,England,1194,29,1921,320.17
+913645,2016-08-03,Edgbaston,Birmingham,Test,England,Pakistan,Pakistan,field,England,1343,36,2548,424.67
+913647,2016-08-11,Kennington Oval,London,Test,England,Pakistan,England,bat,Pakistan,1165,30,1912,318.67
+914203,2015-12-10,University Oval,Dunedin,Test,New Zealand,Sri Lanka,Sri Lanka,field,New Zealand,1274,33,2258,376.33
+914205,2015-12-18,Seddon Park,Hamilton,Test,New Zealand,Sri Lanka,New Zealand,field,New Zealand,851,35,1531,255.17
+914237,2016-02-12,Basin Reserve,Wellington,Test,New Zealand,Australia,Australia,field,Australia,1072,30,1855,309.17
+914239,2016-02-20,Hagley Oval,Christchurch,Test,New Zealand,Australia,Australia,field,Australia,1411,33,2310,385.0
+915773,2015-10-14,Galle International Stadium,,Test,Sri Lanka,West Indies,Sri Lanka,bat,Sri Lanka,962,30,1838,306.33
+915775,2015-10-22,P Sara Oval,Colombo,Test,Sri Lanka,West Indies,Sri Lanka,bat,Sri Lanka,740,40,1635,272.5
+936127,2016-08-19,Kingsmead,Durban,Test,South Africa,New Zealand,South Africa,bat,,278,12,598,99.67
+936129,2016-08-27,SuperSport Park,Centurion,Test,South Africa,New Zealand,New Zealand,field,South Africa,1022,35,1916,319.33
+936147,2016-12-26,St George's Park,Port Elizabeth,Test,South Africa,Sri Lanka,South Africa,bat,South Africa,1178,36,2129,354.83
+936149,2017-01-02,Newlands,Cape Town,Test,South Africa,Sri Lanka,Sri Lanka,field,South Africa,950,37,1649,274.83
+936151,2017-01-12,New Wanderers Stadium,Johannesburg,Test,South Africa,Sri Lanka,South Africa,bat,South Africa,734,30,1281,213.5
+995451,2016-07-26,Pallekele International Cricket Stadium,,Test,Sri Lanka,Australia,Sri Lanka,bat,Sri Lanka,834,40,1775,295.83
+995453,2016-08-04,Galle International Stadium,,Test,Sri Lanka,Australia,Sri Lanka,bat,Sri Lanka,807,40,1298,216.33
+995455,2016-08-13,Sinhalese Sports Club Ground,Colombo,Test,Sri Lanka,Australia,Sri Lanka,bat,Sri Lanka,1241,38,2463,410.5
