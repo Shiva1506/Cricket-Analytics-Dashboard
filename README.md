@@ -94,7 +94,7 @@ The dashboard will open in your default web browser at http://localhost:8501
 cricket-analyticss-dashboard/
 │
 ├── app.py                          # Main Streamlit application
-├── requirements.txt                # Python dependencies
+├── requirements.txt                # Python dependencies 
 ├── README.md                       # Project documentation
 │
 ├── data/                          # Data directory (optional)
